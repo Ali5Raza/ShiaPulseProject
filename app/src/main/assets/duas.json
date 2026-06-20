@@ -1,0 +1,1072 @@
+[
+  {
+    "id": "kumayl",
+    "title": "Dua Kumayl",
+    "category": "Weekly Supplications",
+    "description": "Taught by Imam Ali (a.s.) to Kumayl bin Ziyad. Recited on Thursday nights for forgiveness, spiritual elevation, and divine sustenance.",
+    "relevance": "Recited on Thursday nights for seeking forgiveness & mercy.",
+    "audioUrl": "",
+    "lines": [
+      {
+        "arabic": "بِسْمِ اللَّهِ الرَّحْمٰنِ الرَّحِيمِ",
+        "translation": "In the name of Allah, the Beneficent, the Merciful.",
+        "transliteration": "Bismillahir-rahmanir-rahim",
+        "urduTranslation": "شروع کرتا ہوں اللہ کے نام سے جو بڑا مہربان اور نہایت رحم کرنے والا ہے۔"
+      },
+      {
+        "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ بِرَحْمَتِكَ الَّتِي وَسِعَتْ كُلَّ شَيْءٍ",
+        "translation": "O Allah, I ask You by Your mercy which embraces all things,",
+        "transliteration": "Allahumma inni as'aluka bi-rahmatika al-lati wasi'at kulla shay'",
+        "urduTranslation": "اے اللہ! میں تجھ سے سوال کرتا ہوں تیری اس رحمت کے واسطے سے جو ہر چیز پر سایہ فگن ہے،"
+      },
+      {
+        "arabic": "وَبِقُوَّتِكَ الَّتِي قَهَرْتَ بِهَا كُلَّ شَيْءٍ",
+        "translation": "And by Your strength with which You conquer all things,",
+        "transliteration": "Wa bi-quwwatika al-lati qaharta biha kulla shay'",
+        "urduTranslation": "اور تیری اس قوت کے واسطے سے جس سے تو نے ہر چیز کو مغلوب کیا،"
+      },
+      {
+        "arabic": "وَخَضَعَ لَهَا كُلُّ شَيْءٍ وَذَلَّ لَهَا كُلُّ شَيْءٍ",
+        "translation": "And toward which all things submit and all things are humbled,",
+        "transliteration": "Wa khada'a laha kullu shay'in wa dhalla laha kullu shay'",
+        "urduTranslation": "جس کے آگے ہر چیز سرنگوں ہوئی اور ہر چیز خوار و چارہ بن کے رہ گئی،"
+      },
+      {
+        "arabic": "وَبِجَبَرُوتِكَ الَّتِي غَلَبْتَ بِهَا كُلَّ شَيْءٍ",
+        "translation": "And by Your majesty with which You prevail over all things,",
+        "transliteration": "Wa bi-jabarutika al-lati ghalabta biha kulla shay'",
+        "urduTranslation": "اور تیرے اس جبروت کے واسطے جس سے تو ہر چیز پر غالب آیا،"
+      },
+      {
+        "arabic": "وَبِعِزَّتِكَ الَّتِي لَا يَقُومُ لَهَا شَيْءٌ",
+        "translation": "And by Your glory which nothing can stand against,",
+        "transliteration": "Wa bi-'izzatika al-lati la yaqumu laha shay'",
+        "urduTranslation": "اور تیری اس عزت کے واسطے جس کے سامنے کوئی چیز کھڑی نہیں رہ سکتی،"
+      },
+      {
+        "arabic": "وَبِعَظَمَتِكَ الَّتِي مَلَّأَتْ كُلَّ شَيْءٍ",
+        "translation": "And by Your greatness which has filled all things,",
+        "transliteration": "Wa bi-'azamatika al-lati mala'at kulla shay'",
+        "urduTranslation": "اور تیری اس عظمت کے واسطے جس نے ہر چیز کو پر کر دیا،"
+      },
+      {
+        "arabic": "وَبِسُلْطَانِكَ الَّذِي عَلَا كُلَّ شَيْءٍ",
+        "translation": "And by Your sovereignty which transcends all things,",
+        "transliteration": "Wa bi-sultanika al-lodhi 'ala kulla shay'",
+        "urduTranslation": "اور تیری اس سلطنت کے واسطے جو ہر چیز سے بالاتر ہے،"
+      },
+      {
+        "arabic": "وَبِوَجْهِكَ الْبَاقِي بَعْدَ فَنَاءِ كُلِّ شَيْءٍ",
+        "translation": "And by Your Face which remains after the obsolescence of all things,",
+        "transliteration": "Wa bi-wajhika al-baqi ba'da fana'i kulli shay'",
+        "urduTranslation": "اور تیری اس ذات (وجہ) کے واسطے جو ہر چیز کے فنا ہونے کے بعد بھی باقی رہنے والی ہے،"
+      },
+      {
+        "arabic": "وَبِأَسْمَائِكَ الَّتِي مَلَّأَتْ أَرْكَانَ كُلِّ شَيْءٍ",
+        "translation": "And by Your names which have filled the foundations of all things,",
+        "transliteration": "Wa bi-asma'ika al-lati mala'at arkana kulli shay'",
+        "urduTranslation": "اور تیرے ان اسماء کے واسطے جن سے ہر چیز کے ارکان بھرے پڑے ہیں،"
+      },
+      {
+        "arabic": "وَبِعِلْمِكَ الَّذِي أَحَاطَ بِكُلِّ شَيْءٍ",
+        "translation": "And by Your knowledge which encompasses all things,",
+        "transliteration": "Wa bi-'ilmika al-lodhi ahata bi-kulli shay'",
+        "urduTranslation": "اور تیرے اس علم کے واسطے جس نے ہر چیز کا احاطہ کر رکھا ہے،"
+      },
+      {
+        "arabic": "وَبِنُورِ وَجْهِكَ الَّذِي أَضَاءَ لَهُ كُلَّ شَيْءٍ",
+        "translation": "And by the light of Your face through which all things are illumined,",
+        "transliteration": "Wa bi-nuri wajhika al-lodhi adaa'a lahu kullu shay'",
+        "urduTranslation": "اور تیری ذات کے اس نور کے واسطے جس سے ہر چیز روشن و چمکدار بن گئی ہے،"
+      },
+      {
+        "arabic": "يَا نُورُ يَا قُدُّوسُ",
+        "translation": "O Light! O All-Holy!",
+        "transliteration": "Ya Nuru ya Quddus",
+        "urduTranslation": "اے سرتاسر نور! اے ہر عیب سے مبرا و پاکیزہ ہستی!"
+      },
+      {
+        "arabic": "يَا أَوَّلَ الْأَوَّلِينَ وَيَا آخِرَ الْآخِرِينَ",
+        "translation": "O First of the first and O Last of the last!",
+        "transliteration": "Ya awwala al-awwalina wa ya akhira al-akhirin",
+        "urduTranslation": "اے اگلوں میں سب سے پہلے! اور اے پچھلوں میں سب سے آخر!"
+      },
+      {
+        "arabic": "اللَّهُمَّ اغْفِرْ لِيَ الذُّنُوبَ الَّتِي تَهْتِكُ الْعِصَمَ",
+        "translation": "O Allah, forgive me those sins which tear apart safeguards,",
+        "transliteration": "Allahumma aghfir liya adh-dhunub al-lati tahtiku al-'isam",
+        "urduTranslation": "اے اللہ! میرے ان گناہوں کو معاف کر دے جو عصمت کے پردوں کو چاک کر دیتے ہیں،"
+      },
+      {
+        "arabic": "اللَّهُمَّ اغْفِرْ لِيَ الذُّنُوبَ الَّتِي تُنْزِلُ النِّقَمَ",
+        "translation": "O Allah, forgive me those sins which bring down adversities,",
+        "transliteration": "Allahumma aghfir liya adh-dhunub al-lati tunzilu an-niqam",
+        "urduTranslation": "اے اللہ! میرے ان گناہوں کو معاف کر دے جو عذاب نازل کرتے ہیں،"
+      },
+      {
+        "arabic": "اللَّهُمَّ اغْفِرْ لِيَ الذُّنُوبَ الَّتِي تُغَيِّرُ النِّعَمَ",
+        "translation": "O Allah, forgive me those sins which alter blessings,",
+        "transliteration": "Allahumma aghfir liya adh-dhunub al-lati tughayyiru an-ni'am",
+        "urduTranslation": "اے اللہ! میرے ان گناہوں کو معاف کر دے جو نعمتوں کو بدل کر زوال کا باعث بنتے ہیں،"
+      },
+      {
+        "arabic": "اللَّهُمَّ اغْفِرْ لِيَ الذُّنُوبَ الَّتِي تَحْبِسُ الدُّعَاءَ",
+        "translation": "O Allah, forgive me those sins which hold back supplication,",
+        "transliteration": "Allahumma aghfir liya adh-dhunub al-lati tahbisu ad-du'a'",
+        "urduTranslation": "اے اللہ! میرے ان گناہوں کو معاف کر دے جو دعاؤں کو قبول ہونے سے روک دیتے ہیں،"
+      },
+      {
+        "arabic": "اللَّهُمَّ اغْفِرْ لِيَ الذُّنُوبَ الَّتِي تُنْزِلُ الْبَلَاءَ",
+        "translation": "O Allah, forgive me those sins which bring down tribulations,",
+        "transliteration": "Allahumma aghfir liya adh-dhunub al-lati tunzilu al-bala'",
+        "urduTranslation": "اے اللہ! میرے ان گناہوں کو معاف کر دے جو آفتوں و بلاؤں کو نازل کرتے ہیں،"
+      },
+      {
+        "arabic": "اللَّهُمَّ اغْفِرْ لِي كُلَّ ذَنْبٍ أَذْنَبْتُهُ، وَكُلَّ خَطِيئَةٍ أَخْطَأْتُهَا",
+        "translation": "O Allah, forgive me every sin I have committed and every mistake I have made,",
+        "transliteration": "Allahumma aghfir liya kulla dhanbin adhnabtuhu wa kulla khatiy'atin akhta'tuha",
+        "urduTranslation": "اے اللہ! میرا ہر وہ گناہ معاف فرما جو میں نے کیا ہے، اور ہر وہ خطا جو مجھ سے سرزد ہوئی ہے،"
+      },
+      {
+        "arabic": "اللَّهُمَّ إِنِّي أَتَقَرَّبُ إِلَيْكَ بِذِكْرِكَ، وَأَسْتَشْفِعُ بِكَ إِلَىٰ نَفْسِكَ",
+        "translation": "O Allah, I seek proximity to You through Your remembrance, and seek intercession with You through Yourself,",
+        "transliteration": "Allahumma inni ataqarrabu ilayka bi-dhikrika wa astashfi'u bika ila nafsik",
+        "urduTranslation": "اے اللہ! میں تیرے ذکر کے ذریعے تیرا قرب حاصل کرنا چاہتا ہوں اور خود تجھی کو تیرے حضور شفیع بناتا ہوں،"
+      },
+      {
+        "arabic": "وَأَسْأَلُكَ بِجُودِكَ أَنْ تُدْنِيَنِي مِنْ قُرْبِكَ، وَأَنْ تُوزِعَنِي شُكْرَكَ، وَأَنْ تُلْهِمَنِي ذِكْرَكَ",
+        "translation": "And ask You by Your generosity to bring me near to Your proximity, and to inspire me with gratitude to You, and to inspire me with Your remembrance,",
+        "transliteration": "Wa as'aluka bi-judika an tudniyani min qurbik wa an tuzi'ani shukrak wa an tulhimani dhikrak",
+        "urduTranslation": "اور تجھ سے تیری سخاوت کے واسطے سوال کرتا ہوں کہ مجھے اپنے نزدیک کر لے اور اپنا شکر بجا لانے کی توفیق دے اور اپنا ذکر الہام فرما،"
+      },
+      {
+        "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ سُؤَالَ خَاضِعٍ مُتَذَلِّلٍ خَاشِعٍ أَنْ تُسَامِحَنِي وَتَرْحَمَنِي، وَتَجْعَلَنِي بِقِسْمِكَ رَاضِيًا قَانِعًا، وَفِي جَمِيعِ الْأَحْوَالِ مُتَوَاضِعًا",
+        "translation": "O Allah, I ask You with the asking of a submissive, humble and lowly helper to show me leniency, have mercy on me, and make me satisfied and content with Your apportionment, and modest in every situation,",
+        "transliteration": "Allahumma inni as'aluka su'ala khadi'in mutadhallilin khashi'in an tusamihani wa tarhamani wa taj'alani bi-qismika radiyan qani'an wa fi jami'i al-ahwali mutawadi'a",
+        "urduTranslation": "اے اللہ! میں تجھ سے ایک عاجز، خوار اور خاکسار بندے کی طرح مِنت کرتا ہوں کہ مجھ سے درگزر فرما اور مجھ پر رحم کر، اور مجھے اپنی دی ہوئی تقدیر پر راضی و قانع رہنے والا بنا اور ہر حال میں عاجزی اختیار کرنے کی توفیق دے،"
+      },
+      {
+        "arabic": "اللَّهُمَّ وَأَسْأَلُكَ سُؤَالَ مَنِ اشْتَدَّتْ فَاقَتُهُ، وَأَنْزَلَ بِكَ عِنْدَ الشَّدَائِدِ حَاجَتَهُ، وَعَظُمَ فِيمَا عِنْدَكَ رَغْبَتُهُ",
+        "translation": "O Allah, and I ask You with the asking of one whose distress has become extreme, who has placed his need with You in difficulties, and whose desire for what is with You has become great,",
+        "transliteration": "Allahumma wa as'aluka su'ala man ishtaddat faqatuhu wa anzala bika 'inda ash-shada'idi hajatahu wa 'adhuma fima 'indaka raghbatuh",
+        "urduTranslation": "اے اللہ! میں تجھ سے سوال کرتا ہوں اس شخص کی مانند جس پر مصیبت اور فقر حد سے زیادہ بڑھ چکا ہو اور سختیوں کے وقت جس نے اپنی حاجتیں تیرے در پہ پیش کی ہوں اور جس کی رغبت تیرے خزانے کی طرف بہت بڑی ہو،"
+      },
+      {
+        "arabic": "اللَّهُمَّ عَظُمَ سُلْطَانُكَ وَعَلَا مَكَانُكَ، وَخَفِيَ مَكْرُوكَ وَظَهَرَ أَمْرُكَ، وَغَلَبَ قَهْرُكَ وَجَرَتْ قُدْرَتُكَ، وَلَا يُمْكِنُ الْفِرَارُ مِنْ حُكُومَتِكَ",
+        "translation": "O Allah, great is Your sovereignty, elevated is Your place, Your plan is hidden, Your command is manifest, Your conquering is predominant, Your power is current, and it is impossible to escape from Your domain!",
+        "transliteration": "Allahumma 'adhuma sultanuka wa 'ala makanuka wa khafiya makruka wa dhahara amruka wa ghalaba qahruka wa jarat qudratuka wa la yumkinu al-firaru min hukumatik",
+        "urduTranslation": "اے اللہ! تیری سلطنت عظیم ہے اور تیرا مقام بلند ہے، تیری تدبیر پوشیدہ ہے اور تیرا حکم آشکار، تیرا قہر غالب اور تیری قدرت ہر جگہ جاری ہے، اور تیری حکومت کی حدود سے بھاگنا ممکن ہی نہیں!"
+      },
+      {
+        "arabic": "اللَّهُمَّ لَا أَجِدُ لِذُنُوبِي غَافِرًا، وَلَا لِقَبَائِحِي سَاتِرًا، وَلَا لِشَيْءٍ مِنْ عَمَلِيَ الْقَبِيحِ بِالْحَسَنِ مُبَدِّلًا غَيْرَكَ، لَا إِلَّاهَ إِلَّا أَنْتَ سُبْحَانَكَ وَبِحَمْدِكَ، ظَلَمْتُ نَفْسِي، وَتَجَرَّأْتُ بِجَهْلِي، وَسَكَنْتُ إِلَىٰ قَدِيمِ ذِكْرِكَ لِي وَمَنِّكَ عَلَيَّ",
+        "translation": "O Allah, I find no forgiver for my sins, nor any concealer for my ugly deeds, nor anyone to change any of my ugly deeds into good deeds except You. There is no God but You! Glory be to You, and Yours is the praise! I have wronged myself, and I have been audacious through my ignorance, and I have relied upon Your ancient remembrance of me and Your kindness toward me.",
+        "transliteration": "Allahumma la ajidu li-dhunubi ghafiran wa la li-qaba'ihi satiran wa la li-shay'in min 'amaliya al-qabihi bil-hasani mubaddilan ghayrak la ilaha illa anta subhanaka wa bi-hamdika dhalamtu nafsi wa tajarra'tu bi-jahli wa sakantu ila qadimi dhikrika li wa mannika 'alay",
+        "urduTranslation": "اے اللہ! میں تیرے سوا اپنے گناہوں کو بخشنے والا، اپنی برائیوں پر پردہ ڈالنے والا، اور میرے برے کاموں کو نیکیوں میں بدل دینے والا کسی کو نہیں پاتا۔ تیرے سوا کوئی معبود نہیں، تو پاک ہے اور حمد تیرے ہی لائق ہے، میں نے اپنے نفس پر ظلم کیا اور اپنی نادانی کی وجہ سے جرات کی، اور میں تیرے پرانے تذکرے اور مجھ پر تیرے احسان کے بھروسے آرام سے بیٹھ رہا۔"
+      },
+      {
+        "arabic": "اللَّهُمَّ مَوْلَايَ كَمْ مِنْ قَبِيحٍ سَتَرْتَهُ، وَكَمْ مِنْ فَدِحٍ مِنَ الْبَلَاءِ أَقَلْتَهُ، وَكَمْ مِنْ عِثَارٍ وَقَيْتَهُ، وَكَمْ مِنْ مَكْرُوهٍ دَفَعْتَهُ، وَكَمْ مِنْ ثَنَاءٍ جَمِيلٍ لَسْتَ أَهْلًا لَهُ نَشَرْتَهُ",
+        "translation": "O Allah, my Protector! How many ugly deeds of mine You have concealed! And how many burdensome tribulations You have reduced! And how many slips You have prevented! And how many unpleasant things You have repelled! And how many beautiful praises of which I was not worthy You have spread!",
+        "transliteration": "Allahumma mawlaya kam min qabihin satartahu wa kam min fadihin min al-bala'i aqaltahu wa kam min 'itharin waqaytahu wa kam min makruhin dafa'tahu wa kam min thana'in jamilin lastu ahlan lahu nashartah",
+        "urduTranslation": "اے میرے اللہ، اے میرے مولا! تو نے کتنے ہی میرے عیبوں پر پردہ ڈالا، اور سخت بلاؤں کو دور فرما دیا، اور کتنی ہی لغزشوں سے مجھے محفوظ رکھا، اور کتنی ہی ناگوار باتوں کا منہ موڑ دیا، اور کتنی ہی اچھی تعریفیں جن کا میں اہل نہیں تھا میرے بارے میں پھیلا دیں!"
+      },
+      {
+        "arabic": "اللَّهُمَّ عَظُمَ بَلَائِي، وَأَفْرَطَ بِي سُوءُ حَالِي، وَقَصُرَتْ بِي أَعْمَالِي، وَقَعَدَتْ بِي أَغْلَالِي، وَحَبَسَنِي عَنْ نَفْعِي بُعْدُ أَمَلِي، وَخَدَعَتْنِي الدُّنْيَا بِغُرُورِهَا، وَنَفْسِي بِخِيَانَتِهَا وَمِطَالِي",
+        "translation": "O Allah, great has been my tribulation, my bad state has exceeded limits, and my deeds have fallen short, my chains have held me down, and my far-reaching hopes have barred me from my benefit, and this world has deceived me with its delusions, and my soul by its treachery and my procrastination,",
+        "transliteration": "Allahumma 'adhuma bala'i wa afrata bi su'u hali wa qasurat bi a'mali wa qa'adat bi aghlali wa habasani 'an naf'i bu'du amali wa khada'atni ad-dunya bi-ghururiha wa nafsi bi-khiyanatiha wa mitali",
+        "urduTranslation": "اے اللہ! میری مصیبت بہت بڑی ہو گئی ہے اور میری بری حالت حد سے تجاوز کر گئی ہے، اور میرے نیک اعمال انتہائی کم رہ گئے ہیں، اور گناہوں کی زنجیروں نے مجھے جکڑ لیا ہے، اور دور دراز کی امیدوں نے مجھے فائدے سے محروم کر دیا ہے، اور دنیا نے اپنے باطل فریب سے اور میرے ہی نفس نے اپنی غداری اور ٹال مٹول کی وجہ سے مجھے دھوکہ دیا ہے،"
+      },
+      {
+        "arabic": "يَا سَيِّدِي فَأَسْأَلُكَ بِعِزَّتِكَ أَنْ لَا يَحْجُبَ عَنْكَ دُعَائِي سُوءُ عَمَلِي وَفِعَالِي، وَلَا تَفْضَحْنِي بِخَفِيِّ مَا اطَّلَعْتَ عَلَيْهِ مِنْ سِرِّي، وَلَا تُعَاجِلْنِي بِالْعُقُوبَةِ عَلَىٰ مَا عَمِلْتُهُ فِي خَلَوَاتِي مِنْ سُوءِ فِعْلِي وَإِسَاءَتِي، وَدَوَامِ تَفْرِيطِي وَجَهَالَتِي، وَكَثْرَةِ شَهَوَاتِي وَغَفْلَتِي",
+        "translation": "O my Master! So I ask You by Your glory that my bad deeds and actions do not screen my supplications from You! And do not disgrace me through what You know of my hidden secrets, and do not hasten the punishment upon me for what I have done in private, from my bad deeds, my wrongdoing, my continuous negligence, my ignorance, my multiple desires, and my heedlessness!",
+        "transliteration": "Ya sayyidi fa-as'aluka bi-'izzatika an la yahjuba 'anka du'a'i su'u 'amali wa fi'ali wa la tafdahni bi-khafiyyi ma ittala'ta 'alayhi min sirri wa la tu'ajilni bil-'uqubati 'ala ma 'amiltuhu fi khalawati min su'i fi'li wa isa'ati wa dawami tafriti wa ghaflati",
+        "urduTranslation": "اے میرے آقا! پس میں تیری عزت کا واسطہ دے کر تجھ سے التجا کرتا ہوں کہ میری بدعملی اور برے کرتوت میری دعا کو تجھ تک پہنچنے سے نہ روکیں، اور تو مجھے میرے ان پوشیدہ بھیدوں کی وجہ سے رسوا نہ کر جن سے تو واقف ہے، اور تنہائیوں میں کیے گئے برے کاموں، خطاؤں، مسلسل کوتاہی، جہالت، کثرتِ خواہشات اور غفلت کی سزا دینے میں جلدی نہ فرما!"
+      },
+      {
+        "arabic": "وَكُنِ اللَّهُمَّ بِعِزَّتِكَ لِي فِي كُلِّ الْأَحْوَالِ رَءُوفًا، وَعَلَيَّ فِي جَمِيعِ الْأُمُورِ عَطُوفًا",
+        "translation": "And be, O Allah, by Your glory, graceful to me in all situations, and affectionate to me in all affairs!",
+        "transliteration": "Wa kun Allahumma bi-'izzatika li fi kulli al-ahwali ra'ufan wa 'alayya fi jami'i al-umuri 'atufa",
+        "urduTranslation": "اے میرے پروردگار! تو اپنی عزت کے صدقے ہر حال میں مجھ پر مہربان رہ، اور تمام معاملات میں مجھ پر ہمیشہ شفقت فرما۔"
+      },
+      {
+        "arabic": "إِلَٰهِي وَرَبِّي مَنْ لِي غَيْرُكَ أَسْأَلُهُ كَشْفَ ضُرِّي وَالنَّظَرَ فِي أَمْرِي",
+        "translation": "My God and my Lord! Whom do I have besides You to ask for the removal of my adversity and to look into my affairs?",
+        "transliteration": "Ilahi wa rabbi man li ghayruka as'aluhu kashfa durri wan-nadhara fi amri",
+        "urduTranslation": "میرے معبود، میرے پروردگار! تیرے سوا میرا کون ہے جس سے میں اپنی تکلیف دور کرنے اور اپنے احوال پر نظرِ کرم فرمانے کی التجا کروں؟"
+      },
+      {
+        "arabic": "إِلَٰهِي وَمَوْلَايَ أَجْرَيْتَ عَلَيَّ حُكْمًا اتَّبَعْتُ فِيهِ هَوَىٰ نَفْسِي، وَلَمْ أَحْتَرِسْ فِيهِ مِنْ تَزْيِينِ عَدُوِّي، فَغَرَّني بِمَا أَهْوَىٰ وَأَسْعَدَهُ عَلَىٰ ذَٰلِكَ الْقَضَاءُ",
+        "translation": "My God and My Protector! You placed a command upon me in which I followed my own desires, and did not guard myself against the embellishment of my enemy, so he deceived me through my desires, and destiny assisted him in that,",
+        "transliteration": "Ilahi wa_mawlaya ajrayta 'alayya hukman ittaba'tu fihi hawa nafsi wa lam ahtaris fihi min tazyini 'aduwwi fa-gharrani bima ahwa wa as'adahu 'ala dhalika al-qada'",
+        "urduTranslation": "میرے معبود اور میرے مولا! تو نے مجھ پر ایسا حکم نافذ کیا جس میں میں نے اپنے نفس کی خواہش کی پیروی کی اور اپنے دشمن (شیطان) کی فریب کاریوں سے بچاؤ نہ کیا، پس اس نے مجھے میری خواہش کی چیزوں سے دھوکہ دیا اور اس معاملے میں تقدیر نے بھی اس کا ساتھ دیا،"
+      },
+      {
+        "arabic": "فَتَجَاوَزْتُ بِمَا جَرَىٰ عَلَيَّ مِنْ ذَٰلِكَ بَعْضَ حُدُودِكَ، وَخَالَفْتُ بَعْضَ أَوَامِرِكَ، فَلَكَ الْحَمْدُ عَلَيَّ فِي جَمِيعِ ذَٰلِكَ، وَلَا حُجَّةَ لِي فِيمَا جَرَىٰ عَلَيَّ فِيهِ قَضَاؤُكَ وَأَلْزَمَنِي حُكْمُكَ وَبَلَاؤُكَ",
+        "translation": "So in what ran over me from that, I transgressed some of Your limits, and disobeyed some of Your commands, so Yours is the praise against me in all of that! And I have no argument in what Your decree ran over me, and Your judgement and trial made mandatory upon me!",
+        "transliteration": "Fa-tajawaztu bima jara 'alayya min dhalika ba'da hududika wa khalaftu ba'da awamirika fa-lakal-hamdu 'alayya fi jami'i dhalika wa la hujjata li fima jara 'alayya fihi qada'uka wa alzamani hukmuka wa bala'uk",
+        "urduTranslation": "پھر تو میں نے اس معاملے میں تیری کچھ حدوں کو پار کر ڈالا اور تیرے کچھ احکام کی مخالفت کی، پس ان تمام باتوں میں مجھ پر تیری حجت قائم ہے، اور میرے پاس اس فیصلے کے خلاف کوئی دلیل نہیں جو تو نے مجھ پر جاری کیا اور جس آزمائش و حکم میں تو نے مجھے جکڑ دیا!"
+  },
+  {
+        "arabic": "وَقَدْ أَتَيْتُكَ يَا إِلَٰهِي بَعْدَ تَقْصِيرِي وَإِسْرَافِي عَلَىٰ نَفْسِي، مُعْتَذِرًا نَادِمًا مُنَكَسِرًا مُسْتَقِيلًا مُسْتَغْفِرًا مُنِيبًا مُقِرًّا مُذْعِنًا مُعْتَرِفًا",
+        "translation": "And I have come to You, my God, after my shortcoming and my immoderation against myself, apologising, regretful, broken-hearted, seeking release, asking forgiveness, turning back, confessing, submissive and acknowledging,",
+        "transliteration": "Wa qad ataytuka ya ilahi ba'da taqsiri wa israfi 'ala nafsi mu'tadhiran nadiman munkasiran mustaqilan mustaghfiran muniban muqirran mudh'inan mu'tarifa",
+        "urduTranslation": "اور اب میں تیرے حضور حاضر ہوا ہوں اے میرے معبود! اپنی کوتاہی اور اپنے نفس پر زیادتی کرنے کے بعد، تجھ سے معافی مانگتا ہوا، شرمندہ، ٹوٹے ہوئے دل کے ساتھ, درگزر کا طلبگار، مغفرت چاہتا ہوا، توبہ کرتا ہوا، اپنے گناہوں کا اقرار اور اعتراف کرتا ہوا،"
+      },
+      {
+        "arabic": "لَا أَجِدُ مَفَرًّا مِمَّا كَانَ مِنِّي، وَلَا مَفْزَعًا أَتَوَجَّهُ إِلَيْهِ فِي أَمْرِي غَيْرَ قَبُولِكَ عُذْرِي، وَإِدْخَالِكَ إِيَّايَ فِي سَعَةِ رَحْمَتِكَ",
+        "translation": "I find no place of escape from what occurred from me, nor any refuge to which I can turn in my affairs, except Your acceptance of my excuse and Your admitting me into the expanse of Your mercy!",
+        "transliteration": "La ajidu mafarran mimma kana minni wa la mafza'an atawajjahu ilayhi fi amri ghayra qabulika 'udhri wa idkhalika iyyaya fi sa'ati rahmatik",
+        "urduTranslation": "اپنے ان گناہوں سے بھاگنے کی کوئی جگہ نہیں پاتا، اور نہ ہی اپنی حاجت کے لیے کوئی اور پناہ گاہ پاتا ہوں سوائے اس کے کہ تو میرا عذر قبول فرما لے اور مجھے اپنی وسیع رحمت کے سائے میں داخل کر لے!"
+      },
+      {
+        "arabic": "اللَّهُمَّ فَاقْبَلْ عُذْرِي، وَارْحَمْ شِدَّةَ ضُرِّي، وَفُكَّني مِنْ شَدِّ وَثَاقِي، يَا رَبِّ ارْحَمْ ضَعْفَ بَدَنِي، وَرِقَّةَ جِلْدِي، وَدِقَّةَ عَظْمِي",
+        "translation": "O Allah! So accept my excuse, and have mercy on my extreme distress, and release me from my tight chains! O Lord! Have mercy on the weakness of my body, the thinness of my skin, and the fragility of my bones!",
+        "transliteration": "Allahumma fa-qbal 'udhri war-ham shiddata durri wa fukkani min shaddi wathaqi ya rabbi irham da'fa badani wa riqqata jildi wa diqqata 'adhmi",
+        "urduTranslation": "اے اللہ! پس میرا عذر قبول فرما اور میری سخت بے بسی پر رحم کر، اور مجھے گناہوں کے ان مضبوط پھندوں سے چھڑا دے، اے پروردگار! میرے کمزور بدن پر، میری نازک جلد پر اور میری باریک و نازک ہڈیوں پر رحم فرما!"
+      },
+      {
+        "arabic": "يَا مَنْ بَدَأَ خَلْقِي وَذِكْرِي وَتَرْبِيَتِي وَبِرِّي وَتَغْذِيَتِي، هَبْنِي لِابْتِدَاءِ كَرَمِكَ وَسَالِفِ بِرِّكَ بِي",
+        "translation": "O He who began my creation, my remembrance, my upbringing, my goodness toward me, and my nourishment! Pardon me for the sake of Your initial generosity and Your past goodness toward me!",
+        "transliteration": "Ya man bada'a khalqi wa dhikri wa tarbiyati wa birri wa taghdhiyati habni li-btida'i karamika wa salifi birrika bi",
+        "urduTranslation": "اے وہ جس نے میری تخلیق، میرے تذکرے، میری پرورش، مجھ پر نیکی اور میری غذائیں دینے کا آغاز کیا، مجھے بخش دے اپنی پہلی سخاوت اور مجھ پر کیے گئے گزشتہ احسانات کے صدقے!"
+      },
+      {
+        "arabic": "يَا إِلَٰهِي وَسَيِّدِي وَرَبِّي، أَتُرَاكَ مُعَذِّبِي بِنَارِكَ بَعْدَ تَوْحِيدِكَ؟ وَبَعْدَ مَا انْطَوَىٰ عَلَيْهِ قَلْبِي مِنْ مَعْرِفَتِكَ؟ وَلَهِجَ بِهِ لِسَانِي مِنْ ذِكْرِكَ؟ وَاعْتَقَدَهُ ضَمِيرِي مِنْ حُبِّكَ؟ وَبَعْدَ صِدْقِ اعْتِرَافِي وَدُعَائِي خَاضِعًا لِرُبُوبِيَّتكَ؟",
+        "translation": "O my God, my Master, and my Lord! Would You see Yourself punishing me with Your fire after I have confessed Your unity? And after my heart has embraced Your knowledge? And my tongue has repeatedly spoken Your remembrance? And my conscience has believed in Your love? And after my sincere confession and my supplication submissive to Your divinity?",
+        "transliteration": "Ya ilahi wa sayyidi wa rabbi aturaka mu'adhhibi bi-narika ba'da tawhidik? Wa ba'da ma-ntawa 'alayhi qalbi min ma'rifatik wa lahija bihi lisani min dhikrik wa'taqadahu damiri min hubbik wa ba'da sidqi i'tirafi wa du'a'i khadi'an li-rububiyyatik?",
+        "urduTranslation": "اے میرے معبود، میرے آقا اور میرے پالنے والے! کیا تو مجھے اپنی آگ کا عذاب دے گا جبکہ میں تیری یکتائی کا اقرار کر چکا ہوں؟ اور میرا دل تیرے سچے معرفت کے نور سے بھرا ہوا ہے؟ اور میری زبان پر تیرا ذکر رہتا ہے؟ اور میرا ضمیر تیری محبت کا دم بھرتا ہے؟ اور تیرے رب ہونے کے آگے عاجزی کے ساتھ سچے دل سے اعتراف و التجا کر چکا ہوں؟"
+      },
+      {
+        "arabic": "هَيْهَاتَ! أَنْتَ أَكْرَمُ مِنْ أَنْ تُضَيِّعَ مَنْ رَبَّيْتَهُ، أَوْ تُشَرِّدَ مَنْ آوَيْتَهُ، أَوْ تُسَلِّمَ إِلَى الْبَلَاءِ مَنْ كَفَيْتَهُ وَرَحِمْتَهُ",
+        "translation": "Far be it! You are too generous to ruin one whom You have brought up! Or to cast off one whom You have sheltered! Or to deliver to trial one whom You have spared and shown mercy!",
+        "transliteration": "Hayhat! Anta akramu min an tudayyi'a man rabbaytahu aw tusharrida man awaytahu aw tusallima ila al-bala'i man kafaytahu wa rahimtah",
+        "urduTranslation": "نہیں، یہ تجھ سے ہرگز بعید ہے! تو اس سے کہیں زیادہ کریم ہے کہ تو اسے برباد کرے جس کو تو نے خود پالا ہے، یا اسے دور دھتکارے جسے تو نے خود پناہ دی ہے، یا اس شخص کو مصیبت کے حوالے کرے جس کی تو نے خود کفالت کی اور جس پر رحم کیا!"
+      },
+      {
+        "arabic": "وَلَيْتَ شِعْرِي يَا سَيِّدِي وَإِلَٰهِي وَمَوْلَايَ، أَتُسَلِّطُ النَّارَ عَلَىٰ وُجُوهٍ خَرَّتْ لِعَظَمَتِكَ سَاجِدَةً، وَعَلَىٰ أَلْسُنٍ نَطَقَتْ بِتَوْحِيدِكَ صَادِقَةً وَبِشُكْرِكَ مَادِحَةً، وَعَلَىٰ قُلُوبٍ اعْتَرَفَتْ بِإِلَهِيَّتِكَ مُحَقِّقَةً، وَعَلَىٰ ضَمَائِرَ حَوَتْ مِنَ الْعِلْمِ بِكَ حَتَّىٰ صَارَتْ خَاشِعَةً، وَعَلَىٰ جَوَارِحَ سَعَتْ إِلَىٰ أَوْطَانِ تَعَبُّدِكَ طَائِعَةً وَأَشَارَتْ بِاسْتِغْفَارِكَ مُذْعِنَةً؟",
+        "translation": "Would that I knew, O my Master, my God and my Protector! Whether You will let the fire dominate over faces that have fallen prostrate in adoration of Your greatness! And over tongues that have spoken Your unity sincerely and praised You in gratitude! And over hearts that have acknowledged Your divinity after verification! And over minds that have contained knowledge of You until they became humble! And over limbs that have hastened obediently to the places of Your worship and gestured submissively in seeking Your forgiveness?",
+        "transliteration": "Wa layta shi'ri ya sayyidi wa ilahi wa mawlaya atusallitu an-nara 'ala wujuhin kharrat li-'adhamatika sajida wa 'ala alsunin nataqat bi-tawhidika sadiqa wa bi-shukrika madiha wa 'ala qulubin i'tarafat bi-ilahiyyatika muhaqqiqa wa 'ala dama'ira hawat min al-'ilmi bika hatta sarat khashi'a wa 'ala jawariha sa'at ila awtani ta'abbudika ta'i'atan wa asharat bi-stighfarika mudh'ina?",
+        "urduTranslation": "کاش میں جان سکتا اے میرے آقا، میرے معبود اور میرے مولا! کیا تو آگ کو ان چہروں پر مسلط کر دے گا جو تیری عظمت کے سامنے سجدے میں گرے ہوئے ہیں؟ اور ان زبانوں پر جو سچے دل سے تیری توحید کی گواہی دیتی ہیں اور شکر کے ساتھ تیری تعریف کرتی ہیں؟ اور ان دلوں پر جنہوں نے بڑی تحقیق کے ساتھ تیرے معبود ہونے کا اقرار کیا؟ اور ان عقول پر جن میں تیرا علم بھرا ہوا ہے یہاں تک کہ وہ عاجز ہو گئیں؟ اور ان اعضاء پر جو خوشی سے تیری عبادت گاہوں کی طرف دوڑے اور عاجزی کے ساتھ تیری مغفرت کے طلبگار ہوئے؟"
+      },
+      {
+        "arabic": "مَا هَكَذَا الظَّنُّ بِكَ، وَلَا أُخْبِرْنَا بِفَضْلِكَ عَنْكَ يَا كَرِيمُ يَا رَبِّ",
+        "translation": "None of this is what is expected of You, nor is it what has been reported to us of Your grace, O Generous One, O Lord!",
+        "transliteration": "Ma hakadha adh-dhannu bik wa la ukhbirna bi-fadlika 'anka ya karimu ya rabb",
+        "urduTranslation": "کریم پروردگار! تیرے بارے میں ایسا گمان ہرگز نہیں ہے اور نہ تیرے فضل و کرم کی ایسی خبریں ہم تک پہنچی ہیں!"
+      },
+      {
+        "arabic": "وَأَنْتَ تَعْلَمُ ضَعْفِي عَنْ قَلِيلٍ مِنْ بَلَاءِ الدُّنْيَا وَعُقُوبَاتِهَا، وَمَا يَجْرِي فِيهَا مِنَ الْمَكَارِهِ عَلَىٰ أَهْلِهَا، عَلَىٰ أَنَّ ذَٰلِكَ بَلَاءٌ وَمَكْرُوهٌ قَلِيلٌ مَكْثُهُ، يَسِيرٌ بَقَاؤُهُ، قَصِيرٌ مُدَّتُهُ",
+        "translation": "And You know my weakness before a little of the tribulations of this world and its punishments, and the hardships that run upon its people, even though that tribulation and hardship is of brief stay, easy duration, and short period!",
+        "transliteration": "Wa anta ta'lamu da'fi 'an qalilin min bala'i ad-dunya wa 'uqubatiha wa ma yajri fiha min al-makarihi 'ala ahliha 'ala anna dhalika bala'un wa makruhun qalilun makthuhu yasirun baqa'uhu qasirun muddatuh",
+        "urduTranslation": "جبکہ تو دنیا کی تھوڑی سی مصیبتوں اور سزاؤں کے سامنے میری کمزوری اور اس دنیا میں لوگوں پر گزرنے والی چھوٹی لغزشوں کو خوب جانتا ہے، حالانکہ وہ آزمائشیں اور ناگواری بہت ہی کم وقت کے لیے ہیں، ان کا رہنا آسان اور ان کی مدت انتہائی مختصر ہے!"
+      },
+      {
+        "arabic": "فَكَيْفَ احْتِمَالِي لِبَلَاءِ الْآخِرَةِ وَجَلِيلِ وُقُوعِ الْمَكَارِهِ فِيهَا؟ وَهُوَ بَلَاءٌ تَطُولُ مُدَّتُهُ، وَيَدُومُ مَقَامُهُ، وَلَا يُخَفَّفُ عَنْ أَهْلِهِ، لِأَنَّهُ لَا يَكُونُ إِلَّا عَنْ غَضَبِكَ وَانْتِقَامِكَ وَسَخَطِكَ، وَهَٰذَا مَا لَا تَقُومُ لَهُ السَّمَاوَاتُ وَالْأَرْضُ",
+        "translation": "So how can I endure the trials of the Hereafter and the heavy occurrence of hardships in it, when it is a tribulation whose duration is long, whose stay is everlasting, and whose weight is never lightened for its people, because it cannot occur except from Your anger, Your vengeance, and Your wrath! And this is what the heavens and the earth cannot withstand!",
+        "transliteration": "Fakayfa ihtimali li-bala'i al-akhirati wa jalili wuqu'i al-makarihi fiha wa huwa bala'un tatulu muddatuhu wa yadumu maqamuhu wa la yukhaffafu 'an ahlihi li-annahu la yakunu illa 'an ghadabika wa-ntiqamika wa sakhatika wa hadha ma la taqumu lahu as-samawatu wal-ard",
+        "urduTranslation": "تو پھر میں آخرت کے عذاب اور آفتوں کے بڑے حملوں کو کیسے برداشت کروں گا؟ جبکہ وہ ایسی بلائیں ہیں جن کی مدت طویل اور ٹھکانا ابدی ہے، اور وہاں عذاب والوں کے بوجھ کو ہلکا بھی نہیں کیا جائے گا، کیونکہ وہ عذاب تیرے غصے، تیری سزا اور تیرے ہی جلال کی وجہ سے ہوگا، اور یہ وہ عذاب ہے جسے زمین اور آسمان بھی سہنے کی طاقت نہیں رکھتے!"
+      },
+      {
+        "arabic": "يَا سَيِّدِي فَكَيْفَ لِي وَأَنَا عَبْدُكَ الضَّعِيفُ الذَّلِيلُ الْحَقِيرُ الْمِسْكِينُ الْمُسْتَكِينُ؟",
+        "translation": "O my Master! So how can I endure it when I am Your weak, lowly, contemptible, poor and miserable servant?",
+        "transliteration": "Ya sayyidi fakayfa li wa ana 'abduka ad-da'ifu adh-dhalilu al-haqiru al-miskinu al-mustakin",
+        "urduTranslation": "اے میرے مالِک! تو میرا کیا حال ہوگا جبکہ میں تیرا ایک نہایت کمزور, ذلیل, حقیر, بے بس اور فریادی بندہ ہوں؟"
+      },
+      {
+        "arabic": "إِلَٰهِي وَرَبِّي وَسَيِّدِي وَمَوْلَايَ، لِأَيِّ الْأُمُورِ إِلَيْكَ أَشْكُو؟ وَلِمَا مِنْهَا أَضِجُّ وَأَبْكِي؟ لِأَلِيمِ الْعَذَابِ وَشِدَّتِهِ؟ أَمْ لِطُولِ الْبَلَاءِ وَمُدَّتِهِ؟",
+        "translation": "My God, my Lord, my Master, and my Protector! For which matters shall I complain to You? And for which of them shall I cry and weep? For the pain of punishment and its severity? Or for the length of tribulation and its duration?",
+        "transliteration": "Ilahi wa rabbi wa sayyidi wa mawlaya li-ayyi al-umuri ilayka ashku wa lima minha adijju wa abki li-alimi al-'adhabi wa shiddatihi am li-tuli al-bala'i wa muddatih",
+        "urduTranslation": "میرے معبود، میرے پروردگار، میرے آقا اور میرے مولا! میں کن کن باتوں کا تیرے پاس گِلہ کروں؟ اور کن تکلیفوں پر آہ و زاری اور گریه وبکا کروں؟ عذاب کی دردناک سختیوں پر؟ یا مصیبت کی طویل مدت اور قیام پر؟"
+      },
+      {
+        "arabic": "فَلَئِنْ صَيَّرْتَنِي لِلْعُقُوبَاتِ مَعَ أَعْدَائِكَ، وَجَمَعْتَ بَيْنِي وَبَيْنَ أَهْلِ بَلَائِكَ، وَفَرَّقْتَ بَيْنِي وَبَيْنَ أَحِبَّائِكَ وَأَوْلِيَائِكَ، فَهَبْنِي يَا إِلَٰهِي وَسَيِّدِي وَمَوْلَايَ وَرَبِّي، صَبَرْتُ عَلَىٰ عَذَابِكَ، فَكَيْفَ أَصْبِرُ عَلَىٰ فِرَاقِكَ؟",
+        "translation": "So if You subject me to punishments with Your enemies, and gather me together with the people of Your tribulations, and separate me from Your beloved ones and Your friends, then suppose, my God, my Master, my Protector and my Lord, I could endure Your punishment, then how could I endure separation from You?",
+        "transliteration": "Fa-la'in sayyartani lil-'uqubati ma'a a'da'ik wa java'ta bayni wa bayna ahli bala'ik wa farraqta bayni wa bayna ahibba'ika wa awliya'ik fa-habni ya ilahi wa sayyidi wa mawlaya wa rabbi sabartu 'ala 'adhabika fakayfa asbiru 'ala firaqik?",
+        "urduTranslation": "پس اگر تو نے مجھے سزا دینے کے لیے میرے دشمنوں کے ساتھ ہانک دیا، اور مجھے اپنے عذاب والوں کی صف میں لا کھڑا کیا، اور مجھے اپنے پیاروں اور اپنی چنیدہ ہستیوں سے جدا کر دیا، تو اے میرے معبود، میرے آقا، میرے مولا اور پروردگار! مان لیا کہ میں نے تیرے عذاب پر صبر کر بھی لیا، تو میں تیری جدائی پر کیسے صبر کروں گا؟"
+      },
+      {
+        "arabic": "وَهَبْنِي صَبَرْتُ عَلَىٰ حَرِّ نَارِكَ، فَكَيْفَ أَصْبِرُ عَنِ النَّظَرِ إِلَىٰ كَرَامَتِكَ؟ أَمْ كَيْفَ أَسْكُنُ فِي النَّارِ وَرَجَائِي عَفْوُكَ؟",
+        "translation": "And suppose I could endure the heat of Your fire, then how could I endure not gazing upon Your nobility? Or how can I dwell in the fire while my hope is Your forgiveness?",
+        "transliteration": "Wa habni sabartu 'ala harri narika fakayfa asbiru 'an an-nadhari ila karamatik am kayfa askunu fi an-nari wa raja'i 'afwuk?",
+        "urduTranslation": "اور فرض کرو کہ میں نے تیری آگ کی گرمی پر صبر کر لیا، تو تیری رحمت و مہر کی طرف نظریں اٹھانے سے کیسے محروم رہوں گا؟ یا میں بھڑکتے دوزخ میں کیسے بسوں گا جبکہ میری آخری امید ہی تیرا عفو و کرم ہے؟"
+      },
+      {
+        "arabic": "فَبِعِزَّتِكَ يَا سَيِّدِي وَمَوْلَايَ أُقْسِمُ صَادِقًا، لَئِنْ تَرَكْتَنِي نَاطِقًا لَأَضِجَّنَّ إِلَيْكَ بَيْنَ أَهْلِهَا ضَجِيجَ الْآمِلِينَ، وَلَأَصْرُخَنَّ إِلَيْكَ صُرَاخَ الْمُسْتَصْرِخِينَ، وَلَأَبْكِيَنَّ عَلَيْكَ بُكَاءَ الْفَاقِدِينَ، وَلَأُنَادِيَنَّكَ أَيْنَ كُنْتَ يَا وَلِيَّ الْمُؤْمِنِينَ، يَا غَايَةَ آمَالِ الْعَارِفِينَ، يَا غِيَاثَ الْمُسْتَغِيثِينَ، يَا حَبِيبَ قُلُوبِ الصَّادِقِينَ، وَيَا إِلَٰهَ الْعَالَمِينَ",
+        "translation": "So by Your glory, my Master and my Protector, I swear sincerely! If You leave me with speech, I will cry out to You among its people with the crying of those possessing hope! And I will scream to You with the screaming of those crying for help! And I will weep for You with the weeping of those who are bereaved! And I will call out to You: Where are You, O Guardian of the believers? O Goal of the hopes of the gnostics! O Helper of those seeking help! O Beloved of the hearts of the truthful! And O God of the worlds!",
+        "transliteration": "Fa-bi'izzatika ya sayyidi wa_mawlaya uqsimu sadiqan la'in taraktani natiqan la'adijjanna ilayka bayna ahliha dajija al-amilin wa la'asrukhanna ilayka surakha al-mustasrikhin wa la'abkiyanna 'alayka buka'a al-faqidin wa la'unadiyannaka ayna kunta ya waliyya al-mu'minin ya ghayata amali al-'arifina ya ghiyatha al-mustaghisina ya habiba qulubi as-sadiqina wa ya ilaha al-'alamin",
+        "urduTranslation": "پس اے میرے آقا اور میرے مولا! میں تیری عزت کی قسم اٹھا کر سچ کہتا ہوں کہ اگر تو نے آگ میں میری زبان بولنے کے لیے آزاد چھوڑ دی، تو میں وہاں کے جلنے والوں کے درمیان تیرے ہی حضور امید لگانے والوں کی طرح گریہ و زاری کروں گا! اور فریادیوں کی طرح تیرے نام کی دہائی دوں گا! اور تیرے کھو جانے پر رونے والوں کی طرح ہمیشہ روؤں گا! اور تجھے پکاروں گا کہ تو کہاں ہے اے مومنوں کے سرپرست! اے عارفوں کی امیدوں کی آخری منزل! اے فریاد کرنے والوں کے فریاد رس! اے سچے دلوں کے پیارے محبوب! اور اے تمام جہانوں کے پروردگار!"
+      },
+      {
+        "arabic": "أَفَتُرَاكَ سُبْحَانَكَ يَا إِلَٰهِي وَبِحَمْدِكَ، تَسْمَعُ فِيهَا صَوْتَ عَبْدٍ مُسْلِمٍ سُجِنَ فِيهَا بِمُخَالَفَتِهِ، وَذَاقَ طَعْمَ عَذَابِهَا بِمَعْصِيَتِهِ، وَحُبِسَ بَيْنَ أَطْبَاقِهَا بِجُرْمِهِ وَجَرِيرَتِهِ، وَهُوَ يَضِجُّ إِلَيْكَ ضَجِيجَ مُؤَمِّلٍ لِرَحْمَتِكَ، وَيُنَادِيكَ بِلِسَانِ أَهْلِ تَوْحِيدِكَ، وَيَتَوَسَّلُ إِلَيْكَ بِرُبُوبِيَّتكَ؟",
+        "translation": "Can You see Yourself—Glory be to You, my God, and Yours is the praise!—Hearing in the fire the voice of a Muslim servant imprisoned in it for his disobedience, who has tasted the taste of its punishment for his wrongdoing, and is confined between its levels for his crime and offense, while he cries out to You with the crying of one who hopes for Your mercy! And calls out to You in the tongue of the people of Your unity! And seeks mediation to You through Your divinity?",
+        "transliteration": "Afaturaka subhanaka ya ilahi wa bi-hamdika tasma'u fiha sawta 'abdin muslimin sujina fiha bi-mukhalafatihi wa dhaqa ta'ma 'adhabiha bi-ma'siyatihi wa hubisa bayna atbaqiha bi-jurmihi wa jariratihi wa huwa yadijju ilayka dajija mu'ammilin li-rahmatika wa yunadika bi-lisani ahli tawhidika wa yatawassalu ilayka bi-rububiyyatik?",
+        "urduTranslation": "اے معبود! تو پاک ہے اور حمد تیرے ہی لائق ہے، کیا تو آگ کی بھڑک میں اپنے ایک فرماں بردار یا گناہگار مسلمان بندے کی آواز سنے گا جو اپنی نافرمانی کی وجہ سے وہاں قید ہو چکا ہے، اور گناہ کی وجہ سے عذاب کا مزہ چکھ رہا ہے، اور اپنے ہی جرائم کے باعث دوزخ کی تہوں میں بند ہو چکا ہے، جبکہ وہ تیری بارگاہ میں تیری رحمت کی امید سجائے آہ و فریاد کر رہا ہے، اور تیری توحید ماننے والوں کی زبان میں تجھے پکار رہا ہے اور ربوبیت کے ساتھ تیرا وسیلہ دھونڈ رہا ہے؟"
+      },
+      {
+        "arabic": "يَا مَوْلَايَ فَكَيْفَ يَبْقَىٰ فِي الْعَذَابِ وَهُوَ يَرْجُو مَا سَلَفَ مِنْ حِلْمِكَ؟ أَمْ كَيْفَ تُؤْلِمُهُ النَّارُ وَهُوَ يَأْمُلُ فَضْلَكَ وَرَحْمَتَكَ؟ أَمْ كَيْفَ يُحْرِقُهُ لَهِيبُهَا وَأَنْتَ تَسْمَعُ صَوْتَهُ وَتَرَىٰ مَكَانَهُ؟ أَمْ كَيْفَ يَشْتَمِلُ عَلَيْهِ زَفِيرُهَا وَأَنْتَ تَعْلَمُ ضَعْفَهُ؟ أَمْ كَيْفَ يَتَقَلْقَلُ بَيْنَ أَطْبَاقِهَا وَأَنْتَ تَعْلَمُ صِدْقَهُ؟ أَمْ كَيْفَ تَزْجُرُهُ زَبَانِيَتُهَا وَهُوَ يُنَادِيكَ يَا رَبَّهْ؟ أَمْ كَيْفَ يَرْجُو فَضْلَكَ فِي عِتْقِهِ مِنْهَا فَتَتْرُكُهُ فِيهَا؟",
+        "translation": "My Protector! So how can he remain in the punishment while he hopes for Your past forbearance? Or how can the fire pain him while he hopes for Your grace and mercy? Or how can its flames burn him while You hear his voice and see his place? Or how can its sighing encompass him while You know his weakness? Or how can he writhe between its levels while You know his sincerity? Or how can its keepers repel him while he calls out to You: O Lord! Or how can he hope for Your grace in releasing him from it, yet You leave him in it?",
+        "transliteration": "Ya mawlaya fakayfa yabqa fi al-'adhabi wa huwa yarju ma salafa min hilmik am kayfa tu'limuhu an-naru wa huwa ya'mulu fadlaka wa rahmatak am kayfa yuhriquhu lahibuha wa anta tasma'u sawtahu wa tara makanah am kayfa yashtamilu 'alayhi zafiruhu wa anta ta'lamu da'fah am kayfa yataqalqalu bayna atbaqiha wa anta ta'lamu sidqah am kayfa tazjuruhu zabaniyatuhu wa huwa yunadika ya rabbeh am kayfa yarju fadlaka fi 'itqihi minha fatatrukuhu fiha?",
+        "urduTranslation": "اے میرے مولا! وہ دوزخ کے عذاب میں کیسے جلتا رہے گا جبکہ وہ تیرے گزشتہ بخشش و درگزر پر نظریں ٹکائے ہوئے ہے؟ یا دوزخ کی ہولناکی اسے کیسے تڑپائے گی جبکہ وہ تیرے فضل و رحمت کا آسرا رکھتا ہے؟ یا دوزخ کے شعلے اسے کیسے جلائیں گے جبکہ تو اس کی فریادوں کو سن رہا ہے اور اس کا حال دیکھ سکتا ہے؟ یا دوزخ کے طوفان اسے کیسے گھیریں گے جبکہ تو اس کی انتہائی کمزوری کو جانتا ہے؟ یا وہ دوزخ کے طبقوں میں کیسے لرزے گا جبکہ تو اس کی سچائی کو جانتا ہے؟ یا دوزخ کے نگہبان فرشتے اسے کیسے دھکیلیں گے جبکہ وہ تجھے 'یا رب، یا رب' پکار رہا ہے؟ یا وہ وہاں سے رہائی پانے کے لیے تیرے فضل کی امید کیسے نہ رکھے کہ تو پھر بھی اسے اسی آگ میں چھوڑ دے؟"
+      },
+      {
+        "arabic": "هَيْهَاتَ! مَا ذَٰلِكَ الظَّنُّ بِكَ، وَلَا الْمَعْرُوفُ مِنْ فَضْلِكَ، وَلَا مُشْبِهٌ لِمَا عَامَلْتَ بِهِ الْمُوَحِّدِينَ مِنْ بِرِّكَ وَإِحْسَانِكَ",
+        "translation": "Far be it! Such is not what is expected of You! Nor is it what is known of Your grace! Nor is it similar to how You have treated the believers in Your goodness and kindness!",
+        "transliteration": "Hayhat! Ma dhalika adh-dhannu bik wa la al-ma'rufu min fadlik wa la mushbihun lima 'amalta bihi al-muwahhidina min birrika wa ihsanik",
+        "urduTranslation": "ہرگز ایسا نہیں ہو سکتا! تیرے بارے میں یہ سوچا بھی نہیں جا سکتا, اور نہ تیرے فضل کا ایسا دستور ہے, اور نہ ہی توحید کے ماننے والوں کے ساتھ تیرے احسان اور سلوک سے اس کا کوئی میل ہے!"
+      },
+      {
+        "arabic": "فَبِالْيَقِينِ أَقْطَعُ لَوْلَا مَا حَكَمْتَ بِهِ مِنْ تَعْذِيبِ جَاحِدِيكَ، وَقَضَيْتَ بِهِ مِنْ إِخْلَادِ مُعَانِدِيكَ، لَجَعَلْتَ النَّارَ كُلَّهَا بَرْدًا وَسَلَامًا، وَمَا كَانَ لِأَحَدٍ فِيهَا مَقَرًّا وَلَا مُقَامًا، لَّكِنَّكَ تَقَدَّسَتْ أَسْمَاؤُكَ أَقْسَمْتَ أَنْ تَمْلَأَهَا مِنَ الْكَافِرِينَ مِنَ الْجِنَّةِ وَالنَّاسِ أَجْمَعِينَ، وَأَنْ تُخَلِّدَ فِيهَا الْمُعَانِدِينَ",
+        "translation": "So with certainty I declare: Were it not for what You have decreed of punishing Your deniers, and decided of eternalizing Your enemies, You would have made the fire, all of it, cool and safe, and no one would have had a place of stay or residence in it! But You—holy are Your Names!—have sworn to fill it with the disbelievers, from the jinns and the humans together, and that You will eternalize the enemies in it,",
+        "transliteration": "Fa-bil-yaqini aqta'u lawla ma hakamta bihi min ta'dhibi jahidika wa qadayta bihi min ikhladi mu'anidika la-ja'alta an-nara kullaha bardan wa salaman wa ma kana li-ahadin fiha maqarran wa la muqama lakannaka taqaddasat asma'uka aqsamta an tamla'aha min al-kafirina min al-jinnati wan-nasi ajma'ina wa an tukhallida fiha al-mu'anidin",
+        "urduTranslation": "پس میں پختہ یقین کے ساتھ کہتا ہوں کہ اگر تو اپنے منکروں کو عذاب دینے کا حتمی فیصلہ نہ فرما چکا ہوتا، اور اپنے سرکشوں کو ہمیشہ دوزخ میں رکھنے کا حکم صادر نہ کر چکا ہوتا، تو ضرور تو جہنم کی اس آگ کو سراسر ٹھنڈی اور سلامتی والی بنا دیتا، اور دوزخ میں کسی کا کوئی مستقر اور ٹھکانا ہی نہ ہوتا! لیکن تیرے پاک ناموں کی قسم، تو نے فیصلہ کیا ہے کہ جہنم کو سرکش جنوں اور تمام منکر انسانوں سے بھر دے گا، اور اپنے ضدی سرکشوں کو ہمیشہ اس تپتے عذاب میں رکھے گا!"
+      },
+      {
+        "arabic": "وَأَنْتَ جَلَّ ثَنَاؤُكَ قُلْتَ مُبْتَدِئًا، وَتَطَوَّلْتَ بِالْإِنْعَامِ مُتَكَرِّماً: أَفَمَنْ كَانَ مُؤْمِنًا كَمَنْ كَانَ فَاسِقًا ۚ لَا يَسْتَوُونَ",
+        "translation": "And You, majestic is Your praise, said initially, being generous through favors: 'Is he who was a believer like him who was a transgressor? They are not equal!'",
+        "transliteration": "Wa anta jalla thana'uka qulta mubtadi'an wa tatawwalta bil-in'ami mutakarrima: afaman kana mu'minan kaman kana fasiqa la yastawun",
+        "urduTranslation": "اور تو نے خود اپنی بزرگ ثنا کے ساتھ دنیا کا آغاز کرتے ہوئے اپنے لطف و کرم سے فرمایا: 'کیا وہ شخص جو خدا کا سچا فرماندار مومن ہے, اس کی طرح ہو سکتا ہے جو بدکار و فاسق ہے؟ یہ دونوں کبھی برابر نہیں ہو سکتے!'"
+      },
+      {
+        "arabic": "إِلَٰهِي وَسَيِّدِي، فَأَسْأَلُكَ بِالْقُدْرَةِ الَّتِي قَدَّرْتَهَا، وَبِالْقَضِيَّةِ الَّتِي حَتَمْتَهَا وَقَضَيْتَهَا وَغَلَبْتَ مَنْ عَلَيْهِ أَجْرَيْتَهَا، أَنْ تَهَبَ لِي فِي هَٰذِهِ اللَّيْلَةِ وَفِي هَٰذِهِ السَّاعَةِ كُلَّ جُرْمٍ أَجْرَمْتُهُ، وَكُلَّ ذَنْبٍ أَذْنَبْتُهُ، وَكُلَّ قَبِيحٍ أَسْرَرْتُهُ، وَكُلَّ جَهْلٍ عَمِلْتُهُ كَتَمْتُهُ أَوْ أَعْلَنْتُهُ، أَخْفَيْتُهُ أَوْ أَظْهَرْتُهُ، وَكُلَّ سَيِّئَةٍ أَمَرْتَ بِإِثْبَاتِهَا الْكَتَبَةَ الْكِرَامَ",
+        "translation": "My God and my Master! So I ask You by the power which You have ordained, and by the decree which You have finalized and decided, and by which You have overcome him over whom You have run it, that You pardon me in this night and in this hour, every crime I have committed, every sin I have done, every ugly deed I have concealed, every ignorant act I have done, whether hidden or declared, kept secret or made manifest, and every bad deed which You have commanded the noble scribes to record,",
+        "transliteration": "Ilahi wa sayyidi fa-as'aluka bil-qudrati al-lati qaddartaha wa bil-qadiyyati al-lati hatamtaha wa qadaytaha wa ghalabta man 'alayhi ajrayta _an tahaba li fi hadhihi al-laylati wa fi hadhihi as-sa'ati kulla jurmin ajramtuhu wa kulla dhanbin adhnabtuhu wa kulla qabihin asrartuhu wa kulla jahlin 'amiltuhu katamtuhu aw a'lantuhu akhfaytuhu aw adhhartuhu wa kulla sayyi'atin amarta bi-ithbatiha al-katabata al-kiram",
+        "urduTranslation": "میرے معبود, میرے آقا! تو اب میں تجھ سے التجا کرتا ہوں تیری اس لامتناہی قدرت کے واسطے سے جو تو نے پیدا کی، اور اس اٹل فیصلے کے صدقے جو تو نے حتمی کر دیا، اور جس پر نافذ کیا اس پر غالب رہا، کہ تو مجھے اس پر برکت رات میں اور اسی گھڑی معاف فرما دے: ہر وہ جرم جو مجھ سے سرزد ہوا ہو، اور ہر وہ گناہ جو میں نے کیا ہو، اور ہر وہ برائی جو میں نے چھپ کر کی ہو، اور نادانی کا ہر وہ کام جو مجھ سے ہوا ہو چاہے میں نے اسے چھپایا ہو یا ظاہر، پوشیدہ رکھا ہو یا آشکار، اور ہر وہ بدعملی جسے تو نے اپنے معزز لکھنے والے فرشتوں کو درج کرنے کا حکم دے رکھا ہے،"
+      },
+      {
+        "arabic": "الَّذِينَ وَكَّلْتَهُمْ بِحِفْظِ مَا يَكُونُ مِنِّي، وَجَعَلْتَهُمْ شُهُودًا عَلَيَّ مَعَ جَوَارِحِي، وَكُنْتَ أَنْتَ الرَّقِيبَ عَلَيَّ مِنْ وَرَائِهِمْ، وَالشَّاهِدَ لِمَا خَفِيَ عَنْهُمْ، وَبِرَحْمَتِكَ أَخْفَيْتَهُ، وَبِفَضْلِكَ سَتَرْتَهُ",
+        "translation": "Whom You have appointed to preserve what occurs from me, and whom You have made witnesses over me along with my limbs, and You were Yourself the Watcher over me from behind them, and the Witness of what was hidden from them, and by Your mercy You hid it, and by Your grace You concealed it,",
+        "transliteration": "Al-ladhina wakkaltahum bi-hifdi ma yakunu minni wa ja'altahum shuhudan 'alayya ma'a jawarihi wa kunta anta ar-raqiba 'alayya min wara'ihim wash-shahida lima khafiya 'anhum wa bi-rahmatika akhfaytahu wa bi-fadlika satartah",
+        "urduTranslation": "جن کو تو نے میرے احوال کی نگرانی پر مامور کیا ہے اور میرے اپنے جسم کے اعضاء کے ساتھ ساتھ ان کو بھی مجھ پر گواہ بنا رکھا ہے، اور ان فرشتوں کے پسِ پردہ تو خود بھی مجھ پر نگاہ رکھنے والا ہے اور ان باتوں کا بھی دیکھنے والا ہے جو ان کی نظروں سے بھی پوشیدہ رہیں، اور تو نے اپنی رحمت سے ان پر پردہ قائم رکھا اور ادھر بھی اپنے فضل سے ان عیبوں کو پوشیدہ کر دیا،"
+      },
+      {
+        "arabic": "وَأَنْ تُوَفِّرَ حَظِّي مِنْ كُلِّ خَيْرٍ أَنْزَلْتَهُ، أَوْ إِاحْسَانٍ فَضَّلْتَهُ، أَوْ بِرٍّ نَشَرْتَهُ، أَوْ رِزْقٍ بَسَطْتَهُ، أَوْ ذَنْبٍ تَغْفِرُهُ، أَوْ خَطَأٍ تَسْتُرُهُ، يَا رَبِّ يَا رَبِّ يَا رَبِّ",
+        "translation": "And that You increase my share of every good You have sent down, or kindness You have shown, or goodness You have spread, or sustenance You have expanded, or sin You have forgiven, or mistake You have concealed! O Lord! O Lord! O Lord!",
+        "transliteration": "Wa an tuwaffira haddi min kulli khayrin anzaltahu aw ihsanin faddaltahu aw birrin nashartahu aw rizqin basattahu aw dhanbin taghfiruhu aw khata'in tasturuhu ya rabbi ya rabbi ya rabb",
+        "urduTranslation": "اور یہ کہ میرے نصیب کو بڑھا دے ہر اس بھلائی میں جسے تو نے نازل فرمایا، یا ہر اس چمکتار احسان میں جو تو نے کیا، یا نیکی کے ہر اس کام میں جو تو نے پھیلایا، یا روزی کے اس وسیع حصے میں جو تو نے بچھایا، یا گناہ میں جسے تو نے بخشا، یا خطا میں جسے تو نے چھپا لیا، اے میرے پروردگار، اے میرے پالنے والے، اے میرے اللہ!"
+      },
+      {
+        "arabic": "يَا إِلَٰهِي وَسَيِّدِي وَمَوْلَايَ وَمَالِكَ رِقِّي، يَا مَنْ بِيَدِهِ نَاصِيَتِي، يَا عَلِيمًا بِضُرِّي وَمَسْكَنَتِي، يَا خَبِيرًا بِفَقْرِي وَفَاقَتِي، يَا رَبِّ يَا رَبِّ يَا رَبِّ",
+        "translation": "O my God, my Master, my Protector, and Owner of my slavery! O He in whose hand is my forelock! O He who knows my distress and my poverty! O He who is aware of my lack and my need! O Lord! O Lord! O Lord!",
+        "transliteration": "Ya ilahi wa sayyidi wa mawlaya wa malika riqqi ya man bi-yadihi nasiyati ya 'aliman bi-durri wa maskanati ya khabiran bi-faqri wa faqati ya rabbi ya rabbi ya rabb",
+        "urduTranslation": "اے میرے معبود, میرے آقا و مولا اور میری قسمت کے مالک! اے وہ ذات جس کے قبضے میں میری پیشانی کے بال ہیں! اے میری مغلوبی، بے تابی اور فقر و نادانی کو خوب جاننے والے! اے میری نادانی اور محتاجی کی خبر رکھنے والے! اے پروردگار، اے پروردگار، اے میرے حبیب پروردگار!"
+      },
+      {
+        "arabic": "أَسْأَلُكَ بِحَقِّكَ وَقُدْسِكَ، وَأَعْظَمِ صِفَاتِكَ وَأَسْمَائِكَ، أَنْ تَجْعَلَ أَوْقَاتِي فِي اللَّيْلِ وَالنَّهَارِ بِذِكْرِكَ مَعْمُورَةً، وَبِخِدْمَتِكَ مَوْصُولَةً، وَعَمَلِي عِنْدَكَ مَقْبُولًا، حَتَّىٰ تَكُونَ أَعْمَالِي وَأَوْرَادِي كُلُّهَا وِرْدًا وَاحِدًا، وَحَالِي فِي خِدْمَتِكَ سَرْمَدًا",
+        "translation": "I ask You by Your truth and Your holiness, and Your greatest attributes and Names, to make my times in the night and the day built up with Your remembrance, and connected with Your service, and my deeds accepted in Your presence, so that my deeds and my words may all become a single voice, and my state in Your service everlasting!",
+        "transliteration": "As'aluka bi-haqqika wa qudsika wa a'dhami sifatika wa asma'ika an taj'ala awqati fil-layli wan-nahari bi-dhikrika ma'muratan wa bi-khidmatika mawsulatan wa 'amali 'indaka maqbulan hatta takuna a'mali wa awradi kulluha wirdan wahidan wa hali fi khidmatika sarmada",
+        "urduTranslation": "میں تجھ سے تیرے سچے حق، تیری پاکیزگی، اور تیری عظیم ترین صفات اور تیرے مبارک ناموں کے واسطے التجا کرتا ہوں کہ تو میرے دن رات کے اوقات کو یادِ الہیٰ سے آباد رکھے، اور انہیں ہمیشہ اپنی عبادت میں مگن رکھے، اور میرے اعمال کو اپنی بارگاہ میں قبول فرما لے، یہاں تک کہ میرے تمام اعمال اور ورد ایک مِلت کے دھاگے میں پرونے والی تسبیح ہو جائیں اور تیری بندگی ہی میرا ابدی طریقہ کار بن جائے!"
+      },
+      {
+        "arabic": "يَا سَيِّدِي، يَا مَنْ عَلَيْهِ مُعَوَّلِي، يَا مَنْ إِلَيْهِ شَكَوْتُ أَحْوَالِي، يَا رَبِّ يَا رَبِّ يَا رَبِّ، قَوِّ عَلَىٰ خِدْمَتِكَ جَوَارِحِي، وَاشْدُدْ عَلَى الْعَزِيمَةِ جَوَانِحِي، وَهَبْ لِيَ الْجِدَّ فِي خَشْيَتِكَ، وَالدَّوَامَ فِي الِاتِّصَالِ بِخِدْمَتِكَ",
+        "translation": "O my Master! O He upon whom is my reliance! O He to whom I complain of my situations! O Lord! O Lord! O Lord! Strengthen my limbs for Your service, and make firm my determination! And grant me seriousness in fearing You, and continuity in joining Your service,",
+        "transliteration": "Ya sayyidi ya man 'alayhi mu'awwali ya man ilayhi shakawtu ahwali ya rabbi ya rabbi ya rabbi qawwi 'ala khidmatika jawarihi wash-dud 'ala al-'azimati jawanichi wa hab liya al-jidda fi khashyatika wad-dawama fil-ittisali bi-khidmatik",
+        "urduTranslation": "اے میرے مقتدر آقا! اے وہ ہستی جس پر میرا بھروسہ ہے! اے وہ پروردگار جس کو میں اپنی پریشانیاں سناتا ہوں! اے میرے پالنے والے، اے پالنے والے! میرے جسمانی اعضاء کو اپنی عبادت کے لیے مضبوط بنا دے، اور میرے ارادوں کو پختہ اور توانا کر دے، اور مجھے اپنے خوف میں سچی سنجیدگی عطا فرما، اور اپنی بندگی میں ہمیشگی کا تعلق نصیب کر،"
+      },
+      {
+        "arabic": "حَتَّىٰ أَسْرَحَ إِلَيْكَ فِي مَيَادِينِ السَّابِقِينَ، وَأُسْرِعَ إِلَيْكَ فِي الْبَارِزِينَ، وَأَشْتَاقَ إِلَىٰ قُرْبِكَ فِي الْمُشْتَاقِينَ، وَأَدْنُوَ مِنْكَ دُنُوَّ الْمُخْلِصِينَ، وَأَخَافَكَ مَخَافَةَ الْمُوقِنِينَ، وَأَجْتَمِعَ فِي جِوَارِكَ مَعَ الْمُؤْمِنِينَ",
+        "translation": "Until I can run towards You in the arenas of those who precede, and hasten to You among those who are prominent, and long for Your proximity among those who long, and draw near to You as the drawing near of the sincere, and fear You as the fear of those with certainty, and gather in Your neighborhood with the believers!",
+        "transliteration": "Hatta asraha ilayka fi mayadini as-sabiqina wa usri'a ilayka fil-barizina wa ashtaqa ila qurbika fil-mushtaqina wa adnuwa minka dunuwwa al-mukhlisina wa akhafaka makhafata al-muqinina wa ajtami'a fi jiwarika ma'a al-mu'minin",
+        "urduTranslation": "تاکہ میں تیری طرف بڑھنے والوں کے میدان میں سبقت لے جاؤں، اور خوشی سے تیری طرف دوڑنے والوں میں سب سے آگے قدم رکھ لوں، اور ہر وقت تیرے قرب کے شوقینوں کی طرح تیرا مشتاق رہوں، اور خالص محبت کرنے والوں کی طرح تیرے بالکل قریب ہو جاؤں، اور تجھ سے کامل یقین رکھنے والوں کی طرح ڈروں، اور تیرے محبوب جوار میں سچے مومنوں کے ہمراہ ہمیشہ جڑ جاؤں!"
+      },
+      {
+        "arabic": "اللَّهُمَّ وَمَنْ أَرَادَنِي بِسُوءٍ فَأَرِدْهُ، وَمَنْ كَادَنِي فَكِدْهُ، وَاجْعَلْنِي مِنْ أَحْسَنِ عَبِيدِكَ نَصِيبًا عِنْدَكَ، وَأَقْرَبِهِمْ مَنْزِلَةً مِنْكَ، وَأَخَصِّهِمْ زُلْفَةً لَدَيْكَ، فَإِنَّهُ لَا يُنَالُ ذَٰلِكَ إِلَّا بِفَضْلِكَ، وَجُدْ لِي بِجُودِكَ، وَاعْطِفْ عَلَيَّ بِمَجْدِكَ، وَاحْفَظْنِي بِرَحْمَتِكَ",
+        "translation": "O Allah! And whoever intends evil for me, intend it for him! And whoever plots against me, plot against him! And make me among the best of Your servants in share in Your presence, and the nearest of them in station to You, and the most specific of them in proximity to You, for indeed none of that can be attained except by Your grace! And be generous to me through Your generosity, and show affection to me through Your glory, and guard me by Your mercy!",
+        "transliteration": "Allahumma wa man aradani bi-su'in fa-aridhu wa man kadani fa-kid-hu waj'alni min ahsani 'abidika nasiban 'indaka wa aqrabihim manzilatan minka wa akhas-sihim zulfatan ladayka fa-innahu la yunalu dhalika illa bi-fadlika wa jud li bi-judika wa'tif 'alayya bi-majdika wah-fadni bi-rahmatik",
+        "urduTranslation": "اے اللہ! جو کوئی میرے خلاف برے ارادے رکھے تو اس کے لیے بھی وہی ارادہ فرما، اور جو کوئی میرے ساتھ مکر کرے تو اسے بھی اس کے بدلے میں جکڑ دے، اور مجھے اپنے ان بندوں میں سے قرار دے جو تیرے حضور سب سے اچھا نصیب رکھتے ہیں، اور تیرے نزدیک بلند مقام پاتے ہیں اور تیرے قرب میں سب سے آگے رہتے ہیں، کیونکہ یہ بلند مراتب تیرے فضل کے سوا کسی کو مل ہی نہیں سکتے! اور تو اپنی فیاضی کے ساتھ مجھ پر بخشش کر، اور اپنے جاہ و جلال کے صدقے مجھ پر شفقت فرما، اور ہمیشہ اپنی رحمت کے سائے میں میری حفاظت کر!"
+      },
+      {
+        "arabic": "وَاجْعَلْ لِسَانِي بِذِكْرِكَ لَهِجًا، وَقَلْبِي بِحُبِّكَ مُتَيَّمًا، وَمُنَّ عَلَيَّ بِحُسْنِ إِجَابَتِكَ، وَأَقِلْنِي عِثْرَتِي، وَاغْفِرْ زَلَّتِي، فَإِنَّكَ قَضَيْتَ عَلَىٰ عِبَادِكَ بِعِبَادَتِكَ، وَأَمَرْتَهُمْ بِدُعَائِكَ، وَضَمِنْتَ لَهُمُ الْإِجَابَةَ",
+        "translation": "And make my tongue repeatedly speak of Your remembrance, and my heart infatuated with Your love! And bestow upon me the goodness of Your response, and reduce my slips, and forgive my mistakes! For indeed You have decreed Your worship upon Your servants, and commanded them to supplicate You, and guaranteed them the response!",
+        "transliteration": "Waj'al lisani bi-dhikrika lahijan wa qalbi bi-hubbika mutayyama wa munna 'alayya bi-husni ijabatik wa aqilni 'ithrati wagh-fir zallati fa-innaka qadayta 'ala 'ibadika bi-'ibadatika wa amartahum bi-du'a'ika wa daminta lahum al-ijabah",
+        "urduTranslation": "اور میری زبان کو ہمیشہ اپنے ذکر میں مست رکھ، اور میرے دل کو اپنی لازوال محبت کا اسیر بنا دے! اور مجھ پر اپنی خوبصورت اجابت سے احسان فرما، اور میری غلطیوں کو معاف کر دے، اور میری آزمائشوں کو بخش دے! کیونکہ تو نے اپنے بندوں پر اپنی عبادت فرض کر دی ہے، اور انہیں تجھ سے ہی مانگنے کا حکم دیا ہے اور ان کی دعائیں قبول کرنے کا خود ہی ذمہ لیا ہے!"
+      },
+      {
+        "arabic": "فَإِلَيْكَ يَا رَبِّ نَصَبْتُ وَجْهِي، وَإِلَيْكَ يَا رَبِّ مَدَدْتُ يَدِي، فَبِعِزَّتِكَ اسْتَجِبْ لِي دُعَائِي، وَبَلِّغْنِي مُنَايَ، وَلَا تَقْطَعْ مِنْ فَضْلِكَ رَجَائِي، وَاكْفِنِي شَرَّ الْجِنِّ وَالْإِنْسِ مِنْ أَعْدَائِي",
+        "translation": "So toward You, O Lord, I have turned my face, and toward You, O Lord, I have stretched my hand! So by Your glory, respond to my supplication! And let me attain my desire! And do not cut off my hope from Your grace! And spare me the evil of my enemies among the jinn and the humans!",
+        "transliteration": "Fa-ilayka ya rabbi nasabtu wajhi wa ilayka ya rabbi madadtu yadi fa-bi'izzatika-stajib li du'a'i wa ballighni munaya wa la taqra' min fadlika raja'i wak-fini sharra al-jinni wal-insi min a'da'i",
+        "urduTranslation": "تو اے میرے پروردگار! میں نے صرف تیری ہی طرف اپنا منہ کیا ہے، اور اے پروردگار! میں نے صرف تیرے ہی آگے دستِ دعا پھیلایا ہے! پس تو اپنی عزت کے صدقے میری دعا کو مستجاب فرما، اور میری دلی تمنائیں پوری کر دے، اور اپنے فضل سے میری امید کو کبھی نہ ٹوٹنے دے، اور میرے دشمنوں میں سے ہر شر پسند جن اور انسان کی برائی سے مجھے محفوظ رکھ!"
+      },
+      {
+        "arabic": "يَا سَرِيعَ الرِّضَا، اغْفِرْ لِمَنْ لَا يَمْلِكُ إِلَّا الدُّعَاءَ، فَإِنَّكَ فَعَّالٌ لِمَا تَشَاءُ، يَا مَنِ اسْمُهُ دَوَاءٌ، وَذِكْرُهُ شِفَاءٌ، وَتَطَاعَتُهُ غِنًى، ارْحَمْ مَنْ رَأْسُ مَالِهِ الرَّجَاءُ، وَسِلَاحُهُ الْبُكَاءُ",
+        "translation": "O He whose pleasure is quickly achieved! Forgive him who owns nothing but supplication! For indeed You do what You will! O He whose Name is a remedy, and whose remembrance is a cure, and whose obedience is wealth! Have mercy on him whose capital is hope, and whose weapon is tears!",
+        "transliteration": "Ya sari'a ar-rida-ghfir liman la yamliku illa ad-du'a fa-innaka fa'alun lima tasha' ya manismuhu dawa'un wa dhikruhu shifa'un wa ta'atuhu ghinan-irham man ra'su malihi ar-raja'u wa silahuhu al-buka'",
+        "urduTranslation": "اے جلد راضی ہونے والے پروردگار! اسے معاف فرما دے جس کے پاس دعا کے سوا کچھ بھی نہیں، کیونکہ تو جو چاہے کرنے کی کامل طاقت رکھتا ہے، اے وہ پاک ہستی جس کا نام ہر مرض کی دوا ہے، اور جس کا ذکر دلوں کی شفا ہے، اور جس کی فرماں برداری بے نیازی اور دولت ہے، اس عاجز بندے پر رحم فرما جس کی کل کائنات تیرا آسرا ہے، اور جس کا ایک ہی ہتھیار گریہ وزاری ہے!"
+      },
+      {
+        "arabic": "يَا سَابِغَ النِّعَمِ، يَا دَافِعَ النِّقَمِ، يَا نُورَ الْمُسْتَوْحِشِينَ فِي الظُّلَمِ، يَا عَالِمًا لَا يُعَلَّمُ، صَلِّ عَلَىٰ مُحَمَّدٍ وَآلِ مُحَمَّدٍ، وَافْعَلْ بِي مَا أَنْتَ أَهْلُهُ، وَصَلَّى اللَّهُ عَلَىٰ رَسُولِهِ وَالْأَئِمَّةِ الْمَيَامِينَ مِنْ آلِهِ وَسَلَّمَ تَسْلِيمًا كَثِيرًا",
+        "translation": "O Completer of blessings! O Repeller of adversities! O Light of those lonely in the darkness! O Knowledgeable One who was not taught! Bless Muhammad and the Progeny of Muhammad! And do with me what is worthy of You! And may Allah bless His Messenger and the blessed Imams of his progeny, and grant them excessive and abundant peace!",
+        "transliteration": "Ya sabigha an-ni'am ya dafi'a an-niqam ya nura al-mustawhishina fid-dhulami ya 'aliman la yu'allam salli 'ala Muhammadin wa ali Muhammad waf'al bi ma anta ahluhu wa sallallahu 'ala rasulihi wal-a'immati al-mayamina min alihi wa sallama tasliman kathira",
+        "urduTranslation": "اے نعمتوں کو مکمل فرمانے والے! اے عذابوں اور آفتوں کو ٹالنے والے! اے تاریکیوں میں وحشت زدہ دلوں کے نور! اے علم والے جسے کسی نے سکھایا نہیں! محمدؐ اور آلِ محمدؐ پر رحمت نازل فرما، اور میرے ساتھ وہ سلوک کر جو تیرے شایانِ شان ہے، اور اللہ کی رحمت ہو اس کے سچے رسولؐ پر اور ان کے خاندان کے برگزیدہ اور درخشاں ائمہ طاہرینؑ پر اور ان پر بہت زیادہ سلامتی ہو!"
+      }
+    ]
+  },
+  {
+    "id": "ashura",
+    "title": "Ziyarat Ashura",
+    "category": "Holy Ziyarats",
+    "description": "A powerful salutary prayer addressed to Imam Hussain (a.s.) and the holy martyrs of Karbala. Brings immense rewards, protection, and answer to complex prayers.",
+    "relevance": "Recited for high reward, spiritual proximity & relief from pain.",
+    "audioUrl": "http://sc.duas.org/sc/Ashura_01.mp3",
+    "lines": [
+      {
+        "arabic": "السَّلامُ عَلَيْكَ يَا أَبَا عَبْدِ اللَّهِ",
+        "translation": "Peace be upon you, O Abu Abdullah!",
+        "transliteration": "As-salam 'alayka ya Aba 'Abdillah",
+        "urduTranslation": "سلام ہو آپ پر اے ابا عبداللہؑ!"
+      },
+      {
+        "arabic": "السَّلامُ عَلَيْكَ يَا ابْنَ رَسُولِ اللَّهِ",
+        "translation": "Peace be upon you, O son of the Messenger of Allah!",
+        "transliteration": "As-salam 'alayka yabna Rasulillah",
+        "urduTranslation": "سلام ہو آپ پر اے رسول خدا کے فرزند!"
+      },
+      {
+        "arabic": "السَّلامُ عَلَيْكَ يَا ابْنَ أَمِيرِ الْمُؤْمِنِينَ وَابْنَ سَيِّدِ الْوَصِيِّينَ",
+        "translation": "Peace be upon you, O son of the Commander of the Faithful and son of the master of successors!",
+        "transliteration": "As-salam 'alayka yabna Amir al-Mu'minin wabna sayyid al-wasiyyin",
+        "urduTranslation": "سلام ہو آپ پر اے امیر المومنین کے بیٹے اور جانشینوں کے سردار کے بیٹے!"
+      },
+      {
+        "arabic": "السَّلامُ عَلَيْكَ يَا ابْنَ فَاطِمَةَ سَيِّدةِ نِسَاءِ الْعَالَمِينَ",
+        "translation": "Peace be upon you, O son of Fatima, the chief of all women of the worlds!",
+        "transliteration": "As-salam 'alayka yabna Fatimah sayyidati nisa' al-'alamin",
+        "urduTranslation": "سلام ہو آپ پر اے فاطمہ زہراؑ کے فرزند جو جہانوں کی عورتوں کی سردار ہیں!"
+      },
+      {
+        "arabic": "السَّلامُ عَلَيْكَ يَا ثَارَ اللَّهِ وَابْنَ ثَارِهِ وَالْوِتْرَ الْمَوْتُورَ",
+        "translation": "Peace be upon you, O vengeance of Allah and son of His vengeance, O single soul left solitary!",
+        "transliteration": "As-salam 'alayka ya tharallahi yabna tharihi wal-witral-mawtur",
+        "urduTranslation": "سلام ہو آپ پر اے خون خدا اور خون خدا کے فرزند، اور وہ اکیلے جن کا بدلا ابھی لینا باقی ہے!"
+      },
+      {
+        "arabic": "السَّلامُ عَلَيْكَ وَعَلَى الأَرْوَاحِ الَّتِي حَلَّتْ بِفِنَائِكَ، وَأَنَاخَتْ بِرَحْلِكَ",
+        "translation": "Peace be upon you and upon the souls that gathered in your courtyard and encamped in your journey,",
+        "transliteration": "As-salam 'alayka wa 'ala al-arwahi al-lati hallat bi-fina'ika wa anahat bi-rahlik",
+        "urduTranslation": "سلام ہو آپ پر اور ان پاکیزہ روحوں پر جو آپ کے آستانے پر نازل ہوئیں اور آپ کی بارگاہ میں آ کر رک گئیں،"
+      },
+      {
+        "arabic": "عَلَيْكُمْ مِنِّي جَمِيعًا سَلامُ اللَّهِ أَبَدًا مَا بَقِيتُ وَبَقِيَ اللَّيْلُ وَالنَّهَارُ",
+        "translation": "To all of you from me be the peace of Allah forever, so long as I remain and the night and day persist,",
+        "transliteration": "Alaykum minni jami'an salamu-llahi abadan ma baqiytu wa baqiya al-laylu wan-nahar",
+        "urduTranslation": "تم سب پر میری طرف سے ہمیشہ خدا کا سلام ہو جب تک میں باقی ہوں اور رات اور دن باقی ہیں،"
+      },
+      {
+        "arabic": "يَا أَبَا عَبْدِ اللَّهِ لَقَدْ عَظُمَتِ الرَّزِيَّةُ وَجَلَّتْ وَعَظُمَتِ الْمُصِيبَةُ بِكَ عَلَيْنَا وَعَلَى جَمِيعِ أَهْلِ الإِسْلامِ",
+        "translation": "O Abu Abdullah, massive indeed is the loss and heavy and great is the tragedy of yours on us and on all the people of Islam,",
+        "transliteration": "Ya Aba 'Abdillah laqad 'adhumat ar-raziyyatu wa jallat wa 'adhumat al-musibatu bika 'alayna wa 'ala jami'i ahli-l-islam",
+        "urduTranslation": "اے ابا عبداللہؑ! بے شک آپ کی مصیبت بہت بڑی ہے اور آپ پر ہونے والا ظلم ہمارے لیے اور تمام اہل اسلام کے لیے بہت ہی بڑا اور سنگین ہے،"
+      },
+      {
+        "arabic": "فَلَعَنَ اللهُ اُمَّةً اَسَّسَتْ اَسَاسَ الظُّلْمِ وَالْجَوْرِ عَلَيْكُمْ اَهْلَ الْبَيْتِ",
+        "translation": "So may Allah curse the community that established the foundations of injustice and tyranny against you, O Ahlul Bayt,",
+        "transliteration": "Fa-la'anallahu ummatan assasat asaasa adh-dhulmi wal-jawri 'alaykum ahla al-bayt",
+        "urduTranslation": "پس اللہ کی لعنت ہو اس گروہ پر جس نے آپ پر اور آپ کے اہلِ بیتؑ پر ظلم و جور کی بنیاد رکھی۔"
+      },
+      {
+        "arabic": "وَلَعَنَ اللهُ اُمَّةً دَفَعَتْكُمْ عَنْ مَقَامِكُمْ، وَاَزَالَتْكُمْ عَنْ مَرَاتِبِكُمُ الَّتِي رَتَّبَكُمُ اللهُ فِيهَا",
+        "translation": "And may Allah curse the community that pushed you away from your position, and removed you from the ranks that Allah had assigned to you,",
+        "transliteration": "Wa la'anallahu ummatan dafa'atkum 'an maqamikum wa azalatkum 'an maratibikum al-lati rattabakumu-llahu fiha",
+        "urduTranslation": "اور اللہ کی لعنت ہو اس گروہ پر جس نے آپ کو آپ کے مقام سے ہٹایا، اور آپ کو ان مرتبوں سے محروم کیا جو اللہ نے آپ کے لیے مقرر کیے تھے۔"
+      },
+      {
+        "arabic": "وَلَعَنَ اللهُ اُمَّةً قَتَلَتْكُمْ، وَلَعَنَ اللهُ الْمُمَهِّدِينَ لَهُمْ بِالتَّمْكِينِ مِنْ قِتَالِكُمْ",
+        "translation": "And may Allah curse the community that killed you, and curse those who paved the way for them to fight against you,",
+        "transliteration": "Wa la'anallahu ummatan qatalatkum wa la'anallahu al-mumahhidina lahum bit-tamkini min qitalikum",
+        "urduTranslation": "اور اللہ کی لعنت ہو اس گروہ پر جس نے آپ کو شہید کیا، اور اللہ کی لعنت ہو ان پر جنہوں نے آپ کے خلاف جنگ کرنے والوں کے لیے سازگار حالات دیے۔"
+      },
+      {
+        "arabic": "بَرِئْتُ اِلَى اللهِ وَاِلَيْكُمْ مِنْهُمْ، وَمِنْ اَشْيَاعِهِمْ وَاَتْبَاعِهِمْ وَاَوْلِيَائِهِمْ",
+        "translation": "I disassociate myself from them, their cohorts, their followers, and their friends, turning towards Allah and towards you,",
+        "transliteration": "Bari'tu ila-llahi wa ilaykum minhum wa min ashya'ihim wa atba'ihim wa awliya'ihim",
+        "urduTranslation": "میں اللہ اور آپ کے سامنے ان لوگوں سے، ان کے ساتھیوں، پیروکاروں اور ان کے مددگاروں سے لا تعلقی کا اظہار کرتا ہوں۔"
+      },
+      {
+        "arabic": "يَا أَبَا عَبْدِ اللَّهِ، إِنِّي سِلْمٌ لِمَنْ سَالَمَكُمْ، وَحَرْبٌ لِمَنْ حَارَبَكُمْ إِلَى يَوْمِ الْقِيَامَةِ",
+        "translation": "O Abu Abdullah, indeed I am at peace with whomever is at peace with you, and at war with whomever is at war with you, until the Day of Resurrection,",
+        "transliteration": "Ya Aba 'Abdillah inni silmun liman salamakum wa harbun liman harabakum ila yawmi al-qiyamah",
+        "urduTranslation": "اے ابا عبداللہؑ! میں صلح کرنے والے سے صلح اور جنگ کرنے والے سے جنگ کی حالت میں ہوں قیامت کے دن تک۔"
+      },
+      {
+        "arabic": "وَلَعَنَ اللهُ آلَ زِيَادٍ وَآلَ مَرْوَانَ، وَلَعَنَ اللهُ بَنِي اُمَيَّةَ قَاطِبَةً، وَلَعَنَ اللهُ ابْنَ مَرْجَانَةَ",
+        "translation": "And may Allah curse the family of Ziyad and the family of Marwan, and curse the entire Bani Umayyah, and curse the son of Marjanah,",
+        "transliteration": "Wa la'anallahu ala ziyadin wa ala marwana wa la'anallahu bani umayyata qatibatan wa la'anallahu ibna marjanah",
+        "urduTranslation": "اور اللہ لعنت کرے آلِ زیاد اور آلِ مروان پر، اور اللہ لعنت کرے بنی امیہ کے تمام خاندان پر، اور اللہ لعنت کرے ابن مرجانہ پر۔"
+      },
+      {
+        "arabic": "وَلَعَنَ اللهُ عُمَرَ بْنَ سَعْدٍ، وَلَعَنَ اللهُ شِمْراً، وَلَعَنَ اللهُ اُمَّةً اَسْرَجَتْ وَاَلْجَمَتْ وَتَنَقَّبَتْ لِقِتَالِكُمْ",
+        "translation": "And may Allah curse Umar ibn Sa'd, and curse Shimr, and curse the community that saddled, bridled, and masked themselves for fighting you,",
+        "transliteration": "Wa la'anallahu 'umara-bna sa'din wa la'anallahu shimran wa la'anallahu ummatan asrajat wa aljamat wa tanaqqabat li-qitalikum",
+        "urduTranslation": "اور اللہ لعنت کرے عمر ابن سعد پر، اور شمر پر، اور اللہ لعنت کرے اس گروہ پر جس نے آپ سے جنگ کے لیے گھوڑوں پر زینیں کیں، لگامیں دیں اور چہروں کو چھپایا۔"
+      },
+      {
+        "arabic": "بِاَبِي اَنْتَ وَاُمِّي، لَقَدْ عَظُمَ مُصَابِي بِكَ، فَاَسْاَلُ اللهَ الَّذِي اَكْرَمَ مَقَامَكَ، وَاَكْرَمَنِي بِكَ، اَنْ يَرْزُقَنِي طَلَبَ ثَارِكَ مَعَ اِمَامٍ مَنْصُورٍ مِنْ اَهْلِ بَيْتِ مُحَمَّدٍ صَلَّى اللهُ عَلَيْهِ وَآلِهِ",
+        "translation": "My father and mother be ransomed for you! Indeed my grief for you is great. So I ask Allah, Who honored your station and honored me through you, that He grant me the opportunity to seek your vengeance along with a guided, victorious Imam from the household of Muhammad (s.a.w.s.),",
+        "transliteration": "Bi-abi anta wa ummi laqad 'adhuma musabi bika fa-as'alullaha al-ladhi akrama maqamaka wa akramani bika an yarzuqani talaba tharika ma'a imamin mansurin min ahli bayti Muhammadin sallallahu 'alayhi wa alihi",
+        "urduTranslation": "میرے ماں باپ آپ پر فدا ہوں! آپ کی مصیبت میرے لیے بہت گراں ہے۔ پس میں سوال کرتا ہوں اس پاک ذات سے جس نے آپ کی شان بڑھائی، اور مجھے آپ کی وجہ سے عزت دی، کہ وہ مجھے آلِ محمدؐ میں سے ایک نصرت پائے ہوئے امام کے ساتھ آپ کے خون کا بدلہ لینے کی توفیق دے۔"
+      },
+      {
+        "arabic": "اللَّهُمَّ اجْعَلْنِي عِنْدَكَ وَجِيهاً بِالْحُسَيْنِ عَلَيْهِ السَّلامُ فِي الدُّنْيَا وَالآخِرَةِ",
+        "translation": "O Allah, make me of high esteem in Your sight through Hussain (a.s.) in this world and the hereafter,",
+        "transliteration": "Allahumma ij'alni 'indaka wajihan bil-Hussaini 'alayhi-s-salamu fid-dunya wal-akhirah",
+        "urduTranslation": "اے اللہ! مجھے اپنے نزدیک معزز اور آبرو مند بنا امام حسینؑ کے واسطے سے دنیا اور آخرت میں۔"
+      },
+      {
+        "arabic": "يَا أَبَا عَبْدِ اللَّهِ، إِنِّي أَتَقَرَّبُ إِلَى اللَّهِ وَإِلَى رَسُولِهِ وَإِلَى أَمِيرِ الْمُؤْمِنِينَ وَإِلَى فَاطِمَةَ وَإِلَى الْحَسَنِ وَإِلَيْكَ بِمُوَالاتِكَ",
+        "translation": "O Abu Abdullah, indeed I seek proximity to Allah, to His Messenger, to the Commander of the Faithful, to Fatima, to Hassan, and to you through your love and alliance,",
+        "transliteration": "Ya Aba 'Abdillah inni ataqarrabu ila-llahi wa ila rasulihi wa ila amiri-l-mu'minina wa ila fatimata wa ila-l-hasani wa ilayka bi-muwalatik",
+        "urduTranslation": "اے ابا عبداللہؑ! میں قربت چاہتا ہوں اللہ کی، اس کے رسولؐ کی، امیر المومنینؑ کی، فاطمہؑ کی، حسنؑ کی اور آپ کی، آپ کی محبت اور ولایت کے ذریعے۔"
+      },
+      {
+        "arabic": "وَبِالْبَرَاءَةِ مِمَّنْ أَسَّسَ أَسَاسَ ذَلِكَ وَبَنَى عَلَيْهِ بُنْيَانَهُ، وَجَرَى فِي ظُلْمِهِ وَجَوْرِهِ عَلَيْكُمْ وَعَلَى أَشْيَاعِكُمْ",
+        "translation": "And through disassociation from those who laid the foundation of that tyranny, built upon it, and continued in their oppression and injustice against you and your followers,",
+        "transliteration": "Wa bil-bara'ati mimman assasat asaasa dhalika wa bana 'alayhi bunyanahu wa jara fi dhulmihi wa jawrihi 'alaykum wa 'ala ashya'ikum",
+        "urduTranslation": "اور براءت اور بیزاری کے ساتھ اس شخص سے جس نے اس ظلم کی بنیاد رکھی اور اس پر تعمیر کی، اور آپ پر اور آپ کے شیعوں پر اپنے ظلم و ستم کو جاری رکھا۔"
+      },
+      {
+        "arabic": "بَرِئْتُ إِلَى اللَّهِ وَإِلَيْكُمْ مِنْهُمْ، وَأَتَقَرَّبُ إِلَى اللَّهِ ثُمَّ إِلَيْكُمْ بِمُوَالاتِكُمْ وَمُوَالاةِ وَلِيِّكُمْ",
+        "translation": "I disown them before Allah and before you, and seek proximity to Allah and then to you through loving you and loving your friends,",
+        "transliteration": "Bari'tu ila-llahi wa ilaykum minhum wa ataqarrabu ila-llahi thumma ilaykum bi-muwalatikum wa muwalati waliyyikum",
+        "urduTranslation": "میں اللہ اور آپ کی بارگاہ میں ان سے بیزاری ظاہر کرتا ہوں، اور اللہ کا اور پھر آپ کا قرب حاصل کرتا ہوں آپ کی اور آپ کے دوستوں کی ولایت کے ذریعے۔"
+      },
+      {
+        "arabic": "وَبِالْبَرَاءَةِ مِنْ أَعْدَائِكُمْ، وَالنَّاصِبِينَ لَكُمُ الْحَرْبَ، وَبِالْبَرَاءَةِ مِنْ أَشْيَاعِهِمْ وَأَتْبَافِهِمْ",
+        "translation": "And through disassociation from your enemies and those who declare war against you, and through disassociation from their associates and followers,",
+        "transliteration": "Wa bil-bara'ati min a'da'ikum wan-nasibina lakumul-harb wa bil-bara'ati min ashya'ihim wa atba'ihim",
+        "urduTranslation": "اور آپ کے دشمنوں اور آپ کے مخالفین سے بیزاری کے ذریعے، اور ان کے حامیوں اور پیروکاروں سے براءت کے ذریعے۔"
+      },
+      {
+        "arabic": "إِنِّي سِلْمٌ لِمَنْ سَالَمَكُمْ، وَحَرْبٌ لِمَنْ حَارَبَكُمْ، وَوَلِيٌّ لِمَنْ وَالاكُمْ، وَعَدُوٌّ لِمَنْ عَادَاكُمْ",
+        "translation": "Indeed I am at peace with whomever is at peace with you, and at war with whomever is at war with you, and a friend of whomever befriended you, and an enemy of whomever was hostile to you,",
+        "transliteration": "Inni silmun liman salamakum wa harbun liman harabakum wa waliyyun liman walakum wa 'aduwwun liman 'adakum",
+        "urduTranslation": "بے شک میں صلح میں ہوں اس سے جو آپ سے صلح کرے، جنگ میں ہوں اس سے جو آپ سے جنگ کرے، دوست ہوں اس کا جو آپ سے محبت کرے، اور دشمن ہوں اس کا جو آپ سے دشمنی کرے۔"
+      },
+      {
+        "arabic": "فَأَسْأَلُ اللَّهَ الَّذِي أَكْرَمَنِي بِمَعْرِفَتِكُمْ وَمَعْرِفَةِ أَوْلِيَائِكُمْ، وَرَزَقَنِي الْبَرَاءَةَ مِنْ أَعْدَائِكُمْ",
+        "translation": "So I ask Allah, Who honored me through knowing you and knowing your friends, and granted me the grace to disassociate from your enemies,",
+        "transliteration": "Fa-as'alullaha al-ladhi akramani bi-ma'rifatikum wa ma'rifati awliya'ikum wa razaqani al-bara'ata min a'da'ikum",
+        "urduTranslation": "پس میں سوال کرتا ہوں اس اللہ سے جس نے مجھے آپ کی اور آپ کے اولیاء کی معرفت کے ذریعے عزت دی، اور مجھے آپ کے دشمنوں سے بیزاری کی توفیق عطا کی۔"
+      },
+      {
+        "arabic": "أَنْ يَجْعَلَنِي مَعَكُمْ فِي الدُّنْيَا وَالآخِرَةِ، وَأَنْ يُثَبِّتَ لِي عِنْدَكُمْ قَدَمَ صِدْقٍ فِي الدُّنْيَا وَالآخِرَةِ",
+        "translation": "That He place me with you in this world and the hereafter, and strengthen a truthful step for me in your presence in this world and the hereafter,",
+        "transliteration": "An yaj'alani ma'akum fid-dunya wal-akhirah wa an yuthabbita li 'indakum qadama sidqin fid-dunya wal-akhirah",
+        "urduTranslation": "کہ وہ مجھے دنیا اور آخرت میں آپ کے ساتھ رکھے، اور مجھے آپ کے نزدیک سچائی اور استقامت پر ثابت قدم رکھے دنیا اور آخرت میں۔"
+      },
+      {
+        "arabic": "وَأَسْأَلُهُ أَنْ يُبَلِّغَنِي الْمَقَامَ الْمَحْمُودَ لَكُمْ عِنْدَ اللَّهِ، وَأَنْ يَرْزُقَنِي طَلَبَ ثَارِي مَعَ إِمَامِ هُدًى ظَاهِرٍ نَاطِقٍ بِالْحَقِّ مِنْكُمْ",
+        "translation": "And I ask Him that He enable me to reach the praised station designed for you in Allah's sight, and to seek vengeance along with a guided, manifest, and truth-speaking Imam from among you,",
+        "transliteration": "Wa as'aluhu an yuballighani al-maqama al-mahmuda lakum 'indallahi wa an yarzuqani talaba thari ma'a imami hudan dhahirin natiqin bil-haqqi minkum",
+        "urduTranslation": "اور میں اس سے سوال کرتا ہوں کہ مجھے آپ کے نزدیک تعریف کی گئی بلند منزل (مقامِ محمود) پر پہنچائے، اور مجھے آپ میں سے ایک ہدایت یافتہ، ظاہر اور حق بولنے والے امام کے ہمراہ اپنے خون کا بدلہ لینے کی توفیق دے۔"
+      },
+      {
+        "arabic": "وَأَسْأَلُ اللَّهَ بِحَقِّكُمْ وَبِالشَّأْنِ الَّذِي لَكُمْ عِنْدَهُ أَنْ يُعْطِيَنِي بِمُصَابِي بِكُمْ أَفْضَلَ مَا يُعْطِي مُصَاباً بِمُصِيبَتِهِ",
+        "translation": "And I ask Allah, by your right and by the status you have with Him, that He grant me, on account of my grief for you, the best reward that is ever given to a person afflicted by tragedy,",
+        "transliteration": "Wa as'alullaha bi-haqqikum wabish-sha'ni al-ladhi lakum 'indahu an yu'tiyani bi-musabi bikum afdala ma yu'ti musaban bi-musibatih",
+        "urduTranslation": "اور میں اللہ سے آپ کے حق کے واسطے اور اس بلند مرتبے کے صدقے جو آپ کو اس کے یہاں حاصل ہے، سوال کرتا ہوں کہ وہ مجھے آپ کے غم میں ایسے بہترین اجر سے نوازے جو کسی غمناک کو اس کی مصیبت پر دیا جا سکتا ہے۔"
+      },
+      {
+        "arabic": "مُصِيبَةً مَا أَعْظَمَهَا وَأَعْظَمَ رَزِيَّتَهَا فِي الإِسْلامِ وَفِي جَمِيعِ السَّمَاوَاتِ وَالأَرْضِ",
+        "translation": "A tragedy so great, and a loss so monumental for Islam and in all of the heavens and the earth!",
+        "transliteration": "Musibatan ma a'dhamaha wa a'dhama raziyyataha fil-islami wa fi jami'i as-samawati wal-ard",
+        "urduTranslation": "ایسی مصیبت جو کتنی عظیم ہے اور اس کا دکھ کتنا بڑا ہے اسلام میں اور تمام آسمانوں اور زمین میں!"
+      },
+      {
+        "arabic": "اللَّهُمَّ اجْعَلْنِي فِي مَقَامِي هَذَا مِمَّنْ تَنَالُهُ مِنْكَ صَلَوَاتٌ وَرَحْمَةٌ وَمَغْفِرَةٌ",
+        "translation": "O Allah, make me in this position of mine among those who obtain from You blessings, mercy, and forgiveness,",
+        "transliteration": "Allahumma ij'alni fi maqami hadha mimman tanaluhu minka salawatun wa rahmatun wa maghfirah",
+        "urduTranslation": "اے اللہ! مجھے اپنے اس مقام پر ان لوگوں میں قرار دے جن پر تیری طرف سے درود، رحمت اور مغفرت نازل ہوتی ہے،"
+      },
+      {
+        "arabic": "اللَّهُمَّ اجْعَلْ مَحْيَايَ مَحْيَا مُحَمَّدٍ وَآلِ مُحَمَّدٍ، وَمَمَاتِي مَمَاتَ مُحَمَّدٍ وَآلِ مُحَمَّدٍ",
+        "translation": "O Allah, make my life like the life of Muhammad and the Progeny of Muhammad, and my death like the death of Muhammad and the Progeny of Muhammad,",
+        "transliteration": "Allahumma ij'al mahyaya mahya Muhammadin wa ali Muhammad, wa mamati mamata Muhammadin wa ali Muhammad",
+        "urduTranslation": "اے اللہ! میرا جینا محمدؐ اور آلِ محمدؐ کا سا جینا بنا دے، اور میری موت محمدؐ اور آلِ محمدؐ کی موت جیسی قرار دے،"
+      },
+      {
+        "arabic": "اللَّهُمَّ إِنَّ هَذَا يَوْمٌ تَبَرَّكَتْ بِهِ بَنُو أُمَيَّةَ وَابْنُ آكِلَةِ الأَكْبَادِ اللَّعِينُ ابْنُ اللَّعِينِ عَلَى لِسَانِكَ وَلِسَانِ نَبِيِّكَ",
+        "translation": "O Allah, indeed this is a day in which the family of Umayyah and the son of the liver-eating woman—the cursed, son of the cursed, on Your tongue and the tongue of Your Prophet—found joy and blessings,",
+        "transliteration": "Allahumma inna hadha yawmun tabarrakat bihi banu umayyata wabnu akilati al-akbadi al-la'inu ibnu al-la'ini 'ala lisanika wa lisani nabiyyika",
+        "urduTranslation": "اے اللہ! بے شک یہ وہ دن ہے جسے بنی امیہ اور جگر خور عورت کے بیٹے نے بابرکت جانا، وہ جو لعنت زدہ ہے اور لعنت زدہ کا بیٹا ہے تیری زبان پر اور تیرے نبیؐ کی زبان پر۔"
+      },
+      {
+        "arabic": "اللَّهُمَّ الْعَنْ أَبَا سُفْيَانَ وَمُعَاوِيَةَ وَيَزِيدَ بْنَ مُعَاوِيَةَ عَلَيْهِمْ مِنْكَ اللَّعْنَةُ أَبَدَ الآبِدِينَ",
+        "translation": "O Allah, curse Abu Sufyan, Mu'awiyah, and Yazid son of Mu'awiyah; upon them be eternal curse from You!",
+        "transliteration": "Allahumma-l'an aba sufyana wa mu'awiyata wa yazida-bna mu'awiyata 'alayhim minka al-la'natu abada al-abidin",
+        "urduTranslation": "اے اللہ! ابوسفیان، معاویہ اور یزید ابن معاویہ پر لعنت کر، ان پر تیری طرف سے ہمیشہ ہمیشہ لعنت ہو!"
+      },
+      {
+        "arabic": "اللَّهُمَّ خُصَّ أَنْتَ أَوَّلَ ظَالِمٍ بِاللَّعْنِ مِنِّي، وَابْدَأْ بِهِ أَوَّلاً، ثُمَّ الثَّانِيَ، ثُمَّ الثَّالِثَ وَالرَّابِعَ",
+        "translation": "O Allah, single out the first tyrant with my special curse, and begin with him first, then the second, then the third, and the fourth,",
+        "transliteration": "Allahumma khussa qahu awwala dhalimin bil-la'ni minni wabda' bihi awwalan thumma ath-thaniya thumma ath-thalitha war-rabi'a",
+        "urduTranslation": "اے اللہ! میرے مخصوص لعن کے ساتھ پہلے ظالم کو مخصوص فرما، اور اس کا آغاز پہلے سے کر، پھر دوسرے سے، پھر تیسرے سے، اور چوتھے سے۔"
+      },
+      {
+        "arabic": "اللَّهُمَّ الْعَنْ يَزِيدَ خَامِساً، وَالْعَنْ عُبَيْدَ اللَّهِ بْنَ زِيَادٍ وَابْنَ مَرْجَانَةَ وَعُمَرَ بْنَ سَعْدٍ وَشِمْراً وَآلَ أَبِي سُفْيَانَ وَآلَ زِيَادٍ وَآلَ مَرْوانَ إِلَى يَوْمِ الْقِيَامَةِ",
+        "translation": "O Allah, curse Yazid fifthly, and curse Ubaydullah ibn Ziyad, the son of Marjanah, Umar ibn Sa'd, Shimr, the family of Abu Sufyan, the family of Ziyad, and the family of Marwan, until the Day of Resurrection,",
+        "transliteration": "Allahumma-l'an yazida khamisan wal'an 'ubaydallahi-bna ziyadin wabna marjanata wa 'umara-bna sa'din wa shimran wa ala abi sufyana wa ala ziyadin wa ala marwana ila yawmi al-qiyamah",
+        "urduTranslation": "اے اللہ! یزید پر پانچویں نمبر پر لعنت کر، اور عبید اللہ بن زیاد، ابن مرجانہ، عمر بن سعد، شمر، آلِ ابی سفیان، آلِ زیاد اور آلِ مروان پر قیامت کے دن تک لعنت بھیج۔"
+      },
+      {
+        "arabic": "السَّلَامُ عَلَيْكَ يَا أَبَا عَبْدِ اللَّهِ وَعَلَى الْأَرْوَاحِ الَّتِي حَلَّتْ بِفِنَائِكَ، عَلَيْكَ مِنِّي سَلَامُ اللَّهِ أَبَدًا مَا بَقِيتُ وَبَقِيَ اللَّيْلُ وَالنَّهَارُ، وَلَا جَعَلَهُ اللَّهُ آخِرَ الْعَهْدِ مِنِّي لِزِيَارَتِكُمْ. السَّلَامُ عَلَى الْحُسَيْنِ، وَعَلَى عَلِيِّ بْنِ الْحُسَيْنِ، وَعَلَى أَوْلَادِ الْحُسَيْنِ، وَعَلَى أَصْحَابِ الْحُسَيْنِ",
+        "translation": "Peace be upon you, O Abu Abdullah, and upon the souls that gathered in your courtyard! Upon you from me be Allah's peace forever, so long as I remain and the night and day persist, and may Allah not make this the last visit of mine to you. Peace be upon Hussain, upon Ali son of Hussain, upon the children of Hussain, and upon the companions of Hussain,",
+        "transliteration": "As-salamu 'alayka ya Aba 'Abdillah wa 'ala al-arwahi al-lati hallat bi-fina'ika 'alayka minni salamu-llahi abadan ma baqiytu wa baqiya al-laylu wan-naharu wa la ja'alahu-llahu akhira al-'ahdi minni li-ziyaratikum. As-salamu 'ala al-Hussaini wa 'ala 'Aliyyi-bni al-Hussaini wa 'ala awladi al-Hussaini wa 'ala as-habi al-Hussain",
+        "urduTranslation": "سلام ہو آپ پر اے ابا عبداللہؑ! اور ان پاکیزہ روحوں پر جو آپ کے آستانے پر نازل ہوئیں۔ آپ پر میری طرف سے خدا کا سلام ہو ہمیشہ جب تک میں باقی ہوں اور رات دن باقی ہیں، اور خدا اسے آپ کی زیارت کا آخری عہد قرار نہ دے۔ سلام ہو امام حسینؑ پر، علیؑ ابن حسینؑ پر، اولادِ حسینؑ پر اور حسینؑ کے باوفا اصحاب پر۔"
+      },
+      {
+        "arabic": "اللَّهُمَّ لَكَ الْحَمْدُ حَمْدَ الشَّاكِرِينَ لَكَ عَلَى مُصَابِهِمْ، الْحَمْدُ لِلَّهِ عَلَى عَظِيمِ رَزِيَّتِي",
+        "translation": "O Allah, all praise is for You, the praise of the thankful to You on account of their tragedy. Praise be to Allah for my monumental loss,",
+        "transliteration": "Allahumma laka al-hamdu hamda ash-shakirina laka 'ala musabihim al-hamdu lillahi 'ala 'adhimi raziyyati",
+        "urduTranslation": "اے اللہ! تیرے ہی لیے حمد ہے، شکر گذاروں کی حمد ان کی مصیبتوں پر۔ تمام تعریفیں اللہ کے لیے ہیں اس بڑی مصیبت پر جو مجھ پر آئی۔"
+      },
+      {
+        "arabic": "اللَّهُمَّ ارْزُقْنِي شَفَاعَةَ الْحُسَيْنِ يَوْمَ الْوُرُودِ، وَثَبِّتْ لِي قَدَمَ صِدْقٍ عِنْدَكَ مَعَ الْحُسَيْنِ وَأَصْحَابِ الْحُسَيْنِ الَّذِينَ بَذَلُوا مُهَجَهُمْ دُونَ الْحُسَيْنِ عَلَيْهِ السَّلَامُ",
+        "translation": "O Allah, grant me the intercession of Hussain on the day of entering, and strengthen for me a truthful step in Your presence along with Hussain and the companions of Hussain—those who sacrificed their lifebloods for Hussain (a.s.)!",
+        "transliteration": "Allahumma irzuqni shafa'ata al-Hussaini yawma al-wurudi wa thabbit li qadama sidqin 'indaka ma'a al-Hussaini wa as-habi al-Hussaini al-ldhina badhalu muhajahum duna al-Hussaini 'alayhi s-salam",
+        "urduTranslation": "اے اللہ! مجھے قیامت میں داخل ہونے کے دن امام حسینؑ کی شفاعت عطا فرما، اور میرے قدم کو تیرے نزدیک حسینؑ اور حسینؑ کے باوفا اصحاب کے ساتھ سچائی پر ثابت قدم رکھ، وہ جنہوں نے اپنی جانیں امام حسینؑ پر قربان کر دیں۔"
+      }
+    ]
+  },
+  {
+    "id": "tawassul",
+    "title": "Dua Tawassul",
+    "category": "Famed Supplications",
+    "description": "A highly esteemed supplication seeking intercession through the Fourteen Infallibles (Ahlul Bayt a.s.) to ask Allah for quick relief from difficulties.",
+    "relevance": "Particularly recommended on Tuesday nights for wishes.",
+    "audioUrl": "http://sc.duas.org/sc/Tawassul_01.mp3",
+    "lines": [
+      {
+        "arabic": "بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ",
+        "translation": "In the name of Allah, the Beneficent, the Merciful.",
+        "transliteration": "Bismillahir-rahmarir-rahim",
+        "urduTranslation": "شروع کرتا ہوں اللہ کے نام سے جو بڑا مہربان اور نہایت رحم کرنے والا ہے۔"
+      },
+      {
+        "arabic": "اللَّهُمَّ إِنِّي أَسْأَلُكَ وَأَتَوَجَّهُ إِلَيْكَ بِنَبِيِّكَ نَبِيِّ الرَّحْمَةِ مُحَمَّدٍ صَلَّى اللَّهُ عَلَيْهِ وَآلِهِ",
+        "translation": "O Allah, indeed I ask You and turn toward You through Your Prophet, the Prophet of Mercy, Muhammad (s.a.w.s.)",
+        "transliteration": "Allahumma inni as'aluka wa atawajjahu ilayka bi-nabiyyika nabiyyir-rahmah Muhammadin sallallahu 'alayhi wa alihi",
+        "urduTranslation": "اے اللہ! میں تجھ سے مانگتا ہوں اور تیری طرف متوجہ ہوتا ہوں تیرے نبی، جو رحمت کے نبی ہیں محمد مصطفیؐ کے واسطے سے۔"
+      },
+      {
+        "arabic": "يَا أَبَا الْقَاسِمِ يَا رَسُولَ اللَّهِ يَا إِمَامَ الرَّحْمَةِ، يَا سَيِّدَنَا وَمَوْلانَا إِنَّا تَوَجَّهْنَا وَاسْتَشْفَعْنَا وَتَوَسَّلْنَا بِكَ إِلَى اللَّهِ، وَقَدَّمْنَاكَ بَيْنَ يَدَيْ حَاجَاتِنَا، يَا وَجِيهًا عِنْدَ اللَّهِ اشْفَعْ لَنَا عِنْدَ اللَّهِ",
+        "translation": "O Abu'l-Qasim, O Messenger of Allah, O Imam of Mercy! O our chief and master, indeed we turn toward you, seek intercession, and depend on you to reach Allah. We place you in front of our requests! O honorable one in the sight of Allah, intercede for us with Allah!",
+        "transliteration": "Ya Aba al-Qasim ya Rasulallah ya Imamar-rahmah, ya sayyidana wa mawlana inna tawajjahna wastashfa'na wa tawassalna bika ilallah, wa qaddamnake bayna yaday hajatina ya wajihan 'indallah ishfa' lana 'indallah",
+        "urduTranslation": "اے ابو القاسم! اے رسول خدا! اے رحمت کے امام! اے ہمارے آقا و مولا! بے شک ہم متوجہ ہوئے، شفاعت کے طلبگار ہوئے، اور خدا کی طرف وسیلہ بنایا آپ کو، اور آپ کو اپنی حاجتوں کے آگے پیش کیا، اے خدا کے ہاں معزز و آبرومند! ہماری شفاعت کیجیے خدا کے پاس!"
+      },
+      {
+        "arabic": "يَا أَبَا الْحَسَنِ يَا أَمِيرَ الْمُؤْمِنِينَ يَا عَلِيَّ بْنَ أَبِي طَالِبٍ، يَا حُجَّةَ اللَّهِ عَلَى خَلْقِهِ، يَا سَيِّدَنَا وَمَوْلانَا إِنَّا تَوَجَّهْنَا وَاسْتَشْفَعْنَا وَتَوَسَّلْنَا بِكَ إِلَى اللَّهِ، وَقَدَّمْنَاكَ بَيْنَ يَدَيْ حَاجَاتِنَا، يَا وَجِيهًا عِنْدَ اللَّهِ اشْفَعْ لَنَا عِنْدَ اللَّهِ",
+        "translation": "O Father of Hassan, O Commander of the Faithful, O Ali son of Abu Talib! O proof of Allah over His creation, O our chief and master! We turn toward you, seek intercession, and depend on you to reach Allah. We place you in front of our requests! O honorable one in the sight of Allah, intercede for us with Allah!",
+        "transliteration": "Ya Aba al-Hasan ya Amir al-Mu'minin ya 'Aliyya bna Abi Talib, ya hujjata-llahi 'ala khalqihi ya sayyidana wa mawlana...",
+        "urduTranslation": "اے ابو الحسن! اے امیر المومنین! اے علی ابن ابی طالبؑ! اے بندوں پر اللہ کی حجت! اے ہمارے سردار اور آقا! ہم نے آپ کے ذریعہ اللہ کی طرف توجہ کی، شفاعت چاہی اور وسیلہ بنایا۔ اے اللہ کے حضور سر بلند! اللہ کے ہاں ہماری شفاعت کیجیے!"
+      },
+      {
+        "arabic": "يَا فَاطِمَةُ الزَّهْرَاءُ يَا بِنْتَ مُحَمَّدٍ، يَا قُرَّةَ عَيْنِ الرَّسُولِ، يَا سَيِّدَتَنَا وَمَوْلاتَنَا إِنَّا تَوَجَّهْنَا وَاسْتَشْفَعْنَا وَتَوَسَّلْنَا بِكِ إِلَى اللَّهِ، وَقَدَّمْنَاكِ بَيْنَ يَدَيْ حَاجَاتِنَا، يَا وَجِيهَةً عِنْدَ اللَّهِ اشْفَعِي لَنَا عِنْدَ اللَّهِ",
+        "translation": "O Fatima the Radiant, O daughter of Muhammad! O comfort of the Messenger's eyes, O our chieftess and mistress! We turn toward you, seek intercession, and depend on you to reach Allah. We place you in front of our requests! O honorable one in the sight of Allah, intercede for us with Allah!",
+        "transliteration": "Ya Fatimatu-z-Zahra' ya binta Muhammad, ya qurrata 'ayni-r-rasul, ya sayyidatana wa mawlatana...",
+        "urduTranslation": "اے فاطمہ زہراؑ! اے دخترِ محمدؐ! اے رسولؐ کی چشم و چراغ! اے ہماری سیدہ و خاتونِ جنت! ہم نے آپ کے وسیلے سے اللہ کے پاس شفاعت چاہی، اے آبرو مندِ خدا! خدا کے حضور ہماری شفاعت فرمائیے!"
+      },
+      {
+        "arabic": "يَا أَبَا مُحَمَّدٍ يَا حَسَنَ بْنَ عَلِيٍّ أَيُّهَا الْمُجْتَبَى، يَا ابْنَ رَسُولِ اللَّهِ، يَا حُجَّةَ اللَّهِ عَلَى خَلْقِهِ، يَا سَيِّدَنَا وَمَوْلانَا إِنَّا تَوَجَّهْنَا وَاسْتَشْفَعْنَا وَتَوَسَّلْنَا بِكَ إِلَى اللَّهِ، وَقَدَّمْنَاكَ بَيْنَ يَدَيْ حَاجَاتِنَا، يَا وَجِيهًا عِنْدَ اللَّهِ اشْفَعْ لَنَا عِنْدَ اللَّهِ",
+        "translation": "O Father of Muhammad, O Hassan son of Ali! O Chosen One, O son of the Messenger of Allah, O Proof of Allah over His creation, O our chief and master! Intercede for us with Allah!",
+        "transliteration": "Ya Aba Muhammad ya Hasana-bna 'Aliyyin ayyuha-l-Mujtaba, yabna Rasulillah...",
+        "urduTranslation": "اے ابو محمد! اے حسن ابن علیؑ! اے مجتبٰی! اے فرزندِ رسولؐ! اے مخلوقِ خدا پر خدا کی حجت! اے ہمارے سید و سردار! خدا کے ہاں ہماری شفاعت فرمائیے!"
+      },
+      {
+        "arabic": "يَا أَبَا عَبْدِ اللَّهِ يَا حُسَيْنَ بْنَ عَلِيٍّ أَيُّهَا الشَّهِيدُ، يَا ابْنَ رَسُولِ اللَّهِ، يَا حُجَّةَ اللَّهِ عَلَى خَلْقِهِ، يَا سَيِّدَنَا وَمَوْلانَا إِنَّا تَوَجَّهْنَا وَاسْتَشْفَعْنَا وَتَوَسَّلْنَا بِكَ إِلَى اللَّهِ، وَقَدَّمْنَاكَ بَيْنَ يَدَيْ حَاجَاتِنَا، يَا وَجِيهًا عِنْدَ اللَّهِ اشْفَعْ لَنَا عِنْدَ اللَّهِ",
+        "translation": "O Father of Abdullah, O Hussain son of Ali! O Martyr, O son of the Messenger of Allah, O Proof of Allah over His creation, O our chief and master! Intercede for us with Allah!",
+        "transliteration": "Ya Aba 'Abdillah ya Husayna-bna 'Aliyyin ayyuha-sh-Shahidu, yabna Rasulillah...",
+        "urduTranslation": "اے ابا عبداللہ! اے حسین ابن علیؑ! اے شہیدِ کربلا! اے فرزندِ رسولؐ! اے مخلوق پر اللہ کی حجت! اے ہمارے مولا و سردار! اللہ کے حضور ہماری شفاعت فرمائیے!"
+      },
+      {
+        "arabic": "يَا أَبَا الْحَسَنِ يَا عَلِيَّ بْنَ الْحُسَيْنِ يَا زَيْنَ الْعَابِدِينَ، يَا حُجَّةَ اللَّهِ عَلَى خَلْقِهِ، يَا سَيِّدَنَا وَمَوْلانَا إِنَّا تَوَجَّهْنَا وَاسْتَشْفَعْنَا وَتَوَسَّلْنَا بِكَ إِلَى اللَّهِ، يَا وَجِيهًا عِنْدَ اللَّهِ اشْفَعْ لَنَا عِنْدَ اللَّهِ",
+        "translation": "O Father of Hassan, O Ali son of Hussain! O Ornament of the Worshippers, O Proof of Allah over His creation, O our chief and master! Intercede for us with Allah!",
+        "transliteration": "Ya Aba al-Hasan ya 'Aliyya-bna al-Husayn ya Zayna al-'Abidin...",
+        "urduTranslation": "اے ابو الحسن! اے علی ابن الحسینؑ! اے زین العابدینؑ! اے سجادؑ! اے مخلوقات پر اللہ کی حجت! اے ہمارے مولا و سردار! اللہ کے ہاں ہماری شفاعت کیجیے!"
+      },
+      {
+        "arabic": "يَا أَبَا جَعْفَرٍ يَا مُحَمَّدَ بْنَ عَلِيٍّ أَيُّهَا الْبَاقِرُ، يَا ابْنَ رَسُولِ اللَّهِ، يَا حُجَّةَ اللَّهِ عَلَى خَلْقِهِ، يَا سَيِّدَنَا وَمَوْلانَا إِنَّا تَوَجَّهْنَا وَاسْتَشْفَعْنَا وَتَوَسَّلْنَا بِكَ إِلَى اللَّهِ، يَا وَجِيهًا عِنْدَ اللَّهِ اشْفَعْ لَنَا عِنْدَ اللَّهِ",
+        "translation": "O Father of Ja'far, O Muhammad son of Ali! O Splitter of Knowledge (al-Baqir), O son of the Messenger of Allah! Intercede for us with Allah!",
+        "transliteration": "Ya Aba Ja'far ya Muhammada-bna 'Aliyyin ayyuha-l-Baqir...",
+        "urduTranslation": "اے ابو جعفر! اے محمد ابن علیؑ! اے باقر العلومؑ! اے رسول خدا کے فرزند و محبوب! اے ہمارے سید و مقتدا! اللہ کے حضور ہماری سفارش فرمائیے!"
+      },
+      {
+        "arabic": "يَا أَبَا عَبْدِ اللَّهِ يَا جَعْفَرَ بْنَ مُحَمَّدٍ أَيُّهَا الصَّادِقُ، يَا حُجَّةَ اللَّهِ عَلَى خَلْقِهِ، يَا Sَيِّدَنَا وَمَوْلانَا إِنَّا تَوَجَّهْنَا وَاسْتَشْفَعْنَا وَتَوَسَّلْنَا بِكَ إِلَى اللَّهِ، يَا وَجِيهًا عِنْدَ اللَّهِ اشْفَعْ لَنَا عِنْدَ اللَّهِ",
+        "translation": "O Father of Abdullah, O Ja'far son of Muhammad! O Truthful One (as-Sadiq), O Proof of Allah over His creation, O our chief and master! Intercede for us with Allah!",
+        "transliteration": "Ya Aba 'Abdillah ya Ja'fara-bna Muhammadin ayyuha-s-Sadiq...",
+        "urduTranslation": "اے ابا عبداللہ! اے جعفر ابن محمدؑ! اے جعفرِ صادقؑ! اے مخلوق پر اللہ کی واضع حجت! اے ہمارے سردار! اللہ کے پاس ہماری سفارش و شفاعت کیجیے!"
+      },
+      {
+        "arabic": "يَا أَبَا الْحَسَنِ يَا مُوسَى بْنَ جَعْفَرٍ أَيُّهَا الْكَاظِمُ، يَا حُجَّةَ اللَّهِ عَلَى خَلْقِهِ، يَا سَيِّدَنَا وَمَوْلانَا إِنَّا تَوَجَّهْنَا وَاسْتَشْفَعْنَا وَتَوَسَّلْنَا بِكَ إِلَى اللَّهِ، يَا وَجِيهًا عِنْدَ اللَّهِ اشْفَعْ لَنَا عِنْدَ اللَّهِ",
+        "translation": "O Father of Hassan, O Musa son of Ja'far! O Restrainer of Anger (al-Kadhim), O Proof of Allah over His creation! Intercede for us with Allah!",
+        "transliteration": "Ya Aba al-Hasan ya Musa-bna Ja'farin ayyuha-l-Kadhim...",
+        "urduTranslation": "اے ابو الحسن! اے موسیٰ ابن جعفرؑ! اے کاظمِ آلِ محمدؑ! اے زمین پر خدا کے برحق خلیفہ! اے ہمارے ممدوح آقا! اللہ کے ہاں ہماری شفاعت کیجیے!"
+      },
+      {
+        "arabic": "يَا أَبَا الْحَسَنِ يَا عَلِيَّ بْنَ مُوسَى أَيُّهَا الرِّضَا، يَا حُجَّةَ اللَّهِ عَلَى خَلْقِهِ، يَا سَيِّدَنَا وَمَوْلانَا إِنَّا تَوَجَّهْنَا وَاسْتَشْفَعْنَا وَتَوَسَّلْنَا بِكَ إِلَى اللَّهِ، يَا وَجِيهًا عِنْدَ اللَّهِ اشْفَعْ لَنَا عِنْدَ اللَّهِ",
+        "translation": "O Father of Hassan, O Ali son of Musa! O Pleased One (ar-Reza), O Proof of Allah over His creation! Intercede for us with Allah!",
+        "transliteration": "Ya Aba al-Hasan ya 'Aliyya-bna Musa ayyuha-r-Rida...",
+        "urduTranslation": "اے ابو الحسن! اے علی ابن موسیٰؑ! اے امام رضاؑ! اے ضامنِ غریباں! اے اللہ کی مخلوق پر حجتِ الہیٰ! اے ہمارے امامِ رؤف! اللہ کے حضور ہماری شفاعت کیجیے!"
+      },
+      {
+        "arabic": "يَا أَبَا جَعْفَرٍ يَا مُحَمَّدَ بْنَ عَلِيٍّ أَيُّهَا التَّقِيُّ الْجَوَادُ، يَا حُجَّةَ اللَّهِ عَلَى خَلْقِهِ، يَا سَيِّدَنَا وَمَوْلانَا إِنَّا تَوَجَّهْنَا وَاسْتَشْفَعْنَا وَتَوَسَّلْنَا بِكَ إِلَى اللَّهِ، يَا وَجِيهًا عِنْدَ اللَّهِ اشْفَعْ لَنَا عِنْدَ اللَّهِ",
+        "translation": "O Father of Ja'far, O Muhammad son of Ali! O Pious Generous One (al-Jawad), O Proof of Allah over His creation! Intercede for us with Allah!",
+        "transliteration": "Ya Aba Ja'far ya Muhammada-bna 'Aliyyin ayyuha-t-Taqiyyu-l-Jawad...",
+        "urduTranslation": "اے ابو جعفر! اے محمد ابن علیؑ! اے محمد تقیؑ الجوادؑ! اے فرزندِ رسولؐ! اے اللہ کے بندوں پر واضح حجت! اے ہمارے پیارے آقا! اللہ کے پاس ہماری شفاعت فرمائیے!"
+      },
+      {
+        "arabic": "يَا أَبَا الْحَسَنِ يَا عَلِيَّ بْنَ مُحَمَّدٍ أَيُّهَا الْهَادِي النَّقِيُّ، يَا حُجَّةَ اللَّهِ عَلَى خَلْقِهِ، يَا سَيِّدَنَا وَمَوْلانَا إِنَّا تَوَجَّهْنَا وَاسْتَشْفَعْنَا وَتَوَسَّلْنَا بِكَ إِلَى اللَّهِ، يَا وَجِيهًا عِنْدَ اللَّهِ اشْفَعْ لَنَا عِنْدَ اللَّهِ",
+        "translation": "O Father of Hassan, O Ali son of Muhammad! O Guide Pure One (al-Hadi), O Proof of Allah over His creation! Intercede for us with Allah!",
+        "transliteration": "Ya Aba al-Hasan ya 'Aliyya-bna Muhammadin ayyuha-l-Hadiyyu-n-Naqiyy...",
+        "urduTranslation": "اے ابو الحسن! اے علی ابن محمدؑ! اے علی نقیؑ النقی الہادیؑ! اے اللہ کی مخلوق پر عظیم حجت! اے ہمارے پاکباز سردار! اللہ کے ہاں ہماری شفاعت کیجیے!"
+      },
+      {
+        "arabic": "يَا أَبَا مُحَمَّدٍ يَا حَسَنَ بْنَ عَلِيٍّ أَيُّهَا الْعَسْكَرِيُّ، يَا حُجَّةَ اللَّهِ عَلَى خَلْقِهِ، يَا سَيِّدَنَا وَمَوْلانَا إِنَّا تَوَجَّهْنَا وَاسْتَشْفَعْنَا وَتَوَسَّلْنَا بِكَ إِلَى اللَّهِ، يَا وَجِيهًا عِنْدَ اللَّهِ اشْفَعْ لَنَا عِنْدَ اللَّهِ",
+        "translation": "O Father of Muhammad, O Hassan son of Ali! O Soldierly One (al-Askari), O Proof of Allah over His creation! Intercede for us with Allah!",
+        "transliteration": "Ya Aba Muhammad ya Hasana-bna 'Aliyyin ayyuha-l-'Askariyy...",
+        "urduTranslation": "اے ابو محمد! اے حسن ابن علیؑ! اے حسن عسکریؑ! اے مخلوق پر کائنات کے مالک کی روشن حجت! اے ہمارے مولا! ہمارے لیے اللہ سے رحمت اور بخشش کی سفارش کیجیے!"
+      },
+      {
+        "arabic": "يَا وَصِيَّ الْحَسَنِ وَالْخَلَفَ الْحُجَّةَ أَيُّهَا الْقَائِمُ الْمُنْتَظَرُ الْمَهْدِيُّ، يَا ابْنَ رَسُولِ اللَّهِ، يَا حُجَّةَ اللَّهِ عَلَى خَلْقِهِ، يَا سَيِّدَنَا وَمَوْلانَا إِنَّا تَوَجَّهْنَا وَاسْتَشْفَعْنَا وَتَوَسَّلْنَا بِكَ إِلَى اللَّهِ، يَا وَجِيهًا عِنْدَ اللَّهِ اشْفَعْ لَنَا عِنْدَ اللَّهِ",
+        "translation": "O Successor of Hassan, O Rightful Proof, O Awaited Savior, the Mahdi! O son of the Messenger of Allah, O Proof of Allah over His creation, O our chief and master! Intercede for us with Allah!",
+        "transliteration": "Ya wasiyya-l-Hasani wal-khalafa-l-hujjata ayyuha-l-Qa'imu-l-Muntadharu-l-Mahdiyyu yabna Rasulillah...",
+        "urduTranslation": "اے حسنؑ عسکری کے سچے جانشین اور خلفِ صالح! اے قائمِ آلِ محمدؑ! اے امامِ مہدیؑ منتظر! اے رسولِ خدا کے پیارے فرزند! اے مخلوقِ خدا پر خدا کی غائب حجت! اے ہمارے غائب مولا! خدا کے حضور جلد ظہور کے لیے شفاعت کیجیے!"
+      },
+      {
+        "arabic": "يَا سَادَتِي وَمَوَالِيَّ، إِنِّي تَوَجَّهْتُ بِكُمْ أَئِمَّتِي وَعُدَّتِي لِيَوْمِ فَقْرِي وَحَاجَتِي إِلَى اللَّهِ، وَتَوَسَّلْتُ بِكُمْ إِلَى اللَّهِ، وَاسْتَشْفَعْتُ بِكُمْ إِلَى اللَّهِ، فَاشْفَعُوا لِي عِنْدَ اللَّهِ، وَاسْتَنْقِذُونِي مِنْ ذُنُوبِي عِنْدَ اللَّهِ، فَإِنَّكُمْ وَسِيلَتِي إِلَى اللَّهِ",
+        "translation": "O my masters and leaders, indeed I turn towards you, my Imams and my preparation for the day of my poverty and need. I depend on you and seek intercession with Allah. Intercede for me, and rescue me from my sins. For indeed you are my means of reaching Allah!",
+        "transliteration": "Ya sadati wa mawaliyya, inni tawajjahru bikum a'immati wa 'uddati li-yawmi faqri wa hajati...",
+        "urduTranslation": "اے میرے معزز آقاؤں اور سرداروں! میں نے آپ سب کے وسیلے سے اللہ کی طرف رخ کیا، آپ میرے ائمہ ہیں اور میرے عسرت کے دن کا سرمایہ ہیں! پس خدا کے حضور میری سفارش کیجیے، اور مجھے میرے گناہوں سے بچائیے! سچ مچ آپ سب خدا کے حضور میرے وسیلہ نجات ہیں!"
+      }
+    ]
+  },
+  {
+    "id": "nudba",
+    "title": "Dua Nudba",
+    "category": "Weekly Supplications",
+    "description": "The Supplication of Lamentation, reciting the epic history of guides, prophets, and mourning the occultation of the Savior, Imam al-Mahdi (a.t.f.s.).",
+    "relevance": "Recited on Friday mornings and major Eid days.",
+    "audioUrl": "http://sc.duas.org/sc/Nudba_01.mp3",
+    "lines": [
+      {
+        "arabic": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ وَصَلَّى اللَّهُ عَلَى سَيِّدِنَا مُحَمَّدٍ نَبِيِّهِ وَآلِهِ وَسَلَّمَ تَسْلِيمًا",
+        "translation": "Praise be to Allah, the Lord of the worlds, and blessings of Allah are on our chief Muhammad His Prophet and his progeny,",
+        "transliteration": "Al-hamdu lillahi rabbil-'alamin wa sallallahu 'ala sayyidina Muhammadin nabiyyihi wa alihi wa sallamal taslima",
+        "urduTranslation": "سب تعریفیں اللہ کے لیے ہیں جو کائنات کا پروردگار ہے اور درود و سلام ہو ہمارے آقا محمدؐ پر جو اس کے برگزیدہ پیغمبر ہیں اور ان کی آل پر!"
+      },
+      {
+        "arabic": "اللَّهُمَّ لَكَ الْحَمْدُ عَلَى مَا جَرَى بِهِ قَضَاؤُكَ فِي أَوْلِيَائِكَ",
+        "translation": "O Allah, Yours is the praise for what ran in Your decree concerning Your close friends,",
+        "transliteration": "Allahumma lakal-hamdu 'ala ma jara bihi qada'uka fi awliya'ika",
+        "urduTranslation": "اے اللہ! تیرے ہی لیے حمد و ثنا ہے اس فیصلے پر جو تو نے اپنے پیارے بندوں (اولیاء) کے بارے میں صادر فرمایا،"
+      },
+      {
+        "arabic": "الَّذِينَ اسْتَخْلَصْتَهُمْ لِنَفْسِكَ وَدِينِكَ، إِذِ اخْتَرْتَ لَهُمْ جَزِيلَ مَا عِنْدَكَ مِنَ النَّعِيمِ الْمُقِيمِ",
+        "translation": "Those whom You isolated specifically for Yourself and Your religion, as You chose for them the abundant rewards of the lasting bliss,",
+        "transliteration": "Al-ladhinastakhlastahum linafsika wa dinika idh-ikhtarta lahum jazila ma 'indaka minan-na'imil-muqim",
+        "urduTranslation": "وہ جنہیں تو نے خالص کر دیا اپنی بارگاہ کے لیے اور اپنے سچے دین کے واسطے، جبکہ تو نے ان کے لیے ابدی اور لازوال نعمتوں کو چنا،"
+      },
+      {
+        "arabic": "أَيْنَ الْحَسَنُ؟ أَيْنَ الْحُسَيْنُ؟ أَيْنَ أَبْنَاءُ الْحُسَيْنِ؟ صَالِحٌ بَعْدَ صَالِحٍ، وَصَادِقٌ بَعْدَ صَادِقٍ",
+        "translation": "Where is Hassan? Where is Hussain? Where are the sons of Hussain? Righteous after righteous, truthful after truthful!",
+        "transliteration": "Ayna al-Hasan? Ayna al-Husayn? Ayna abna'u al-Husayn? Salihun ba'da salihin wa sadiqun ba'da sadiqin",
+        "urduTranslation": "امام حسنؑ کہاں ہیں؟ امام حسینؑ کہاں ہیں؟ حسینؑ کی پاکیزہ اولاد کہاں ہے؟ جو ایک کے بعد ایک صالح اور ایک کے بعد ایک سچے امام تھے!"
+      },
+      {
+        "arabic": "أَيْنَ طَالِبُ بِدَمِ الْمَقْتُولِ بِكَرْبَلاءَ؟",
+        "translation": "Where is the seeker of the blood of the one slain in Karbala?",
+        "transliteration": "Ayna talibu bi-dami al-maqtuli bi-Karbala'?",
+        "urduTranslation": "کربلا کے پیاسے شہیدِ مظلوم کے خون کا بدلہ لینے والا کہاں ہے؟"
+      },
+      {
+        "arabic": "أَيْنَ الْمُنْتَظَرُ لإقَامَةِ الأَمْتِ وَالعِوَجِ؟",
+        "translation": "Where is the awaited one for straightening the crookedness and deviations?",
+        "transliteration": "Ayna al-muntadharu li-iqamati al-amti wa al-'iwaj?",
+        "urduTranslation": "ٹیڑھے پن اور برائیوں کو سیدھا کرنے کے لیے منتظر ہستی کہاں ہے؟"
+      },
+      {
+        "arabic": "أَيْنَ بَقِيَّةُ اللَّهِ الَّتِي لا تَخْلُو مِنَ الْعِتْرَةِ الْهَادِيَةِ؟",
+        "translation": "Where is the Remnant of Allah who is never absent from the guiding progeny?",
+        "transliteration": "Ayna baqiyyatu-llahi al-lati la takhlu mina al-'itrah al-hadiyah?",
+        "urduTranslation": "وہ بقیہ اللہ (امام مہدیؑ) کہاں ہیں جو ہدایت کار اور رہبر خاندان عترت سے کبھی خالی نہیں ہوتے؟"
+      },
+      {
+        "arabic": "بِنَفْسِي أَنْتَ مِنْ مُغَيَّبٍ لَمْ يَخْلُ مِنَّا، بِنَفْسِي أَنْتَ مِنْ نَازِحٍ مَا نَزَحَ عَنَّا",
+        "translation": "May my soul be a ransom for you, you who are hidden but never absent from us! May my soul be a ransom for you, you who are far but never withdrew from us!",
+        "transliteration": "Bi-nafsi anta min mughayyabin lam yakhlu minna, bi-nafsi anta min nazihin ma nazaha 'anna",
+        "urduTranslation": "मेरी جان آپ پر قربان ہو کہ آپ غیب میں ہیں مگر ہم سے الگ نہیں! میری جان آپ پر نثار کہ آپ دور ہیں مگر ہم سے دور نہیں!"
+      },
+      {
+        "arabic": "إِلَى مَتَى أَحَارُ فِيكَ يَا مَوْلايَ، وَإِلَى مَتَى؟ وَأَيَّ خِطَابٍ أَصِفُ فِيكَ وَأَيَّ نَجْوَى؟",
+        "translation": "How long will I be bewildered concerning you, O my Master, and how long? And with what address shall I describe you and what whisper?",
+        "transliteration": "Ila mata aharu fika ya mawlay wa ila mata? Wa ayya khitabin asifu fika wa ayya najwa?",
+        "urduTranslation": "اے میرے پیارے آقا! میں کب تک آپ کی جدائی میں حیراں رہوں گا اور کب تک؟ اور کس کلام سے میں آپ کا وصف بیان کروں اور کس راز و نیاز سے گفتگو کروں؟"
+      },
+      {
+        "arabic": "اللَّهُمَّ أَرِنِي الطَّلْعَةَ الرَّشِيدَةَ، وَالْغُرَّةَ الْحَمِيدَةَ، وَاكْحُلْ نَاظِرِي بِنَظْرَةٍ مِنِّي إِلَيْهِ",
+        "translation": "O Allah, show me the rightly-guided face and the praiseworthy forehead, and comfort my eyes with a single glance from me at him!",
+        "transliteration": "Allahumma arini at-tal'ata ar-rashidata wal-ghurrata al-hamidata wak-hul nadhiri bi-nadhratin minni ilayh",
+        "urduTranslation": "اے اللہ! مجھے وہ پر برکت چہرہ اور وہ قابلِ تعریف پیشانی دکھا دے، اور میری آنکھوں کو ان کے ایک جلوے سے تسکین عطا فرما!"
+      }
+    ]
+  },
+  {
+    "id": "waritha",
+    "title": "Ziyarat Waritha",
+    "category": "Holy Ziyarats",
+    "description": "An exquisite saludo declaring Imam Hussain (a.s.) as the inheritor of the messages of Adam, Noah, Abraham, Moses, Jesus, and Muhammad.",
+    "relevance": "Recited frequently when visiting or remembering Imam Hussain (a.s.).",
+    "audioUrl": "http://sc.duas.org/sc/Waritha_01.mp3",
+    "lines": [
+      {
+        "arabic": "السَّلامُ عَلَيْكَ يَا وَارِثَ آدَمَ صَفْوَةِ اللَّهِ",
+        "translation": "Peace be upon you, O inheritor of Adam, the chosen of Allah!",
+        "transliteration": "As-salam 'alayka ya waritha Adama safwatillah",
+        "urduTranslation": "سلام ہو آپ پر اے آدمؑ کے وارث جو اللہ کے چنیدہ بندے ہیں!"
+      },
+      {
+        "arabic": "السَّلامُ عَلَيْكَ يَا وَارِثَ نُوحٍ نَبِيِّ اللَّهِ",
+        "translation": "Peace be upon you, O inheritor of Noah, the Prophet of Allah!",
+        "transliteration": "As-salam 'alayka ya waritha Nuhin nabiyyillah",
+        "urduTranslation": "سلام ہو آپ پر اے نوحؑ کے وارث جو اللہ کے سچے نبی ہیں!"
+      },
+      {
+        "arabic": "السَّلامُ عَلَيْكَ يَا وَارِثَ إِبْرَاهِيمَ خَلِيلِ اللَّهِ",
+        "translation": "Peace be upon you, O inheritor of Abraham, the beloved of Allah!",
+        "transliteration": "As-salam 'alayka ya waritha Ibrahima khalilillah",
+        "urduTranslation": "سلام ہو آپ پر اے ابراہیمؑ کے وارث جو خدا کے خلیل ہیں!"
+      },
+      {
+        "arabic": "السَّلامُ عَلَيْكَ يَا وَارِثَ مُوسَى كَلِيمِ اللَّهِ",
+        "translation": "Peace be upon you, O inheritor of Moses, the spoken one of Allah!",
+        "transliteration": "As-salam 'alayka ya waritha Musa kalimillah",
+        "urduTranslation": "سلام ہو آپ پر اے موسیٰؑ کے وارث جو کلیم اللہ ہیں!"
+      },
+      {
+        "arabic": "السَّلامُ عَلَيْكَ يَا وَارِثَ عِيسَى رُوحِ اللَّهِ",
+        "translation": "Peace be upon you, O inheritor of Jesus, the spirit of Allah!",
+        "transliteration": "As-salam 'alayka ya waritha 'Isa ruhillah",
+        "urduTranslation": "سلام ہو آپ پر اے عیسیٰؑ کے وارث جو روح اللہ ہیں!"
+      },
+      {
+        "arabic": "السَّلامُ عَلَيْكَ يَا وَارِثَ مُحَمَّدٍ حَبِيبِ اللَّهِ",
+        "translation": "Peace be upon you, O inheritor of Muhammad, the beloved of Allah!",
+        "transliteration": "As-salam 'alayka ya waritha Muhammadin habibillah",
+        "urduTranslation": "سلام ہو آپ پر اے حضرت محمد مصطفیؐ کے وارث جو حبیب اللہ ہیں!"
+      },
+      {
+        "arabic": "السَّلامُ عَلَيْكَ يَا وَارِثَ أَمِيرِ الْمُؤْمِنِينَ وَلِيِّ اللَّهِ",
+        "translation": "Peace be upon you, O inheritor of the Commander of the Faithful and friend of Allah!",
+        "transliteration": "As-salam 'alayka ya waritha Amir al-Mu'minin waliyyillah",
+        "urduTranslation": "سلام ہو آپ پر اے امیر الموننینؑ علی ابن ابی طالبؑ کے وارث جو ولی اللہ ہیں!"
+      },
+      {
+        "arabic": "أَشْهَدُ أَنَّكَ قَدْ أَقَمْتَ الصَّلَواةَ، وَآتَيْتَ الزَّكَاةَ، وَأَمَرْتَ بِالْمَعْرُوفِ، وَنَهَيْتَ عَنِ الْمُنْكَرِ",
+        "translation": "I bear witness that you indeed established the prayer, paid the poor-rate, enjoined the good, and forbade the evil,",
+        "transliteration": "Ashhadu annaka qad aqamta as-salata wa atayta az-zakata wa amarta bil-ma'rufi wa nahayta 'an il-munkari",
+        "urduTranslation": "میں گواہی دیتا ہوں کہ آپ نے نماز کو قائم کیا، زکوٰۃ ادا کی، نیکی کا حکم دیا اور برائی سے روکا،"
+      },
+      {
+        "arabic": "وَأَطَعْتَ اللَّهَ وَرَسُولَهُ حَتَّى أَتَاكَ الْيَقِينُ",
+        "translation": "And obeyed Allah and His Messenger until certainty (death) came to you,",
+        "transliteration": "Wa ata'ta-llaha wa rasulahu hatta ataka al-yaqin",
+        "urduTranslation": "اور خدا اور اس کے رسولؐ کی کامل فرمانبرداری کی یہاں تک کہ آپ کے پاس یقین (شہادت) آگئی۔"
+      },
+      {
+        "arabic": "فَلَعَنَ اللَّهُ أُمَّةً قَتَلَتْكَ، وَلَعَنَ اللَّهُ أُمَّةً ظَلَمَتْكَ، وَلَعَنَ اللَّهُ أُمَّةً سَمِعَت| بِذَلِكَ فَرَضِيَت| بِهِ",
+        "translation": "So may Allah curse the community that killed you, curse the community that oppressed you, and curse the community that heard about that and was pleased with it!",
+        "transliteration": "Fa-la'ana-llahu ummatan qatalatka wa la'ana-llahu ummatan dhalamatka...",
+        "urduTranslation": "پس خدا کی لعنت ہو اس قوم پر جس نے آپ کو قتل کیا، اور خدا کی لعنت ہو اس قوم پر جس نے آپ پر ظلم ڈھایا، اور خدا کی لعنت ہو اس گروہ پر جس نے یہ خبر سنی تو اس پر راضی و خوش ہوا!"
+      }
+    ]
+  },
+  {
+    "id": "ahad",
+    "title": "Dua Ahad",
+    "category": "Daily Supplications",
+    "description": "A covenant supplication. Imam Sadiq (a.s.) stated that whoever recites this supplication for 40 consecutive mornings will be numbered among the helpers of Imam al-Mahdi (a.t.f.s.).",
+    "relevance": "Traditionally recited at dawn or early mornings.",
+    "audioUrl": "http://sc.duas.org/sc/Ahad_01.mp3",
+    "lines": [
+      {
+        "arabic": "بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ",
+        "translation": "In the name of Allah, the Beneficent, the Merciful.",
+        "transliteration": "Bismillahir-rahmarir-rahim",
+        "urduTranslation": "شروع کرتا ہوں اللہ کے نام سے جو بڑا مہربان اور نہایت رحم کرنے والا ہے۔"
+      },
+      {
+        "arabic": "اللَّهُمَّ رَبَّ النُّورِ الْعَظِيمِ، وَرَبَّ الْكُرْسِيِّ الرَّفِيعِ، وَرَبَّ الْبَحْرِ الْمَسْجُورِ",
+        "translation": "O Allah, Lord of the Great Light, Lord of the elevated Throne, Lord of the swelling sea,",
+        "transliteration": "Allahumma Rabba an-nuri al-'adhim wa Rabba al-kursiyyi ar-rafi' wa Rabba al-bahril-masjur",
+        "urduTranslation": "اے اللہ! اے نورِ عظیم کے پروردگار! اے فلکِ رفیع کے پروردگار! اور اے بھڑکتے ہوئے سمندر کے پروردگار!"
+      },
+      {
+        "arabic": "وَمُنْزِلَ التَّوْرَاةِ وَالإِنْجِيلِ وَالزَّبُورِ، وَرَبَّ الظِّلِّ وَالْحَرُورِ",
+        "translation": "Sender of the Torah, the Gospel and the Psalms, and Lord of the shade and the heat,",
+        "transliteration": "Wa munzila at-tawrati wal-injili waz-zaburi wa Rabba adh-dhilli wal-harur",
+        "urduTranslation": "اور تورات، انجیل اور زبور کو نازل فرمانے والے! اور سایہ و شدید تپش کے پروردگار!"
+      },
+      {
+        "arabic": "اللَّهُمَّ بَلِّغْ مَوْلانَا الإِمَامَ الْهَادِيَ الْمَهْدِيَّ الْقَائِمَ بِأَمْرِكَ، صَلَوَاتُ اللَّهِ عَلَيْهِ وَعَلَى آبَائِهِ الطَّاهِرِينَ",
+        "translation": "O Allah, convey to our master the guiding Imam, the Mahdi, the upholder of Your Command, blessings of Allah be on him and on his purified forefathers,",
+        "transliteration": "Allahumma balligh mawlana al-Imam al-Hadiya al-Mahdiya al-Qa'ima bi-amrika",
+        "urduTranslation": "اے اللہ! ہمارے آٹو اور ہادی و مہدی امام، جو تیرے امر سے قائم ہیں، ان تک درود و سلام پہنچا، ان پر اور ان کے تمام پاک آباء و اجداد پر،"
+      },
+      {
+        "arabic": "عَنْ جَمِيعِ الْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ فِي مَشَارِقِ الأَرْضِ وَمَغَارِبِهَا، سَهْلِهَا وَجَبَلِهَا، وَبَرِّهَا وَبَحْرِهَا",
+        "translation": "From all the believing men and believing women in the east of the earth and its west, its plains and its mountains, its lands and its seas,",
+        "transliteration": "An jami'il-mu'minina wal-mu'minati fi mashariqi al-ardi wa magharibiha...",
+        "urduTranslation": "زمین کے مشرقوں اور مغربوں میں بسنے والے تمام مومن مردوں اور مومنہ عورتوں کی جانب سے، اس کے میدانوں، پہاڑوں، خشکی اور سمندر میں،"
+      },
+      {
+        "arabic": "اللَّهُمَّ إِنِّي أُجَدِّدُ لَهُ فِي صَبِيحَةِ يَوْمِي هَذَا، وَمَا عِشْتُ مِنْ أَيَّامِي، عَهْدًا وَعَقْدًا وَبَيْعَةً لَهُ فِي عُنُقِي",
+        "translation": "O Allah, I renew to him on this morning of mine, and for whatever days I live, a covenant, a contract, and an oath of allegiance on my neck,",
+        "transliteration": "Allahumma inni ujaddidu lahu fi sabihati yawmi hadha wa ma 'ishtu min ayyami 'ahdan wa 'aqdan wa bay'atan lahu fi 'unuqi",
+        "urduTranslation": "اے اللہ! میں ان کی بارگاہ میں اپنے اس دن کی صبح، اور جب تک زندہ رہوں، اپنی گردن پر ان کے عہد، عَقْد اور بیعت کی تجدید کرتا ہوں،"
+      },
+      {
+        "arabic": "لا أَحُولُ عَنْهَا وَلا أَزُولُ أَبَدًا",
+        "translation": "Whereto I shall never turn away nor ever cease,",
+        "transliteration": "La ahoulu 'anha wa la azoulu abada",
+        "urduTranslation": "جس سے میں نہ کبھی مہر پھیروں گا اور نہ کبھی دست بردار ہوں گا!"
+      },
+      {
+        "arabic": "اللَّهُمَّ اجْعَلْنِي مِنْ أَنْصَارِهِ وَأَعْوَانِهِ، وَالذَّابِّينَ عَنْهُ، وَالْمُسَارِعِينَ إِلَيْهِ فِي قَضَاءِ حَوَائِجِهِ",
+        "translation": "O Allah, make me among his supporters, his helpers, those defending him, and those rushing to him in fulfilling his needs,",
+        "transliteration": "Allahumma ij'alni min ansarihi wa a'wanihi wadh-dhabbina 'anhu wal-musari'ina ilayhi fi qada'i hawa'ijihi",
+        "urduTranslation": "اے اللہ! مجھے ان کے یار و انصار، مددگاروں، ان کا دفاع کرنے والوں اور ان کی حاجتیں پوری کرنے کے لیے دوڑ دھوپ کرنے والوں میں قرار دے،"
+      },
+      {
+        "arabic": "وَالْمُمْتَثِلِينَ لأَوَامِرِهِ، وَالْمُحَامِينَ عَنْهُ، وَالسَّابِقِينَ إِلَى إِرَادَتِهِ، وَالْمُسْتَشْهَدِينَ بَيْنَ يَدَيْهِ",
+        "translation": "And those obeying his commands, those protecting him, those preceding others to fulfill his will, and those martyred in his presence!",
+        "transliteration": "Wal-mumtathilina li-awamirihi wal-muhamina 'anhu was-sabiqina ila iradatihi wal-mustashhadina bayna yadayh",
+        "urduTranslation": "اور ان کے احکام کی تعمیل کرنے والوں، ان کی حمایت کرنے والوں، ان کی مرضی کے آگے سبقت کرنے والوں اور ان کے حضور جامِ شہادت نوش کرنے والوں میں!"
+      },
+      {
+        "arabic": "الْعَجَلَ، الْعَجَلَ؛ يَا مَوْلايَ يَا صَاحِبَ الزَّمَانِ",
+        "translation": "Hasten! Hasten! O my Master, O Master of the Time!",
+        "transliteration": "Al-'ajal al-'ajal ya Mawlay ya Sahiba az-Zaman",
+        "urduTranslation": "جلدی کیجیے، جلدی کیجیے! اے میرے مولا، اے صاحب العصر و الزمانؑ!"
+      }
+    ]
+  },
+  {
+    "id": "sabah",
+    "title": "Dua Sabah",
+    "category": "Daily Supplications",
+    "description": "The beautiful morning supplication of Amir al-Mu'minin (a.s.), composed with gorgeous high eloquence, praising Allah's dawn light and pleading for forgiveness.",
+    "relevance": "Recited as morning prayers for deep tranquility.",
+    "audioUrl": "http://sc.duas.org/sc/Sabah_01.mp3",
+    "lines": [
+      {
+        "arabic": "اللَّهُمَّ يَا مَنْ دَلَعَ لِسَانَ الصَّبَاحِ بِنُطْقِ تَبَلُّجِهِ",
+        "translation": "O Allah, O He who let loose the tongue of morning to talk of its dawning,",
+        "transliteration": "Allahumma ya man dala'a lisanas-sabahi binutqi taballujihi",
+        "urduTranslation": "اے اللہ! اے وہ جس نے صبح کی زبان کو اس کی چمکدار گویائی کے ساتھ اظہار کا اذن دیا،"
+      },
+      {
+        "arabic": "وَسَرَّحَ قِطَعَ اللَّيْلِ الْمُظْلِمِ بِغَيَاهِبِ تَلَجْلُجِهِ",
+        "translation": "And set free the patches of the dark nights in the depth of its deep shadows,",
+        "transliteration": "Wa sarraha qita'al-laylil-mudhlimi bighayahibi talajlujihi",
+        "urduTranslation": "اور تاریک رات کے ٹکڑوں کو گہرے اندھیروں کے سپرد کر دیا،"
+      },
+      {
+        "arabic": "وَأَتْقَنَ صُنْعَ الْفَلَكِ الدَّوَّارِ فِي مَقَادِيرِ تَبَرُّجِهِ",
+        "translation": "And made perfect the creation of the rotating spheres in the measures of their splendor,",
+        "transliteration": "Wa atqana sun'a al-falaki ad-dawwari fi maqadiri tabarrujihi",
+        "urduTranslation": "اور گردش کرنے والے آسمانوں کی تخلیق کو ان کی سجاوٹ کی مقدار کے مطابق محکم کیا،"
+      },
+      {
+        "arabic": "وَشَعْشَعَ ضِيَاءَ الشَّمْسِ بِنُورِ تَأَجُّجِهِ",
+        "translation": "And flashed the brightness of the sun with the blazing light,",
+        "transliteration": "Wa sha'sha'a diya'a ash-shamsi bi-nuri ta'ajjujihi",
+        "urduTranslation": "اور سورج کی روشنی کو دہکتے ہوئے چمکدار نور سے چمکا دیا،"
+      },
+      {
+        "arabic": "يَا مَنْ دَلَّ عَلَى ذَاتِهِ بِذَاتِهِ، وَتَنَزَّهَ عَنْ مُجَانَسَةِ مَخْلُوقَاتِهِ",
+        "translation": "O He who points to His essence by His essence, and is far transcended from matching His creation,",
+        "transliteration": "Ya man dalla 'ala dhatihi bi-dhatihi wa tanzaha 'an mujanasati makhluqatihi",
+        "urduTranslation": "اے وہ جس نے اپنی ذات پر خود اپنی ذات سے دلیل قائم کی، اور اپنی مخلوق کی ہم جنس ہونے سے منزہ و پاک رہا،"
+      },
+      {
+        "arabic": "إِلَهِي قَلْبِي مَحْجُوبٌ، وَنَفْسِي مَعْيُوبٌ، وَعَقْلِي مَغْلُوبٌ",
+        "translation": "O my Lord! My heart is veiled, my soul is blemished, and my intellect is defeated,",
+        "transliteration": "Ilahi qalbi mahjubun wa nafsi ma'yubun wa 'aqli maghlubun",
+        "urduTranslation": "میرے معبود! میرا دل گناہوں کے پردے میں ڈھکا ہے، میرا نفس عیب دار ہے، اور میری عقل مغلوب ہوچکی ہے،"
+      },
+      {
+        "arabic": "وَهَوَائِي غَالِبٌ، وَطَاعَتِي قَلِيلٌ، وَمَعْصِيَتِي كَثِيرٌ",
+        "translation": "My desires are dominant, my obedience is small, and my disobedience is abundant,",
+        "transliteration": "Wa hawa'i ghalibun wa ta'ati qalilun wa ma'siyati kathirun",
+        "urduTranslation": "میری خواہشات مجھ پر غالب ہیں، میری اطاعت نہ ہونے کے برابر ہے، اور میری نافرمانیاں بہت زیادہ ہیں،"
+      },
+      {
+        "arabic": "فَاغْفِرْ لِي يَا غَفَّارُ يَا شَكُورُ يَا رَحِيمُ",
+        "translation": "So forgive me! O All-Forgiving! O All-Appreciative! O All-Merciful!",
+        "transliteration": "Fa-ghfir li ya Ghaffaru ya Shakuru ya Rahim",
+        "urduTranslation": "پس میری مغفرت فرما! اے بڑے غفور، اے قدردان، اے نہایت مہربان پروردگار!"
+      },
+      {
+        "arabic": "بِرحْمَتِكَ يَا أَرْحَمَ الرَّاحِمِينَ",
+        "translation": "By Your Mercy, O most Merciful of the merciful!",
+        "transliteration": "Bi-rahmatika ya arhama ar-rahimin",
+        "urduTranslation": "اپنی ابدی رحمت کے واسطے سے، اے سب سے زیادہ رحم فرمانے والے!"
+      }
+    ]
+  },
+  {
+    "id": "faraj",
+    "title": "Dua Faraj",
+    "category": "Daily Supplications",
+    "description": "The beautiful supplication seeking the speedy relief and appearance of our Master Imam al-Mahdi (a.t.f.s.).",
+    "relevance": "Prays for deliverance, safety, and relief from distress.",
+    "audioUrl": "http://sc.duas.org/sc/Faraj_01.mp3",
+    "lines": [
+      {
+        "arabic": "بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ",
+        "translation": "In the name of Allah, the Beneficent, the Merciful.",
+        "transliteration": "Bismillahir-rahmanir-rahim",
+        "urduTranslation": "شروع کرتا ہوں اللہ کے نام سے جو بڑا مہربان اور نہایت رحم کرنے والا ہے۔"
+      },
+      {
+        "arabic": "إِلَهِي عَظُمَ الْبَلاَءُ وَبَرِحَ الْخَفَاءُ وَانْكَشَفَ الْغِطَاءُ وَانْقَطَعَ الرَّجَاءُ",
+        "translation": "O my God! Terrible was the calamity, and its secret has been revealed, the cover has been removed, and hope is cut off,",
+        "transliteration": "Ilahi 'adhuma al-bala'u wa bariha al-khafa'u wan-kashafa al-ghita'u wan-qata'a ar-raja'",
+        "urduTranslation": "اے میرے معبود! بلائے ناگہانی بڑھ گئی ہے، پوشیدہ بات ظاہر ہوگئی، پردہ ہٹ گیا اور امیدیں ٹوٹ گئیں،"
+      },
+      {
+        "arabic": "وَضَاقَتِ الأَرْضُ وَمُنِعَتِ السَّمَاءُ وَأَنْتَ الْمُسْتَعَانُ وَإِلَيْكَ الْمُشْتَكَى وَعَلَيْكَ الْمُعَوَّلُ فِي الشِّدَّةِ وَالرَّخَاءِ",
+        "translation": "And the earth has shrunk, and heaven's blessings are withheld! You are the helper, and to You is the complaint, and on You is the reliance in hardship and ease!",
+        "transliteration": "Wa daqatil-ardu wa muni'atis-sama'u wa Antal-musta'anu wa ilaykal-mushtaka wa 'alaykal-mu'awwalu fish-shiddati war-rakha'",
+        "urduTranslation": "اور زمین تنگ ہوگئی، آسمان کی برکات بند ہوگئیں، اور تو ہی مددگار ہے اور تجھ ہی سے گلہ ہے، اور سختی و خوشحالی میں تجھی پر بھروسہ ہے!"
+      },
+      {
+        "arabic": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَآلِ مُحَمَّدٍ أُولِي الأَمْرِ الَّذِينَ فَرَضْتَ عَلَيْنَا طَاعَتَهُمْ وَعَرَّفْتَنَا بِذَلِكَ مَنْزِلَتَهُمْ",
+        "translation": "O Allah, send blessings on Muhammad and the progeny of Muhammad, the leaders whose obedience You made binding on us and made known to us their status,",
+        "transliteration": "Allahumma salli 'ala Muhammadin wa ali Muhammadin ulil-amri al-ladhina faradta 'alayna ta'atahum wa 'arraftana bidhalika manzilatahum",
+        "urduTranslation": "اے اللہ! محمدؐ اور ان کی آلؑ پر درود نازل فرما جو صاحبانِ امر ہیں جن کی اطاعت تو نے ہم پر واجب کی اور اس کے سبب ہمیں ان کے مرتبہِ بلند کی پہچان کروائی،"
+      },
+      {
+        "arabic": "فَفَرِّجْ عَنَّا بِحَقِّهِمْ فَرَجاً عَاجِلاً كَلَمْحِ الْبَصَرِ أَوْ هُوَ أَقْرَبُ",
+        "translation": "So relieve us, for their sake, with a speedy and close relief, like the blink of an eye or even closer!",
+        "transliteration": "Fa-farrij 'anna bi-haqqihim farajan 'ajilan ka-lamhil-basari aw huwa aqrab",
+        "urduTranslation": "پس ہمیں کشادگی عطا کر ان کے حق کے واسطے سے، ایسی جلدی جیسے آنکھ جھپکنا یا اس سے بھی قریب تر!"
+      },
+      {
+        "arabic": "يَا مُحَمَّدُ يَا عَلِيُّ يَا عَلِيُّ يَا مُحَمَّدُ اكْفِيَانِي فَإِنَّكُمَا كَافِيَانِ وَانْصُرَانِي فَإِنَّكُمَا نَاصِرَانِ",
+        "translation": "O Muhammad, O Ali! O Ali, O Muhammad! Protect me, for indeed you both are sufficient protectors, and help me, for indeed you both are helpers!",
+        "transliteration": "Ya Muhammadu ya 'Aliyyu ya 'Aliyyu ya Muhammadu ikfiyani fa-innakuma kafiyani wan-surani fa-innakuma nasiran",
+        "urduTranslation": "اے محمدؐ! اے علیؑ! اے علیؑ! اے محمدؐ! میری کفایت کیجیے کہ بے شک آپ دونوں کافی ہیں، اور میری مدد فرمائیے کہ بے شک آپ دونوں ہی مددگار ہیں!"
+      },
+      {
+        "arabic": "يَا مَوْلاَنَا يَا صَاحِبَ الزَّمَانِ الْغَوْثَ الْغَوْثَ الْغَوْثَ، أَدْرِكْنِي أَدْرِكْنِي أَدْرِكْنِي",
+        "translation": "O our Master! O Patron of the Age! Help! Help! Help! Reach me! Reach me! Reach me!",
+        "transliteration": "Ya Mawlana ya Sahiba al-Zaman al-ghawtha al-ghawtha al-ghawth, adrikni adrikni adrikni",
+        "urduTranslation": "اے ہمارے آقا، اے صاحب الزمانؑ! فریاد ہے، فریاد ہے، فریاد ہے! میری مدد کو پہنچیں، میری مدد کو پہنچیں، میری مدد کو پہنچیں!"
+      },
+      {
+        "arabic": "السَّاعَةَ السَّاعَةَ السَّاعَةَ، الْعَجَلَ الْعَجَلَ الْعَجَلَ، يَا أَرْحَمَ الرَّاحِمِينَ بِحَقِّ مُحَمَّدٍ وَآلِهِ الطَّاهِرِينَ",
+        "translation": "This very hour! This very hour! This very hour! Hasten! Hasten! Hasten! O most Merciful of the merciful, for the sake of Muhammad and his pure progeny!",
+        "transliteration": "As-sa'ata as-sa'ata as-sa'ata al-'ajala al-'ajala al-'ajala ya arhama ar-rahimina bi-haqqi Muhammadin wa alihi at-tahirin",
+        "urduTranslation": "اسی گھڑی، اسی گھڑی، اسی گھڑی! جلدی کیجیے، جلدی کیجیے، جلدی کیجیے! اے اور زیادہ رحم کرنے والے، محمدؐ اور ان کی آلِ پاک کے صدقے!"
+      }
+    ]
+  }
+]
