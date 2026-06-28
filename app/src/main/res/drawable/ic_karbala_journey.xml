@@ -22,12 +22,11 @@
     <path
         android:fillColor="#000000"
         android:pathData="M12,7h5l-1.5,2.5L17.5,12H12z" />
-    <!-- Dotted path -->
+    <!-- Dotted path replaced with solid curve -->
     <path
         android:fillColor="#00000000"
         android:strokeColor="#000000"
-        android:strokeWidth="0.6"
+        android:strokeWidth="0.5"
         android:strokeLineCap="round"
-        android:strokeDashArray="1,1"
         android:pathData="M6,18c2,-2 4,-4 6,-4s4,2 6,4" />
 </vector>
