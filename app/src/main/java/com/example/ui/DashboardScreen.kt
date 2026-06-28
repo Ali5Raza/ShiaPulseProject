@@ -435,7 +435,12 @@ fun DashboardScreen(
                                                     Color.White.copy(alpha = 0.12f)
                                                 )
                                             )
-                                            else Color.White.copy(alpha = 0.08f)
+                                            else Brush.verticalGradient(
+                                                listOf(
+                                                    Color.White.copy(alpha = 0.08f),
+                                                    Color.White.copy(alpha = 0.08f)
+                                                )
+                                            )
                                         )
                                         .border(
                                             width = if (activeMatch) 1.5.dp else 0.8.dp,
