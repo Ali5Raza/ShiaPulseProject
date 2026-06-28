@@ -12,6 +12,7 @@ import androidx.compose.foundation.BorderStroke
 import androidx.compose.foundation.background
 import androidx.compose.foundation.border
 import androidx.compose.foundation.clickable
+import androidx.compose.foundation.interaction.MutableInteractionSource
 import androidx.compose.foundation.horizontalScroll
 import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.lazy.LazyColumn
@@ -29,6 +30,7 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.clip
 import androidx.compose.ui.draw.drawBehind
+import androidx.compose.ui.graphics.graphicsLayer
 import androidx.compose.ui.graphics.Brush
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.graphics.StrokeCap
@@ -59,6 +61,7 @@ import androidx.compose.ui.draw.alpha
 import com.example.R
 import com.example.data.MasoomeenData
 import com.example.data.MasoomDetails
+import com.example.ui.components.fadeInSlideUp
 
 import kotlinx.coroutines.launch
 import kotlinx.coroutines.CoroutineScope
@@ -426,13 +429,25 @@ fun DashboardScreen(
                                         .weight(1f)
                                         .clip(RoundedCornerShape(16.dp))
                                         .background(
-                                            if (activeMatch) Color.White.copy(alpha = 0.25f)
-                                            else Color.White.copy(alpha = 0.1f)
+                                            if (activeMatch) Brush.verticalGradient(
+                                                listOf(
+                                                    Color.White.copy(alpha = 0.30f),
+                                                    Color.White.copy(alpha = 0.12f)
+                                                )
+                                            )
+                                            else Color.White.copy(alpha = 0.08f)
                                         )
                                         .border(
-                                            width = if (activeMatch) 1.5.dp else 1.dp,
-                                            color = if (activeMatch) Color(0xFFFFD54F) else Color.White.copy(alpha = 0.15f),
+                                            width = if (activeMatch) 1.5.dp else 0.8.dp,
+                                            color = if (activeMatch) Color(0xFFFFD54F) else Color.White.copy(alpha = 0.12f),
                                             shape = RoundedCornerShape(16.dp)
+                                        )
+                                        .then(
+                                            if (activeMatch) Modifier.graphicsLayer {
+                                                shadowElevation = 6f
+                                                ambientShadowColor = Color(0xFFFFD54F).copy(alpha = 0.25f)
+                                                spotShadowColor = Color.Transparent
+                                            } else Modifier
                                         )
                                         .padding(vertical = 12.dp, horizontal = 4.dp),
                                     contentAlignment = Alignment.Center
@@ -707,7 +722,9 @@ fun DashboardScreen(
 
                             Column(
                                 verticalArrangement = Arrangement.spacedBy(14.dp),
-                                modifier = Modifier.fillMaxWidth()
+                                modifier = Modifier
+                                    .fillMaxWidth()
+                                    .fadeInSlideUp(delayMillis = 100, durationMillis = 500)
                             ) {
                                 if (selectedTab == 1) { // Worship & Spiritual
                                     ResponsiveTileGrid { itemModifier ->
@@ -724,14 +741,16 @@ fun DashboardScreen(
                                             gradient = Brush.linearGradient(listOf(Color(0xFF009688), Color(0xFF00796B))),
                                             icon = Icons.Default.Book,
                                             modifier = itemModifier.testTag("ziyarats_dashboard_tile"),
-                                            onClick = { activeOverlay = "ziyarats" }
+                                            onClick = { activeOverlay = "ziyarats" },
+                                            customIconResId = R.drawable.ic_ziyarat_shrine
                                         )
                                         GridPlatformTile(
                                             title = if (currentLang == "ur") "زیارات کا نقشہ" else if (currentLang == "ar") "خريطة الزيارات" else "Ziyarats Map",
                                             gradient = Brush.linearGradient(listOf(Color(0xFF4F46E5), Color(0xFF10B981))),
                                             icon = Icons.Default.LocationOn,
                                             modifier = itemModifier.testTag("ziyarats_map_dashboard_tile"),
-                                            onClick = { activeOverlay = "ziyarats_map" }
+                                            onClick = { activeOverlay = "ziyarats_map" },
+                                            customIconResId = R.drawable.ic_map_islamic
                                         )
                                         GridPlatformTile(
                                             title = qiblaBtnTitle,
@@ -746,14 +765,16 @@ fun DashboardScreen(
                                             gradient = Brush.linearGradient(listOf(Color(0xFF0575E6), Color(0xFF00F260))),
                                             icon = Icons.Default.Check,
                                             modifier = itemModifier,
-                                            onClick = { activeOverlay = "tracker" }
+                                            onClick = { activeOverlay = "tracker" },
+                                            customIconResId = R.drawable.ic_daily_tracker
                                         )
                                         GridPlatformTile(
                                             title = ramadanTrackerBtnTitle,
                                             gradient = Brush.linearGradient(listOf(Color(0xFFFFB300), Color(0xFFFF3D00))),
                                             icon = Icons.Default.Star,
                                             modifier = itemModifier.testTag("ramadan_tracker_tile"),
-                                            onClick = { activeOverlay = "ramadan_tracker" }
+                                            onClick = { activeOverlay = "ramadan_tracker" },
+                                            customIconResId = R.drawable.ic_ramadan_lantern
                                         )
                                         GridPlatformTile(
                                             title = tasbeehBtnTitle,
@@ -761,21 +782,23 @@ fun DashboardScreen(
                                             icon = Icons.Default.Refresh,
                                             modifier = itemModifier,
                                             onClick = { activeOverlay = "tasbeeh" },
-                                            customIconResId = R.drawable.ic_tasbeeh_custom
+                                            customIconResId = R.drawable.ic_tasbeeh_beads
                                         )
                                         GridPlatformTile(
                                             title = aiChatBtnTitle,
                                             gradient = Brush.linearGradient(listOf(Color(0xFF673AB7), Color(0xFF3F51B5))),
                                             icon = Icons.Default.Star,
                                             modifier = itemModifier,
-                                            onClick = { activeOverlay = "aichat" }
+                                            onClick = { activeOverlay = "aichat" },
+                                            customIconResId = R.drawable.ic_ai_islamic
                                         )
                                         GridPlatformTile(
                                             title = if (currentLang == "ur") "محفوظ شدہ" else "Saved Items",
                                             gradient = Brush.linearGradient(listOf(Color(0xFFE94057), Color(0xFFF27121))),
                                             icon = Icons.Default.FavoriteBorder,
                                             modifier = itemModifier,
-                                            onClick = { activeOverlay = "saved_bookmarks" }
+                                            onClick = { activeOverlay = "saved_bookmarks" },
+                                            customIconResId = R.drawable.ic_saved_bookmark
                                         )
                                     }
                                 } else if (selectedTab == 2) { // Calculations & Rules
@@ -785,35 +808,40 @@ fun DashboardScreen(
                                             gradient = Brush.linearGradient(listOf(Color(0xFF00C6FF), Color(0xFF0072FF))),
                                             icon = Icons.Default.Payments,
                                             modifier = itemModifier,
-                                            onClick = { activeOverlay = "calc_zakat" }
+                                            onClick = { activeOverlay = "calc_zakat" },
+                                            customIconResId = R.drawable.ic_zakat_coins
                                         )
                                         GridPlatformTile(
                                             title = if (currentLang == "ur") "خمس" else if (currentLang == "ar") "خمس" else "Khums",
                                             gradient = Brush.linearGradient(listOf(Color(0xFFFDB99B), Color(0xFFCF8BF3))),
                                             icon = Icons.Default.AccountBalanceWallet,
                                             modifier = itemModifier,
-                                            onClick = { activeOverlay = "calc_khums" }
+                                            onClick = { activeOverlay = "calc_khums" },
+                                            customIconResId = R.drawable.ic_khums_hand
                                         )
                                         GridPlatformTile(
                                             title = if (currentLang == "ur") "فطرانہ" else if (currentLang == "ar") "فطرة" else "Fitrana",
                                             gradient = Brush.linearGradient(listOf(Color(0xFF45B649), Color(0xFFDCE35B))),
                                             icon = Icons.Default.Calculate,
                                             modifier = itemModifier,
-                                            onClick = { activeOverlay = "calc_fitrana" }
+                                            onClick = { activeOverlay = "calc_fitrana" },
+                                            customIconResId = R.drawable.ic_fitrana_heart
                                         )
                                         GridPlatformTile(
                                             title = if (currentLang == "ur") "مسافر" else if (currentLang == "ar") "مسافر" else "Musafir",
                                             gradient = Brush.linearGradient(listOf(Color(0xFF8360C3), Color(0xFF2EBF91))),
                                             icon = Icons.Default.AirplanemodeActive,
                                             modifier = itemModifier,
-                                            onClick = { activeOverlay = "calc_musafir" }
+                                            onClick = { activeOverlay = "calc_musafir" },
+                                            customIconResId = R.drawable.ic_musafir_travel
                                         )
                                         GridPlatformTile(
                                             title = if (currentLang == "ur") "میراث" else if (currentLang == "ar") "ميراث" else "Inheritance",
                                             gradient = Brush.linearGradient(listOf(Color(0xFFE55D87), Color(0xFF5FC3E4))),
                                             icon = Icons.Default.FamilyRestroom,
                                             modifier = itemModifier,
-                                            onClick = { activeOverlay = "calc_inheritance" }
+                                            onClick = { activeOverlay = "calc_inheritance" },
+                                            customIconResId = R.drawable.ic_inheritance_tree
                                         )
 
                                         GridPlatformTile(
@@ -821,21 +849,24 @@ fun DashboardScreen(
                                             gradient = Brush.linearGradient(listOf(Color(0xFFF77737), Color(0xFFF43F5E))),
                                             icon = Icons.Default.DateRange,
                                             modifier = itemModifier,
-                                            onClick = { activeOverlay = "calc_date" }
+                                            onClick = { activeOverlay = "calc_date" },
+                                            customIconResId = R.drawable.ic_date_convert
                                         )
                                         GridPlatformTile(
                                             title = if (currentLang == "ur") "عشر" else "Ushar",
                                             gradient = Brush.linearGradient(listOf(Color(0xFF11998e), Color(0xFF38ef7d))),
                                             icon = Icons.Default.Grass,
                                             modifier = itemModifier,
-                                            onClick = { activeOverlay = "calc_ushar" }
+                                            onClick = { activeOverlay = "calc_ushar" },
+                                            customIconResId = R.drawable.ic_ushar_wheat
                                         )
                                         GridPlatformTile(
                                             title = if (currentLang == "ur") "مہرِ فاطمیؑ" else "Mehr-e-Fatimi",
                                             gradient = Brush.linearGradient(listOf(Color(0xFFFFD700), Color(0xFFFFA500))),
                                             icon = Icons.Default.BrightnessHigh,
                                             modifier = itemModifier,
-                                            onClick = { activeOverlay = "calc_mehr" }
+                                            onClick = { activeOverlay = "calc_mehr" },
+                                            customIconResId = R.drawable.ic_mehr_ring
                                         )
                                     }
                                 } else if (selectedTab == 3) { // Knowledge & Reference
@@ -845,14 +876,16 @@ fun DashboardScreen(
                                             gradient = Brush.linearGradient(listOf(Color(0xFFE65100), Color(0xFFF57C00))),
                                             icon = Icons.Default.Star,
                                             modifier = itemModifier,
-                                            onClick = { activeOverlay = "masoomeen" }
+                                            onClick = { activeOverlay = "masoomeen" },
+                                            customIconResId = R.drawable.ic_masoomeen_star
                                         )
                                         GridPlatformTile(
                                             title = calendarBtnTitle,
                                             gradient = Brush.linearGradient(listOf(Color(0xFFF77737), Color(0xFFF43F5E))),
                                             icon = Icons.Default.DateRange,
                                             modifier = itemModifier,
-                                            onClick = { activeOverlay = "calendar" }
+                                            onClick = { activeOverlay = "calendar" },
+                                            customIconResId = R.drawable.ic_islamic_calendar
                                         )
                                         GridPlatformTile(
                                             title = namesOfAllahBtnTitle,
@@ -860,28 +893,31 @@ fun DashboardScreen(
                                             icon = Icons.Default.Favorite,
                                             modifier = itemModifier,
                                             onClick = { activeOverlay = "names_of_allah" },
-                                            customIconResId = R.drawable.ic_knowledge_custom
+                                            customIconResId = R.drawable.ic_99_names
                                         )
                                         GridPlatformTile(
                                             title = namesOfMuhammadBtnTitle,
                                             gradient = Brush.linearGradient(listOf(Color(0xFFFFB300), Color(0xFFFF6F00))),
                                             icon = Icons.Default.AccountCircle,
                                             modifier = itemModifier,
-                                            onClick = { activeOverlay = "names_of_muhammad" }
+                                            onClick = { activeOverlay = "names_of_muhammad" },
+                                            customIconResId = R.drawable.ic_names_muhammad
                                         )
                                         GridPlatformTile(
                                             title = if (currentLang == "ur") "کربلا کا نقشہ و تاریخی سفر" else "Karbala Journey Map",
                                             gradient = Brush.linearGradient(listOf(Color(0xFFC0392B), Color(0xFF8E44AD))),
                                             icon = Icons.Default.Map,
                                             modifier = itemModifier,
-                                            onClick = { activeOverlay = "karbala_map" }
+                                            onClick = { activeOverlay = "karbala_map" },
+                                            customIconResId = R.drawable.ic_karbala_journey
                                         )
                                         GridPlatformTile(
                                             title = if (currentLang == "ur") "حج و عمرہ" else "Hajj & Umrah",
                                             gradient = Brush.linearGradient(listOf(Color(0xFF8E2DE2), Color(0xFF4A00E0))),
                                             icon = Icons.Default.EventNote,
                                             modifier = itemModifier,
-                                            onClick = { activeOverlay = "calc_hajj" }
+                                            onClick = { activeOverlay = "calc_hajj" },
+                                            customIconResId = R.drawable.ic_hajj_kaaba
                                         )
 
                                     }
@@ -1172,61 +1208,35 @@ fun DashboardScreen(
                 )
             }
 
-            // Bottom Navigation Bar
+            // Bottom Navigation Bar — Premium Glassmorphic Floating Bar
             Box(
                 modifier = Modifier
                     .align(Alignment.BottomCenter)
                     .fillMaxWidth()
             ) {
-                NavigationBar(
-                    containerColor = MaterialTheme.colorScheme.surface,
-                    tonalElevation = 8.dp
-                ) {
-                    NavigationBarItem(
-                        selected = selectedTab == 0,
-                        onClick = { selectedTab = 0 },
-                        icon = { Icon(Icons.Default.Home, contentDescription = "Home") },
-                        label = { Text(if (currentLang == "ur") "ہوم" else if (currentLang == "ar") "الرئيسية" else "Home", fontWeight = FontWeight.Bold, maxLines = 1) },
-                        colors = NavigationBarItemDefaults.colors(
-                            selectedIconColor = MaterialTheme.colorScheme.primary,
-                            selectedTextColor = MaterialTheme.colorScheme.primary,
-                            indicatorColor = MaterialTheme.colorScheme.primaryContainer
+                com.example.ui.components.BottomNavBar(
+                    items = listOf(
+                        com.example.ui.components.NavigationTabItem(
+                            label = if (currentLang == "ur") "ہوم" else if (currentLang == "ar") "الرئيسية" else "Home",
+                            icon = Icons.Default.Home
+                        ),
+                        com.example.ui.components.NavigationTabItem(
+                            label = if (currentLang == "ur") "عبادات" else if (currentLang == "ar") "العبادات" else "Worship",
+                            icon = Icons.Default.Favorite
+                        ),
+                        com.example.ui.components.NavigationTabItem(
+                            label = if (currentLang == "ur") "حسابات" else if (currentLang == "ar") "الحسابات" else "Calculations",
+                            icon = Icons.Default.Calculate
+                        ),
+                        com.example.ui.components.NavigationTabItem(
+                            label = if (currentLang == "ur") "معلومات" else if (currentLang == "ar") "المعرفة" else "Knowledge",
+                            icon = Icons.Default.Book
                         )
-                    )
-                    NavigationBarItem(
-                        selected = selectedTab == 1,
-                        onClick = { selectedTab = 1 },
-                        icon = { Icon(Icons.Default.Favorite, contentDescription = "Worship") },
-                        label = { Text(if (currentLang == "ur") "عبادات" else if (currentLang == "ar") "العبادات" else "Worship", fontWeight = FontWeight.Bold, maxLines = 1) },
-                        colors = NavigationBarItemDefaults.colors(
-                            selectedIconColor = MaterialTheme.colorScheme.primary,
-                            selectedTextColor = MaterialTheme.colorScheme.primary,
-                            indicatorColor = MaterialTheme.colorScheme.primaryContainer
-                        )
-                    )
-                    NavigationBarItem(
-                        selected = selectedTab == 2,
-                        onClick = { selectedTab = 2 },
-                        icon = { Icon(Icons.Default.Calculate, contentDescription = "Calculations") },
-                        label = { Text(if (currentLang == "ur") "حسابات" else if (currentLang == "ar") "الحسابات" else "Calculations", fontWeight = FontWeight.Bold, maxLines = 1) },
-                        colors = NavigationBarItemDefaults.colors(
-                            selectedIconColor = MaterialTheme.colorScheme.primary,
-                            selectedTextColor = MaterialTheme.colorScheme.primary,
-                            indicatorColor = MaterialTheme.colorScheme.primaryContainer
-                        )
-                    )
-                    NavigationBarItem(
-                        selected = selectedTab == 3,
-                        onClick = { selectedTab = 3 },
-                        icon = { Icon(Icons.Default.Book, contentDescription = "Knowledge") },
-                        label = { Text(if (currentLang == "ur") "معلومات" else if (currentLang == "ar") "المعرفة" else "Knowledge", fontWeight = FontWeight.Bold, maxLines = 1) },
-                        colors = NavigationBarItemDefaults.colors(
-                            selectedIconColor = MaterialTheme.colorScheme.primary,
-                            selectedTextColor = MaterialTheme.colorScheme.primary,
-                            indicatorColor = MaterialTheme.colorScheme.primaryContainer
-                        )
-                    )
-                }
+                    ),
+                    selectedTabIndex = selectedTab,
+                    onTabSelected = { selectedTab = it },
+                    modifier = Modifier.padding(bottom = navBarsInset)
+                )
             }
 
             // Occasion celebration or mourning falling animation overlays
@@ -3220,7 +3230,7 @@ fun DashboardScreen(
     }
 }
 
-// Custom Grid Platform Composable Tile
+// Custom Grid Platform Composable Tile — Premium Glassmorphic Redesign
 @Composable
 fun GridPlatformTile(
     title: String,
@@ -3230,67 +3240,157 @@ fun GridPlatformTile(
     modifier: Modifier = Modifier,
     customIconResId: Int? = null
 ) {
-    BoxWithConstraints(modifier = modifier.aspectRatio(0.95f)) {
+    // Press scale animation
+    val interactionSource = remember { MutableInteractionSource() }
+    val isPressed by interactionSource.collectIsPressedAsState()
+    val scale by animateFloatAsState(
+        targetValue = if (isPressed) 0.94f else 1f,
+        animationSpec = spring(dampingRatio = 0.4f, stiffness = 400f),
+        label = "TilePressScale"
+    )
+
+    BoxWithConstraints(modifier = modifier.aspectRatio(0.88f)) {
         val isWide = maxWidth > 110.dp
-        val boxSize = if (isWide) 56.dp else 38.dp
-        val iconSize = if (isWide) 28.dp else 18.dp
-        val textSize = if (isWide) 14.sp else 10.5.sp
-        val titleLineHeight = if (isWide) 16.sp else 12.sp
-        val outerPadding = if (isWide) 8.dp else 4.dp
-        val itemSpacing = if (isWide) 12.dp else 4.dp
-        val iconPadding = if (isWide) 12.dp else 8.dp
+        val iconBoxSize = if (isWide) 52.dp else 38.dp
+        val iconInnerSize = if (isWide) 30.dp else 22.dp
+        val textSize = if (isWide) 11.5.sp else 9.5.sp
+        val titleLineHeight = if (isWide) 14.sp else 11.sp
+        val cardPadding = if (isWide) 10.dp else 6.dp
+        val cornerRadius = if (isWide) 22.dp else 16.dp
+
+        // Extract gradient start color for dynamic theming
+        val gradientStartColor = (gradient as? Brush.linearGradient)?.colors?.firstOrNull() ?: MaterialTheme.colorScheme.primary
 
         Card(
-            shape = RoundedCornerShape(14.dp),
-            colors = CardDefaults.cardColors(containerColor = MaterialTheme.colorScheme.surfaceVariant.copy(alpha=0.5f)),
-            elevation = CardDefaults.cardElevation(defaultElevation = 0.dp),
+            shape = RoundedCornerShape(cornerRadius),
+            colors = CardDefaults.cardColors(containerColor = Color.Transparent),
+            elevation = CardDefaults.cardElevation(defaultElevation = 6.dp),
             modifier = Modifier
                 .fillMaxSize()
-                .clickable(onClick = onClick)
+                .graphicsLayer {
+                    scaleX = scale
+                    scaleY = scale
+                    shadowElevation = 8f
+                    ambientShadowColor = gradientStartColor.copy(alpha = 0.3f)
+                    spotShadowColor = gradientStartColor.copy(alpha = 0.2f)
+                }
+                .clickable(
+                    interactionSource = interactionSource,
+                    indication = ripple(
+                        bounded = true,
+                        color = Color.White.copy(alpha = 0.15f)
+                    ),
+                    onClick = onClick
+                )
         ) {
-            Column(
+            Box(
                 modifier = Modifier
                     .fillMaxSize()
-                    .padding(outerPadding),
-                horizontalAlignment = Alignment.CenterHorizontally,
-                verticalArrangement = Arrangement.Center
+                    .background(
+                        brush = gradient,
+                        shape = RoundedCornerShape(cornerRadius)
+                    )
             ) {
+                // Subtle light overlay for glass effect
                 Box(
                     modifier = Modifier
-                        .size(boxSize)
-                        .clip(RoundedCornerShape(10.dp))
-                        .background(gradient)
-                        .let { if (customIconResId == null) it.padding(iconPadding) else it },
-                    contentAlignment = Alignment.Center
-                ) {
-                    if (customIconResId != null) {
-                        Image(
-                            painter = painterResource(id = customIconResId),
-                            contentDescription = title,
-                            contentScale = ContentScale.Fit,
-                            modifier = Modifier.fillMaxSize()
+                        .fillMaxSize()
+                        .background(
+                            brush = Brush.verticalGradient(
+                                colors = listOf(
+                                    Color.White.copy(alpha = 0.18f),
+                                    Color.White.copy(alpha = 0.02f),
+                                    Color.Black.copy(alpha = 0.10f)
+                                )
+                            ),
+                            shape = RoundedCornerShape(cornerRadius)
                         )
-                    } else {
-                        Icon(
-                            imageVector = icon,
-                            contentDescription = title,
-                            tint = Color.White,
-                            modifier = Modifier.size(iconSize)
-                        )
-                    }
-                }
-                Spacer(modifier = Modifier.height(itemSpacing))
-                Text(
-                    text = title,
-                    style = MaterialTheme.typography.labelSmall.copy(fontSize = textSize),
-                    fontFamily = FontFamily.SansSerif,
-                    fontWeight = FontWeight.Bold,
-                    color = MaterialTheme.colorScheme.onSurface,
-                    maxLines = 2,
-                    textAlign = TextAlign.Center,
-                    lineHeight = titleLineHeight,
-                    overflow = TextOverflow.Ellipsis
                 )
+
+                // Shimmer highlight on top-left
+                Box(
+                    modifier = Modifier
+                        .align(Alignment.TopStart)
+                        .fillMaxWidth(0.6f)
+                        .fillMaxHeight(0.35f)
+                        .background(
+                            brush = Brush.linearGradient(
+                                colors = listOf(
+                                    Color.White.copy(alpha = 0.15f),
+                                    Color.Transparent
+                                )
+                            ),
+                            shape = RoundedCornerShape(
+                                topStart = cornerRadius,
+                                topEnd = 40.dp,
+                                bottomEnd = 40.dp,
+                                bottomStart = cornerRadius
+                            )
+                        )
+                )
+
+                // Content
+                Column(
+                    modifier = Modifier
+                        .fillMaxSize()
+                        .padding(cardPadding),
+                    horizontalAlignment = Alignment.CenterHorizontally,
+                    verticalArrangement = Arrangement.Center
+                ) {
+                    // Icon container with frosted glass circle
+                    Box(
+                        modifier = Modifier
+                            .size(iconBoxSize)
+                            .background(
+                                color = Color.White.copy(alpha = 0.20f),
+                                shape = CircleShape
+                            )
+                            .border(
+                                width = 1.dp,
+                                color = Color.White.copy(alpha = 0.30f),
+                                shape = CircleShape
+                            ),
+                        contentAlignment = Alignment.Center
+                    ) {
+                        if (customIconResId != null) {
+                            Icon(
+                                painter = painterResource(id = customIconResId),
+                                contentDescription = title,
+                                tint = Color.White,
+                                modifier = Modifier.size(iconInnerSize)
+                            )
+                        } else {
+                            Icon(
+                                imageVector = icon,
+                                contentDescription = title,
+                                tint = Color.White,
+                                modifier = Modifier.size(iconInnerSize)
+                            )
+                        }
+                    }
+
+                    Spacer(modifier = Modifier.height(if (isWide) 8.dp else 5.dp))
+
+                    // Title with text shadow for readability
+                    Text(
+                        text = title,
+                        style = MaterialTheme.typography.labelSmall.copy(
+                            fontSize = textSize,
+                            lineHeight = titleLineHeight
+                        ),
+                        fontFamily = FontFamily.SansSerif,
+                        fontWeight = FontWeight.Bold,
+                        color = Color.White,
+                        maxLines = 2,
+                        textAlign = TextAlign.Center,
+                        overflow = TextOverflow.Ellipsis,
+                        modifier = Modifier
+                            .graphicsLayer {
+                                shadowElevation = 2f
+                                ambientShadowColor = Color.Black.copy(alpha = 0.5f)
+                            }
+                    )
+                }
             }
         }
     }
@@ -3303,8 +3403,8 @@ fun ResponsiveTileGrid(
     content: @Composable (tileModifier: Modifier) -> Unit
 ) {
     BoxWithConstraints(modifier = modifier.fillMaxWidth()) {
-        val columns = if (maxWidth > 800.dp) 6 else if (maxWidth > 600.dp) 5 else 4
-        val spacing = 8.dp
+        val columns = if (maxWidth > 800.dp) 5 else if (maxWidth > 600.dp) 4 else 3
+        val spacing = 10.dp
         val tileWidth = ((maxWidth - (spacing * (columns - 1))) / columns) - 0.5.dp
 
         androidx.compose.foundation.layout.FlowRow(

@@ -1,0 +1,30 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Kaaba cube shape -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M12,2L2,8v8l10,6 10,-6V8L12,2z" />
+    <!-- Kiswa (cover) pattern - horizontal lines -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#000000"
+        android:strokeWidth="0.5"
+        android:pathData="M2,8h20M2,12h20M2,16h20" />
+    <!-- Belt stripe (Hajr-e-Aswad area) -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#000000"
+        android:strokeWidth="1.2"
+        android:pathData="M2,10h20" />
+    <!-- Maqam Ibrahim hint -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M1,18l2,4 2,-4z" />
+    <!-- Crescent on top -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M12,0.5c-0.4,0 -0.8,0.2 -0.8,0.6 0,0.4 0.4,0.6 0.8,0.6 -0.6,0 -1,-0.3 -1,-0.8 0,-0.3 0.4,-0.6 1,-0.4z" />
+</vector>

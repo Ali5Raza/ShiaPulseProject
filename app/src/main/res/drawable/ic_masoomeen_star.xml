@@ -1,0 +1,23 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- 8-pointed Islamic star (Rub el Hizb) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M12,1l1.5,3.5L17,6l-3.5,1.5L12,11l-1.5,-3.5L7,6l3.5,-1.5z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M12,13l1.5,3.5L17,18l-3.5,1.5L12,23l-1.5,-3.5L7,18l3.5,-1.5z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M1,12l3.5,-1.5L6,7l1.5,3.5L11,12l-3.5,1.5L6,17l-1.5,-3.5z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M13,12l3.5,-1.5L18,7l1.5,3.5L23,12l-3.5,1.5L18,17l-1.5,-3.5z" />
+    <!-- Center glow circle -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M12,9.5m-2.5,0a2.5,2.5 0,1 1,5 0a2.5,2.5 0,1 1,-5 0" />
+</vector>
